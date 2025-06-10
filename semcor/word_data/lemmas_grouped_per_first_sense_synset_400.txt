@@ -1,0 +1,1 @@
+Synset('make.v.01'): ["Lemma('make.v.01.make')", "Lemma('make.v.02.make')", "Lemma('make.v.01.do')"]

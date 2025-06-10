@@ -1,0 +1,100 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 29
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.8941605839416058
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.8241758241758241
+
+There are 16 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.8801024556159973
+Average distance of CORRECT embeddings: 0.8746337890625
+		|
+		|
+		1 - Dist: 0.875587522983551 He was invulnerable to attack , but he could be handled , Mickey knew , if he could be brought to make the first move .
+		|
+		2 - Dist: 0.8932746052742004 Had there been another `` brain '' ship at the Base at the moment , Helva would have been guided to make the first move .
+		|
+		3 - Dist: 0.8882643580436707 It is possible to find out in which categories most of her correct statements fall , and where she makes most of her `` hits '' .
+		|
+		4 - Dist: 0.8945162296295166 An interested sitter may think the sensitive has made a `` hit '' , describing something accurately for him , but can he really be sure that another sitter , hearing the same statement , would not apply it subjectively to his own circumstances ?
+		|
+		5 - Dist: 0.900914192199707 What was missing in the Governor 's argument , as in so many similar arguments , was a premise which would enable one to make the ethical leap from what might be militarily desirable to what is right .
+		|
+		6 - Dist: 0.8915343880653381 Alla Sizova , who seems to have made a special hit in the East , was delightful as the lady Bluebird and her partner , Yuri Soloviev , was wonderfully virile , acrobatic , and poetic all at the same time , in a tradition not unlike that of Nijinsky .
+		|
+		7 - Dist: 0.9112670421600342 So , while we properly inveigh against the new poisoning , history is not likely to justify the pose of righteousness which some in the West were so quick to assume when Mr. Khrushchev made his cynical and irresponsible threat .
+		|
+		8 - Dist: 0.8746408820152283 Yet it is plainly time to make a start , and to be effective the first move should be highly dramatic , without being fanatical .
+		|
+		9 - Dist: 0.7988408207893372 Some chaps that know an area well can make their way by landmarks - a tree here , a wash here , a boulder there .
+		|
+		10 - Dist: 0.8768435120582581 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		11 - Dist: 0.8854548931121826 The Living Room has another scoop : Jane Russell will make one of her rare night club singing appearances there , opening Jan. 22 .
+		|
+		12 - Dist: 0.8734339475631714 Anticipated heavy traffic along the Skyline Drive failed to materialize yesterday , park rangers said , and those who made the trip got a leisurely view of the fall colors through skies swept clear of haze .
+		|
+		13 - Dist: 0.838760495185852 By the time I 'd made it he was gone .
+		|
+		14 - Dist: 0.8685420751571655 I was held up a bit trying to make a left turn .
+		|
+		15 - Dist: 0.9069477319717407 Some gracefully soared from the backs of their wounded , screaming mounts to make one last defiant charge before the lead split their hearts or tore their guts .
+		|
+		16 - Dist: 0.9028167128562927 The task force might make a start in Washington with Republican congressional leaders .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.8452380952380952
+
+There are 13 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.8330004215240479
+Average distance of CORRECT embeddings: 0.8692597150802612
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7812831401824951 If then any man is in Christ , he is a new creature [ literally , `` He is a new creation '' ] , the former things have passed away ; behold , they are made new !
+		|
+		2 - Dist: 0.7770567536354065 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		3 - Dist: 0.8336802124977112 There was a fixed grin on Roberts ' face , made hideous by the swollen nose and the smeared blood .
+		|
+		4 - Dist: 0.798355758190155 But Theodore Parker , commencing his mission to the world-at-large , disguised as the minister of a `` twenty-eighth Congregational Church '' which bore no resemblance to the Congregational polities descended from the founders ( among which were still the Unitarian churches ) , made explicit from the beginning that the conflict between him and the Hunkerish society was not something which could be evaporated into a genteel difference about clerical decorum .
+		|
+		5 - Dist: 0.766828715801239 Speakers declared that Protestants often make use of it , if , perhaps , by some other name .
+		|
+		6 - Dist: 0.7985589504241943 Merchant ships illuminated in the light of the flares , made to seem like stones imbedded in a lake of polished mud , were impossible to miss .
+		|
+		7 - Dist: 0.7989187240600586 This dish much resembles the oysters Rockefeller made famous by Antoine 's in New Orleans , though the Palace chef announced it as a variant of Manning 's roast oysters .
+		|
+		8 - Dist: 0.9071387648582458 But more than one conscientious researcher has been inhibited from completely frank discussion of the available evidence by the less excusable fact that fallout has been made a political issue as well as a scientific problem .
+		|
+		9 - Dist: 0.9039701819419861 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+		|
+		10 - Dist: 0.8384984135627747 By means of this social control , deviance is either eliminated or somehow made compatible with the function of the social group .
+		|
+		11 - Dist: 0.8504071831703186 We had assumed that at least this local legislative body had nothing to hide , and , therefore , had no objections to making the deliberations of its committees and the city commissions available to the public .
+		|
+		12 - Dist: 0.8695882558822632 Barton 's men cut the telegraph wires in half a dozen places , carrying away whole sections to make repairs more difficult .
+		|
+		13 - Dist: 0.9047206044197083 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 1.0
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 1
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.5
+Wrong lemmas count: 2

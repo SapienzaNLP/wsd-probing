@@ -1,0 +1,67 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 12
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.9562043795620438
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.967032967032967
+
+There are 3 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.7492470145225525
+Average distance of CORRECT embeddings: 0.8285561203956604
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7928193807601929 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		2 - Dist: 0.6814143657684326 By the time I 'd made it he was gone .
+		|
+		3 - Dist: 0.7735072374343872 Premier Khrushchev has made propaganda capital out of that fact and in the end got his summit meeting anyway .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.8928571428571429
+
+There are 9 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.7410237193107605
+Average distance of CORRECT embeddings: 0.8095829486846924
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7055602669715881 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		2 - Dist: 0.7870820164680481 All he can do is to be an objective and careful questioner , seeking to help the sensitive in clarifying and making more specific her paranormal impressions .
+		|
+		3 - Dist: 0.5738317370414734 Make use of the back of the barbecue or of the hood for heating vegetables , sauces and such .
+		|
+		4 - Dist: 0.7007472515106201 Speakers declared that Protestants often make use of it , if , perhaps , by some other name .
+		|
+		5 - Dist: 0.7971509695053101 But more than one conscientious researcher has been inhibited from completely frank discussion of the available evidence by the less excusable fact that fallout has been made a political issue as well as a scientific problem .
+		|
+		6 - Dist: 0.8496927618980408 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+		|
+		7 - Dist: 0.72918701171875 But it can be dangerous if the joiner does n't want to make a spectacle of himself .
+		|
+		8 - Dist: 0.7801628708839417 No man could have reached his spot nor held it without being ruthless , and Hague had made a virtue of ruthlessness all of his life .
+		|
+		9 - Dist: 0.7457983493804932 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 1.0
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 2
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 1.0
+Wrong lemmas count: 2

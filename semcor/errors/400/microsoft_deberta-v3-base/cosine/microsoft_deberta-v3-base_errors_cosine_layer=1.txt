@@ -1,0 +1,122 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 54
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.8029197080291971
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.6483516483516483
+
+There are 32 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.9222690463066101
+Average distance of CORRECT embeddings: 0.9318090677261353
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.9428611993789673 There was good reason for Gen. Taylor to make an inspection trip at this time .
+		|
+		2 - Dist: 0.9279728531837463 The University can make a valuable contribution to the state 's economic development through such a study .
+		|
+		3 - Dist: 0.8397141098976135 But competent observers believe he is making progress , particularly toward what Sen. Jackson lists as the primary need - `` a clearer understanding of where our vital national interests lie and what we must do to promote them '' .
+		|
+		4 - Dist: 0.9435527920722961 He was invulnerable to attack , but he could be handled , Mickey knew , if he could be brought to make the first move .
+		|
+		5 - Dist: 0.8585460782051086 She lay there , making no effort to get back on her feet .
+		|
+		6 - Dist: 0.9479794502258301 Had there been another `` brain '' ship at the Base at the moment , Helva would have been guided to make the first move .
+		|
+		7 - Dist: 0.8930179476737976 It is possible to find out in which categories most of her correct statements fall , and where she makes most of her `` hits '' .
+		|
+		8 - Dist: 0.9207848906517029 On the eve of the `` great debate '' on the proposal to give the President broad powers to make across-the-board tariff concessions which could practically bring us into the Atlantic Community , we should face the alternatives on this proposition .
+		|
+		9 - Dist: 0.9121941924095154 If you can n't see your way clear to have summer cooling included when building , by all means make provision for its easy adding later .
+		|
+		10 - Dist: 0.9482073187828064 The right to leave the hoosegow any time to see a lawyer instead of waiting for a lawyer to make a trip to the prison .
+		|
+		11 - Dist: 0.9024713635444641 The American Constitution was historic at this point in providing that `` Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof '' .
+		|
+		12 - Dist: 0.9502245783805847 What was missing in the Governor 's argument , as in so many similar arguments , was a premise which would enable one to make the ethical leap from what might be militarily desirable to what is right .
+		|
+		13 - Dist: 0.9311761260032654 All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest .
+		|
+		14 - Dist: 0.9332683086395264 Since 1944 he has also conducted regularly at the San Francisco Opera , where he made his debut with a memorable performance of Verdi 's Falstaff .
+		|
+		15 - Dist: 0.9220890402793884 One day last week , Nixon faced a painful constitutional chore that required him to officiate at a joint session of Congress to hear the official tally of the Electoral College vote , and then to make `` sufficient declaration '' of the election of the man who defeated him in the tight 1960 presidential election .
+		|
+		16 - Dist: 0.9344477653503418 So , while we properly inveigh against the new poisoning , history is not likely to justify the pose of righteousness which some in the West were so quick to assume when Mr. Khrushchev made his cynical and irresponsible threat .
+		|
+		17 - Dist: 0.9501564502716064 Yet it is plainly time to make a start , and to be effective the first move should be highly dramatic , without being fanatical .
+		|
+		18 - Dist: 0.934971034526825 If he becomes chancellor , Dr. Erhart would make few changes .
+		|
+		19 - Dist: 0.9002981185913086 What they have objected to is the attempt of the Russians to make use of the tragedy of Dag Hammarskjold 's death to turn the entire U. N. staff from the Secretary down into political agents of the respective countries from which they come .
+		|
+		20 - Dist: 0.9250612258911133 Some chaps that know an area well can make their way by landmarks - a tree here , a wash here , a boulder there .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.7380952380952381
+
+There are 22 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.931696355342865
+Average distance of CORRECT embeddings: 0.9099606275558472
+		|
+		|
+		1 - Dist: 0.9340870976448059 The acceptance of collective bargaining as a national policy in 1934 , implicit in the writing of Section 7 A of the National Industrial Recovery Act , has made it impolitic to oppose collective bargaining in principle .
+		|
+		2 - Dist: 0.9416767358779907 She teamed up with another beauty , whose name has been lost to history , and commenced with some fiddling that would have made Nero envious .
+		|
+		3 - Dist: 0.9455251693725586 If then any man is in Christ , he is a new creature [ literally , `` He is a new creation '' ] , the former things have passed away ; behold , they are made new !
+		|
+		4 - Dist: 0.9222756028175354 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		5 - Dist: 0.9402630925178528 There was a fixed grin on Roberts ' face , made hideous by the swollen nose and the smeared blood .
+		|
+		6 - Dist: 0.9305939078330994 But Theodore Parker , commencing his mission to the world-at-large , disguised as the minister of a `` twenty-eighth Congregational Church '' which bore no resemblance to the Congregational polities descended from the founders ( among which were still the Unitarian churches ) , made explicit from the beginning that the conflict between him and the Hunkerish society was not something which could be evaporated into a genteel difference about clerical decorum .
+		|
+		7 - Dist: 0.9105042219161987 The grateful way she looked at Morgan made him ashamed of himself .
+		|
+		8 - Dist: 0.9377924203872681 In addition , their establishment made it unnecessary to begin publication of a contemplated Air Force medical bulletin .
+		|
+		9 - Dist: 0.943141520023346 Then there was exercise , boating and hiking , which was not only good for you but also made you more virile : the thought of strenuous activity left him exhausted .
+		|
+		10 - Dist: 0.9431559443473816 Fortunately it spared us from the usual spate of silly resolutions which in the past have made Georgia look like anything but `` the empire state of the South '' .
+		|
+		11 - Dist: 0.9208329319953918 Merchant ships illuminated in the light of the flares , made to seem like stones imbedded in a lake of polished mud , were impossible to miss .
+		|
+		12 - Dist: 0.9037030935287476 The thought made Pamela shudder .
+		|
+		13 - Dist: 0.9272801876068115 But plain old bean soup , served daily since the turn of the century ( at the insistence of the late Sen. Fred Dubois of Idaho ) , made clear to the citizenry that the Senate 's stomach was in the right place .
+		|
+		14 - Dist: 0.9293684363365173 This dish much resembles the oysters Rockefeller made famous by Antoine 's in New Orleans , though the Palace chef announced it as a variant of Manning 's roast oysters .
+		|
+		15 - Dist: 0.941035807132721 But more than one conscientious researcher has been inhibited from completely frank discussion of the available evidence by the less excusable fact that fallout has been made a political issue as well as a scientific problem .
+		|
+		16 - Dist: 0.9532041549682617 By means of this social control , deviance is either eliminated or somehow made compatible with the function of the social group .
+		|
+		17 - Dist: 0.9377208948135376 No man could have reached his spot nor held it without being ruthless , and Hague had made a virtue of ruthlessness all of his life .
+		|
+		18 - Dist: 0.9421797394752502 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+		|
+		19 - Dist: 0.9390864372253418 He made a fool of you , Lester '' .
+		|
+		20 - Dist: 0.9181215763092041 I made you a man '' .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 1.0
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 1
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.5
+Wrong lemmas count: 2

@@ -1,0 +1,2006 @@
+Total number of words: 7847
+Total number of lemmas: 2003
+
+Lemma('long.a.01.long'): {'long', 'longer', 'longest'}
+Lemma('benefit.n.01.benefit'): {'benefits', 'benefit'}
+Lemma('program.n.02.program'): {'programs', 'program'}
+Lemma('let.v.01.permit'): {'permitted', 'permitting', 'permit', 'permits'}
+Lemma('become.v.02.become'): {'becoming', 'became', 'becomes', 'become'}
+Lemma('rather.r.01.rather'): {'rather'}
+Lemma('attempt.n.01.effort'): {'effort', 'efforts'}
+Lemma('make.v.01.make'): {'make', 'made', 'making', 'makes'}
+Lemma('measure.v.04.assess'): {'assess', 'assessed', 'assessing'}
+Lemma('result.n.03.result'): {'results', 'result'}
+Lemma('quality.n.01.quality'): {'quality', 'qualities'}
+Lemma('specify.v.02.set'): {'set'}
+Lemma('truly.r.01.really'): {'really'}
+Lemma('want.v.02.need'): {'needs', 'needing', 'need', 'needed'}
+Lemma('use.v.01.use'): {'using', 'use', 'uses', 'used'}
+Lemma('most.r.01.most'): {'most'}
+Lemma('paper.n.01.paper'): {'paper', 'papers'}
+Lemma('promote.v.01.encourage'): {'encouraging', 'encourages', 'encourage', 'encouraged'}
+Lemma('work.n.01.work'): {'work'}
+Lemma('plant.n.01.plant'): {'plant', 'plants'}
+Lemma('offer.v.01.offer'): {'offer', 'offering', 'offers', 'offered'}
+Lemma('condition.n.01.condition'): {'condition', 'conditions'}
+Lemma('try.v.01.try'): {'tried', 'try', 'trying', 'tries'}
+Lemma('make.v.02.make'): {'make', 'made', 'making', 'makes'}
+Lemma('certain.s.07.sure'): {'sure'}
+Lemma('new.a.01.new'): {'newer', 'new', 'newest'}
+Lemma('hour.n.01.hour'): {'hour', 'hours'}
+Lemma('wage.n.01.wage'): {'wages', 'wage'}
+Lemma('consider.v.05.consider'): {'consider', 'considered', 'considering'}
+Lemma('pay.v.01.pay'): {'paying', 'pay', 'paid', 'pays'}
+Lemma('money.n.01.money'): {'money'}
+Lemma('make.v.01.do'): {'did', 'doing', 'does', 'done', 'do'}
+Lemma('sign.v.02.sign'): {'sign', 'signs', 'signing', 'signed'}
+Lemma('understand.v.01.understand'): {'understood', 'understanded', 'understanding', 'understand', 'understands'}
+Lemma('entire.s.01.full'): {'full'}
+Lemma('value.n.01.value'): {'value', 'values'}
+Lemma('company.n.01.company'): {'company', 'companies'}
+Lemma('share.n.01.share'): {'shares', 'share'}
+Lemma('compare.v.01.compare'): {'compared', 'comparing', 'compare', 'compares'}
+Lemma('present.a.01.present'): {'present'}
+Lemma('source.n.02.source'): {'sources', 'source'}
+Lemma('help.v.01.aid'): {'aided', 'aids', 'aiding', 'aid'}
+Lemma('conserve.v.02.maintain'): {'maintained', 'maintains', 'maintain', 'maintaining'}
+Lemma('contribute.v.02.contribute'): {'contributing', 'contributes', 'contributed', 'contribute'}
+Lemma('plan.n.01.program'): {'program', 'programs'}
+Lemma('requirement.n.01.requirement'): {'requirement', 'requirements'}
+Lemma('plan.v.01.plan'): {'plan', 'planning', 'planned', 'plans'}
+Lemma('area.n.01.area'): {'areas', 'area'}
+Lemma('practice.n.01.pattern'): {'pattern', 'patterns'}
+Lemma('investigate.v.01.investigate'): {'investigated', 'investigate', 'investigating'}
+Lemma('move.v.02.move'): {'moves', 'moved', 'moving', 'move'}
+Lemma('back.r.04.back'): {'back'}
+Lemma('time.n.01.time'): {'times', 'time'}
+Lemma('certain.a.02.certain'): {'certain'}
+Lemma('watch.v.02.watch'): {'watching', 'watches', 'watched', 'watch'}
+Lemma('day.n.01.day'): {'days', 'day'}
+Lemma('seven.s.01.7'): {'7'}
+Lemma('operation.n.01.operation'): {'operations', 'operation'}
+Lemma('number.n.01.number'): {'number', 'numbers'}
+Lemma('people.n.01.people'): {'people', 'peoples'}
+Lemma('so.r.02.so'): {'so'}
+Lemma('entire.s.01.total'): {'total'}
+Lemma('consider.v.03.consider'): {'consider', 'considered', 'considering'}
+Lemma('replace.v.01.replace'): {'replace', 'replacing', 'replaced'}
+Lemma('possibility.n.01.possibility'): {'possibilities', 'possibility', 'possiblities'}
+Lemma('operate.v.01.operate'): {'operating', 'operate', 'operates', 'operated'}
+Lemma('individual.a.01.single'): {'single'}
+Lemma('entirely.r.02.only'): {'only'}
+Lemma('operation.n.02.operation'): {'operations', 'operation'}
+Lemma('save.v.02.save'): {'saved', 'save', 'saving'}
+Lemma('work.v.02.work'): {'working', 'worked', 'works', 'work', 'workin'}
+Lemma('job.n.02.job'): {'jobs', 'job'}
+Lemma('use.v.01.utilize'): {'utilizes', 'utilized', 'utilizing', 'utilize'}
+Lemma('space.n.03.space'): {'space'}
+Lemma('discussion.n.01.discussion'): {'discussions', 'discussion'}
+Lemma('phase.n.01.phase'): {'phase', 'phases'}
+Lemma('duty.n.01.responsibility'): {'responsibilities', 'responsibility'}
+Lemma('film.v.01.take'): {'take', 'took', 'taken', 'taking'}
+Lemma('picture.n.01.picture'): {'pictures', 'picture'}
+Lemma('excessively.r.01.too'): {'too'}
+Lemma('merely.r.01.only'): {'only', 'onleh'}
+Lemma('a_few.s.01.a_few'): {'a few'}
+Lemma('help.v.01.help'): {'help', 'helps', 'helping', 'helped'}
+Lemma('know.v.01.know'): {'knew', 'knowing', 'known', 'knows', 'know'}
+Lemma('supply.v.01.provide'): {'provided', 'providing', 'provide', 'provides', 'provdied'}
+Lemma('public.s.02.public'): {'public'}
+Lemma('public.a.01.public'): {'public'}
+Lemma('delegate.v.02.assign'): {'assigning', 'assigned', 'assigns', 'assign'}
+Lemma('more.r.01.more'): {'more'}
+Lemma('necessitate.v.01.require'): {'required', 'require', 'requiring', 'requires'}
+Lemma('twelve.s.01.12'): {'12', '1 2'}
+Lemma('calendar_month.n.01.month'): {'months', 'month', 'mos.'}
+Lemma('take.v.02.take'): {'taken', 'take', 'takes', 'took', 'taking'}
+Lemma('sale.n.02.sale'): {'sales', 'sale'}
+Lemma('age.n.01.age'): {'ages', 'age'}
+Lemma('actually.r.01.actually'): {'actually', 'actual'}
+Lemma('cost.v.02.cost'): {'costing', 'cost'}
+Lemma('kind.n.01.sort'): {'sort', 'sorts'}
+Lemma('old.a.01.old'): {'older', 'oldest', 'old'}
+Lemma('early.a.01.early'): {'earlier', 'earliest', 'early'}
+Lemma('occupation.n.01.job'): {'jobs', 'job'}
+Lemma('accept.v.03.accept'): {'accept', 'accepted'}
+Lemma('share.v.02.share'): {'shared', 'sharing', 'share'}
+Lemma('now.r.01.now'): {'now'}
+Lemma('serve.v.02.serve'): {'serve', 'serves', 'serving', 'served'}
+Lemma('footing.n.02.basis'): {'basis'}
+Lemma('man.n.03.man'): {'men', 'man'}
+Lemma('avoid.v.03.avoid'): {'avoided', 'avoid', 'avoids'}
+Lemma('treat.v.03.treat'): {'treating', 'treat', 'treats', 'treated'}
+Lemma('treatment.n.01.treatment'): {'treatments', 'treatment'}
+Lemma('consider.v.04.consider'): {'consider', 'considered', 'considering'}
+Lemma('afford.v.01.afford'): {'afford'}
+Lemma('spend.v.02.spend'): {'spends', 'spending', 'spent', 'spend'}
+Lemma('establish.v.01.set_up'): {'setting up', 'set up'}
+Lemma('buy.v.01.buy'): {'buying', 'buys', 'bought', 'buy'}
+Lemma('merely.r.01.simply'): {'simply'}
+Lemma('work.v.03.work'): {'worked', 'working', 'work', 'works'}
+Lemma('even.r.01.even'): {'even'}
+Lemma('hire.v.01.employ'): {'employs', 'employed'}
+Lemma('like.a.02.same'): {'same'}
+Lemma('number.n.02.number'): {'number', 'numbers'}
+Lemma('produce.v.02.make'): {'make', 'made', 'making', 'makes'}
+Lemma('same.a.01.same'): {'same'}
+Lemma('product.n.02.product'): {'product', 'products'}
+Lemma('fact.n.01.fact'): {'fact', 'facts'}
+Lemma('force.n.04.force'): {'force', 'forces'}
+Lemma('section.n.03.section'): {'sections', 'section'}
+Lemma('country.n.02.country'): {'country', 'countries'}
+Lemma('make.v.03.make'): {'make', 'made', 'making', 'makes'}
+Lemma('difference.n.01.difference'): {'difference', 'differences'}
+Lemma('merely.r.01.just'): {'just'}
+Lemma('stress.v.01.stress'): {'stressed', 'stressing', 'stresses', 'stress'}
+Lemma('prefer.v.01.prefer'): {'prefuh', 'preferred', 'prefer', 'prefers'}
+Lemma('go.v.02.go'): {'go', 'gone', 'going', 'went', 'goes'}
+Lemma('suppose.v.01.say'): {'saying', 'says', 'said', 'say'}
+Lemma('plan.n.01.plan'): {'plan', 'plans'}
+Lemma('fuss.n.02.trouble'): {'trouble'}
+Lemma('want.v.02.want'): {'want', 'wants', 'wanted'}
+Lemma('let.v.02.let'): {'let'}
+Lemma('encourage.v.02.encourage'): {'encouraging', 'encourages', 'encourage', 'encouraged'}
+Lemma('exert.v.01.exercise'): {'exercises', 'exercising', 'exercise', 'exercised'}
+Lemma('benefit.n.02.benefit'): {'benefits', 'benefit'}
+Lemma('narrative.n.01.story'): {'story', 'stories'}
+Lemma('special.s.02.special'): {'special'}
+Lemma('home.n.01.home'): {'homes', 'home'}
+Lemma('find.v.05.find'): {'finding', 'finds', 'find', 'found'}
+Lemma('little.a.02.little'): {'little'}
+Lemma('game.n.01.game'): {'game', 'games'}
+Lemma('give.v.03.give'): {'given', 'giving', 'gave', 'give', 'gives'}
+Lemma('show.v.01.show'): {'showing', 'show', 'showed', 'shown', 'shows'}
+Lemma('sum.n.01.amount'): {'amounts', 'amount'}
+Lemma('particular.s.02.particular'): {'particular'}
+Lemma('new_york.n.01.New_York'): {'new york'}
+Lemma('pass.v.05.pass'): {'passing', 'pass', 'passes', 'passed'}
+Lemma('value.n.03.value'): {'value', 'values'}
+Lemma('therefore.r.01.thus'): {'thus'}
+Lemma('for_example.r.01.for_example'): {'for example'}
+Lemma('cost.v.01.cost'): {'costing', 'costs', 'cost'}
+Lemma('detect.v.01.find'): {'finds', 'finding', 'find', 'found'}
+Lemma('certain.s.01.certain'): {'certain'}
+Lemma('much.r.01.much'): {'much'}
+Lemma('determine.v.08.see'): {'seen', 'seeing', 'see'}
+Lemma('wage.n.01.pay'): {'pay'}
+Lemma('put.v.01.put'): {'put', 'putting'}
+Lemma('direct.s.02.direct'): {'direct'}
+Lemma('payment.n.02.payment'): {'payments', 'payment'}
+Lemma('put.v.02.put'): {'put', 'putting', 'puts'}
+Lemma('rate.n.02.rate'): {'rates', 'rate'}
+Lemma('besides.r.02.also'): {'also'}
+Lemma('particularly.r.01.especially'): {'especially'}
+Lemma('discipline.n.01.field'): {'field', 'fields'}
+Lemma('entail.v.01.mean'): {'meant', 'mean', 'meaning', 'means'}
+Lemma('increase.n.02.increase'): {'increases', 'increase'}
+Lemma('manner.n.01.manner'): {'manner'}
+Lemma('dollar.n.01.dollar'): {'dollar', 'dollars'}
+Lemma('death.n.01.death'): {'death'}
+Lemma('by_and_large.r.01.generally'): {'generally'}
+Lemma('life.n.03.life'): {'lives', 'life'}
+Lemma('list.v.01.list'): {'list', 'listing', 'lists', 'listed'}
+Lemma('thus.r.02.thus'): {'thus'}
+Lemma('debar.v.02.avoid'): {'avoiding', 'avoid', 'avoided'}
+Lemma('desire.v.01.want'): {'want', 'wanting', 'wants', 'wanted'}
+Lemma('right.n.01.right'): {'right', 'rights'}
+Lemma('death.n.03.death'): {'death'}
+Lemma('long.a.02.long'): {'long', 'longer'}
+Lemma('production.n.01.production'): {'production'}
+Lemma('sell.v.01.sell'): {'sell', 'sells', 'selling', 'sold'}
+Lemma('let.v.01.let'): {'lettin', 'let', 'letting', 'lets'}
+Lemma('bring.v.04.get'): {'got', 'get', 'gotten', 'gets'}
+Lemma('serve.v.05.serve'): {'serve', 'serves', 'serving', 'served'}
+Lemma('line.n.03.line'): {'line', 'lines'}
+Lemma('put.v.01.place'): {'place', 'placing', 'placed', 'places'}
+Lemma('supply.v.01.supply'): {'supplying', 'supply', 'supplied', 'supplies'}
+Lemma('full.s.06.good'): {'good'}
+Lemma('keep.v.01.keep'): {'kept', 'keeps', 'keep', 'keeping'}
+Lemma('possible.a.01.possible'): {'possible'}
+Lemma('minimal.a.01.minimum'): {'minimum'}
+Lemma('time.n.03.time'): {'times', 'time'}
+Lemma('normally.r.01.usually'): {'usually'}
+Lemma('think_of.v.03.think_of'): {'think', 'thought of', 'think of', 'thinking of'}
+Lemma('choose.v.01.choose'): {'chosen', 'chooses', 'choose', 'chose', 'choosing'}
+Lemma('two.s.01.two'): {'two'}
+Lemma('side.n.04.side'): {'sides', 'side'}
+Lemma('more.r.02.more'): {'more'}
+Lemma('at_least.r.01.at_least'): {'at least'}
+Lemma('collect.v.02.collect'): {'collects', 'collect', 'collected', 'collecting'}
+Lemma('interest.n.04.interest'): {'interests', 'interest'}
+Lemma('leave.v.08.leave'): {'left', 'leave', 'leaves', 'leaving'}
+Lemma('stay.v.01.stay'): {'stayed', 'stay', 'staying'}
+Lemma('work.v.01.work'): {'worked', 'working', 'work'}
+Lemma('include.v.01.include'): {'included', 'include', 'including', 'includes'}
+Lemma('system.n.02.system'): {'systems', 'system'}
+Lemma('difficult.a.01.hard'): {'hard', 'harder', 'hardest'}
+Lemma('give.v.01.give'): {'given', 'giving', 'gave', 'give', 'gives'}
+Lemma('command.v.02.require'): {'required', 'require', 'requiring', 'requires'}
+Lemma('last.a.02.last'): {'last'}
+Lemma('reduce.v.01.cut'): {'cut', 'cuts', 'cutting'}
+Lemma('model.n.02.model'): {'models', 'model'}
+Lemma('fair.s.02.reasonable'): {'reasonable'}
+Lemma('operate.v.01.run'): {'run', 'ran', 'running', 'runs'}
+Lemma('quality.n.02.quality'): {'quality'}
+Lemma('take.v.19.take'): {'take', 'taken', 'takes', 'took', 'taking'}
+Lemma('most.a.01.most'): {'most'}
+Lemma('change.n.01.change'): {'changes', 'change'}
+Lemma('wide.a.01.wide'): {'wider', 'wide', 'widest'}
+Lemma('time.n.05.time'): {'time'}
+Lemma('controversy.n.01.argument'): {'argument', 'arguments'}
+Lemma('receive.v.02.get'): {'gets', 'got', 'get', 'getting'}
+Lemma('test.v.01.try'): {'tried', 'try', 'trying'}
+Lemma('depend_on.v.01.depend_on'): {'depends on', 'depended on', 'depends', 'depended', 'depending', 'depend', 'depend on'}
+Lemma('previous.s.01.previous'): {'previous'}
+Lemma('year.n.01.year'): {'year', 'yeah', 'years'}
+Lemma('door.n.01.door'): {'doors', 'door'}
+Lemma('person.n.01.person'): {'brooks', 'eichmann', 'assistant attorney general wilkey', 'professor fredrik bo', 'whitey jackson', 'shelley berman', 'van allen', 'rep. james cotten', 'mrs. major j. a. roebuck', 'virginia gibson', 'pat', 'daniel', 'sir walter scott', 'thomas jefferson', 'jo', 'jennings dennis', 'tom moore', 'celso chavez', 'detective pearson', 'hercules l. dousman', 'barbara', 'hugh downs', 'chief syndic', 'christopher newman', 'bob nieman', 'tony', 'spahnie', 'coughlin', 'john edwards', 'brian thayer', 'davy', 'perinetti', 'eades', 'adair', 'stanley gilborn', 'william wimsatt', 'harvey haddix', 'clayton', 'gogo', 'connie', 'sue lawless', 'jimmy van heusen', 'hohlbein', 'vernon gomez', 'milt pappas', 'george washington', 'william byrd', 'maguire', 'christophers', 'wishart', 'john richey', 'sparling', 'red allen', 'miss sloan', 'mrs. don rudolph', 'lubell', 'tonio kro^ger', 'moritz', 'phil rossoff', 'rudolph', 'hattie sforzt', 'andrus maid', 'old brown', 'nicholson', 'mickey', 'marc schlek ,', 'chancellor neitzbohr', 'thomas davis', 'professor david hawkins', 'harper', 'mahmoud', 'scherer', 'odilo globocnik', 'bing crosby', 'lionel hampton', 'ritchie', 'medfield', 'scarface', 'william faulkner', 'uncle bill farnworth', 'saxton', 'david cortlandt', 'james p. verrone', 'harry davis', 'mr. truman', 'chief postal inspector david h. stephens', 'miss estherson', 'jake camaret', 'buddy barker', 'byrd', 'stephen', 'elizabeth', 'shakespeare', 'bucky harris', 'bobby joe', 'timon of athens', 'nick arshinkoff', 'state secretary', 'titian', 'hettie', 'edward wilson', 'clay', 'farrar', 'mrs. packard', 'jacoby', 'roy p. basler', 'bob broeg', 'irv', 'isaac', 'mcclellan', 'willie chisholm', 'governor rockefeller', 'francis thompson', 'noskova', 'grace bumbry', 'erasmus', 'amelia', 'esmarch', 'sergeant styka', 'alvin dark', 'juet', 'cap', 'miss stuart', 'wolcyrz', 'fritzie', 'cipolla', 'lieutenant colonel melbourne c. chandler', 'tom brannon', 'johansen', 'mr. gunnar', 'sheriff felix tabb', 'patti waggin', 'lt. killpath', 'slater', 'senora brannon', 'jensen', 'lars simon', 'mrs. yamata', 'r. h. s. crossman', 'trenchard', 'askington', 'bob grove', 'perry', 'st. thomas more', 'f. s. c. northrop', 'arthur koop', 'hendrik', 'sweeney blue', 'barber', 'tony kubek', 'pauling', 'vern law', 'mckinney', 'd.w. griffith', 'moonan', 'mr. khrushchev', 'dilys powell', 'r. s.', 'sigmen', 'david hedison', 'felix grubb', 'jerry walker', 'gaynor b. jones', 'don juan', 'i. a. richards', 'sut lovingood', 'orvil e. dryfoos', 'bosler', 'hawkins', 'copernicus', 'w. blumberg', 'boun my', 'watson', 'jackson pollock', 'jonathan', 'hale', 'aunt asia', 'william r. stillwell', 'townsend', 'wright', 'colcord', 'pasterns', 'ritschl', 'mr. abbott', 'mrs. trenchard', 'giselle', 'man from mars', 'tillotson', 'phil shartzer', 'lippman', 'dr. isaacs', 'mayor hartsfield', 'faith constable', 'rex stout', 'mrs. hapgood', 'mrs. catt', 'cricket', 'mrs. surcliffe', 'carroll', 'naphta', 'aunt jessica', 'chuck klein', 'ray bolger', 'w. l. george', 'martha schuyler', 'yvette mimieux', 'brakke', 'lord byron', 'hartman', 'emerson', 'pa', 'henry hudson', 'mrs. shorter', 'packard', 'thomas more', 'eber l. taylor', 'rabbi szold', 'abe spector', 'hobbes', 'lionel black', 'martin dies', 'brooks robinson', 'crumb', 'sarah gross', 'kayabashi', 't. s. eliot', 'shuz', 'gov. price daniel', 'americans', 'pels', 'captain androfski', 'snead', 'stram', 'louis thor', 'homer hoyt', 'jeff', 'george gray hunter', 'president kennedy', 'mr. berman', 'mr. warren', 'david ben-gurion', 'miss harris', 'francisco archuleta', 'eli', 'lieutenant bonner', 'bob gibson', 'hume', 'marsh', 'beckett', 'glen t. hallowell', 'ewen', 'brownell', 'ching', 'ellen glasgow', 'powell', "paglieri's", 'henry hope reed', 'lewis carroll', 'johnny mercer', 'rector', 'roberto lamon', 'burke', 'maecker', 'mae', 'herrmann', 'donna', 'sandburgs', 'abigail', 'ranyard west', 'owen', 'poirot', 'rowlands', 'stalin', 'mike fink', 'albrights', 'mullins', "o'dwyers", 'hardy', 'woodrow wilson', 'edward r. murrow', 'mr. yankton', 'paxton', 'brush', 'norman mailer', 'gansevoort', 'harold arlen', 'mr. holden', 'hooper', 'pierce', 'benington', 'bartlett', 'mrs. anthony payne', 'peter b. kyne', 'richard whiting', 'jerry adair', 'reverend augustus woodbury', 'housman', 'francis coletta', 'haumd', 'prevot', 'trout', 'osric pendleton', 'president of the council', 'foster', 'rocco vecchio', 'brenner', 'lincoln', 'kurigalzu', 'dr. schillinger', 'tomas', 'hal', 'skorich', 'henry l. bowden', 'brown', 'manager hemus', 'stram monday', 'sheldon', 'tennessee williams', 'maeterlinck', 'joseph simmons', 'adler', 'renoir', 'taurog', "mickey's", 'general burnside', 'wolfgang sawallisch', 'bernard heuvelmans', 'dr. mary steichen calderone', 'michael butt', 'franklin d. lee', 'deane beman', 'walter lippman', 'madonna', 'jackie brandt', 'mr. j. j. a. frans', 'beth', 'alphonse r . hoge', 'wilcke', 'will', 'musial', 'thayer', 'chavez', 'jean-pierre bravado', 'tom hepker', 'mr. march', 'matson', 'bud priddy', 'jan', 'hal yarrow', 'basho', 'ghoreyeb', 'dashiell hammett', 'cook', 'christopher hewett', 'dr. heenan', 'b. j. connell', 'benoit', 'wyman carey', 'bonito lavato', 'corbin', 'e. c. orvis', 'grubb', 'charlie gauer', 'hard', 'lewis', 'roy hamey', 'lucia', 'melies', 'broglio', 'surcliffes', 'little lord fauntleroy', 'eldon moritz', 'dave luechtefeld', 'brooks atkinson', 'joe ratcliff', 'john hall wheelock', 'rabb', 'hemus', 'globocnik', 'clov', 'mrs. balcolm', 'godwin', "james o' gara", 'luis', 'albert g. ramsperger', 'fahey', 'dave ritchie', 'mme bonenfant', 'james joyce', 'eli corault', 'elizabeth meehan', 'chief of detectives michael hughes', 'mattie', 'rep. bill jones', 'breed', 'henry greene', 'minister of the interior', 'weider', 'marches', 'mrs. oatnut grits', 'maria', 'albright', 'douglas cooper', 'ralph waldo emerson', 'woodcock', 'jo march', 'jean-paul senesac', 'adame moore', 'bertha szold', 'john halkett', 'mcghie', 'bobby waters', 'littau', 'davis', 'hernandez', 'davy crockett', 'lenin', 'bartoli', 'masons', 'mr. oakes', 'b. m. spinley', 'sen. frank owen', 'ablard corne', 'sean', 'dietrich bonhoeffer', 'jerebohms', 'lieutenant marvin goulding', 'peterson', 'commissioner of rural affairs', 'galli', 'nazarova', 'schleiermacher', 'paul bunyan', 'hoag', 'livingston birdwood', 'sutpen', 'yinger', 'pavlov', 'john hunter', 'bush', 'david d. thomas', 'macpherson', 'hal smith', 'pettersson', 'ruysch', 'pat seerey', 'john', 'branch rickey', 'itoiz', 'alan clark', 'arthur schwartz', 'nikita', 'parris', 'n. v. peale', 'mr. hedison', 'everett mcnear', 'inspector javert', 'rufus', 'dorr', 'carmer', 'lord buddha', 'casey stengel', 'judith pierce', 'rossoff', 'zeitgeist', 'cousin joshua dover', 'mickey spillane', 'roy sievers', 'rachel', 'ganessa', 'sam f. collins', 'cotten', 'adrian aeschbacher', 'cousin ada', 'deputy sheriff frank macpherson', 'pueri aquam de silvas ad agricolas portant', 'jacobs', 'linda kay', 'charles wesley', 'verloop', 'nerien', 'martha', 'summers', 'hudson', 'granny albright', 'john hancock', 'ron nischwitz', 'houdini', 'szold', 'kathy', 'andruses', 'ransy sniffle', 'david', 'harris', 'crossman', 'cezanne', 'carpenter', 'melisande congdon', 'klauber', 'anders', 'grandmother delancy', 'mme vienot', 'jerry lumpe', 'ethel littleton', 'henry morgenthau', 'jack fisher', 'dearie', 'steve barber', 'bultmann', 'dubin', 'marv throneberry', 'salk', 'r. g. meisenheimer', 'alexander of macedon', 'papa', 'tom kieffer', 'everett miller', 'william foster', 'eliot sands', 'torrio', 'rudy bond', 'staff', 'spinrad', 'prof. j. g. l. manthey', 'bob carroll', 'druggan-lake', 'john jones', 'harmon killebrew', 'al carmichael', 'samuel alexander', 'burnham', 'richard m. forbes', 'pedersen', 'j. w. buchanan', 'mantle', 'hector lopez', 'clarke', 'schelling', 'charlie', 'jellinek', 'barth', 'bobby shantz', 'parkhouse', 'adlai stevenson', 'harry myers', 'precious', 'porter', 'carla caneli', 'strindberg', 'simms purdew', 'mann', 'luther', 'frederick j. hoffman', 'george kerr', 'sol phillips', 'bevo', 'dr. wilson c. grant', 'minnie minoso', 'chico', 'diane molinari', 'norman vincent peale', 'potter', 'major pockmanster', 'wolff', 'miss n', 'quasimodo', 'sara sullam', 'leon wiley', 'sergeant moll', 'harry warren', 'didi', 'sen. john tower', 'eisenhower', 'dr. charles taft', 'ditmars', 'duverger', 'richards', 'maj. anderson', 'maclean', 'adam smith', 'scott', 'docherty', 'henry james', 'don marquis', 'mollie', 'booth', 'mr. phillips', 'happy nelson', 'mrs. roebuck', 'captain harris', 'irenaeus', 'ringel', 'mercer', 'long jim', 'catt', 'joseph renville', 'john c. blackmer', 'mr. fogg', 'van marum', 'martinez', 'louis du tillet', 'george smith', 'boyer', 'turk lown', 'marie moore', 'hawk', 'francoisette lagoon', 'bill white', "jerry o ' connor", 'beringer', 'bruckmann', 'mr. jameson campaigne', 'penny', 'pam north', 'pretty', 'heydrich', 'archimedes', 'meurons', 'keo viphakone', 'dixon', 'mexican', 'people', 'jim gentile', 'lieutenant carroll', 'hoyt wilhelm', 'garstung', 'gibbon', 'gordon', 'buck shaw', 'neitzbohr', 'howard cox', 'francois labothe', 'thor', 'hercule poirot', 'mickey mantle', 'dr. calderone', 'e. h. hemenway', 'fox', 'mollie the mutton', 'bill henry', 'general mcclellan', 'mercers', 'saint george', 'comroe', 'schubert', 'monsieur de cury', 'tacitus', 'adrien deslonde', 'modigliani', 'thea', 'townley', 'petermann', 'editor foss', 'd. a.', 'mrs. lattimer', 'colquitt policeman tom williams', 'katharine', 'joyce', 'e. andrews', 'russ', 'dr. ellis', 'charlotte fairchild', 'reuben colvin', 'william f. orvis', 'w. h. whiteley', 'bach', 'rose mallory', 'george p. callan', 'durkheim', 'schnabel', 'katya roslev', 'stepanovich', 'john b. oakes', 'welmers', 'joseph rolette', 'dimaggio', 'gilborn', 'miss juanita fitzroy', 'acting captain', 'jose amado', 'albert', 'sir francis', 'mrs. gilkson', 'chico ruiz', 'r. e.', 'cousin howard', 'professor cestre', 'ruth', 'senator', 'gleason', 'breeding', 'gerome', 'bob burnes', 'hank stram', 'katya', 'abdallah ibrahim', 'casey', 'mr. hammarskjold', 'sartoris', 'hansen', 'archangel foster', 'plutarch', 'sen. a. m. aikin jr.', 'sheldon harnick', 'kandinsky', 'the cat', 'program chairman', 'dr. a. v. astin', 'bob howsam', 'moll', 'dr. theodor reik', 'joe pasternak', 'chekhov', 'blessed one', 'john bunyan', 'carl kauffeld', 'abel poupin', 'jefferson', 'gaspard favre', 'mankowski', 'andy ross', 'carlson', 'green', 'saltis-mcerlane', 'mrs. j. m. cheshire', 'mynheer schuyler', 'frank sposato', 'himmler', 'boxell', 'howser', 'edward 3', 'clark', 'lee macphail', 'mr. a', 'mrs. kahler', 'freud', 'eligio ( kika ) de la garza', 'jessica packard', 'professor claude', 'carreon', 'sahjunt yoorick', 'drake', 'rabbi jastrow', 'dave miller', 'burton', 'george washington harris', 'andy', 'smoky burgess', 'alexander henry', 'colonel george armstrong custer', 'dr. marion hilliard', 'mrs. grace butcher', 'heywood sullivan', 'astwood', 'lawrence e . griffin', 'edwina', 'georges melies', 'cooke', 'thorpe', 'freeman', 'william david roberts', 'pelham', 'jews', 'heidenstam', 'charlie keane', 'thomas huxley', 'samuel beckett', 'nikolai cherkasov', 'venus', 'brandon', 'reverend george t. day', 'miss sutherland', 'poe', 'william h. h. clements', 'laura', 'jacchia', 'mr. pastern', 'augustus baldwin longstreet', 'friedenwald', 'kent', 'reich minister of justice', 'tuttle', 'national leaguers', 'marcellus', 'voegelin', 'mrs. ten eyke', 'sukarno', 'senator stuart symington', 'supreme bishop digby', 'rev. j. d. wickham', 'janssen', 'siebern', 'e. m.', 'dr. baum', 'babin', 'bill liston', 'paul whiteman', 'joyce lakewood', 'marvin goulding', 'father galtier', 'r. g. snyder', 'pollock', 'deacon gordon', 'dr. wilhelm reich', 'sam', 'vernon duke', 'dr. ramsey', 'george sokolsky', 'silvio varviso', 'curzon', 'l. don leet', 'mr. thynnes', 'gram', 'chauncey ryder', 'anne', 'max lobl', 'prince boun oum', 'president', 'felix kopstein', 'clara harris', 'claude', 'diaghileff', 'accacia', 'keegan', 'robbins', 'condliffe', 'manley', 'august strindberg', 'finnegan', 'de gaulle', 'donovan', 'jones', 'karsner', 'franklin roosevelt', 'moore', 'bud daley', 'mr. miller', 'mr. mills', 'deegan', 'hans frank', 'edgardo', 'alf', 'fink', 'mrs. lauren payne', 'professor morrison', 'emmett r . dunn', 'warren', 'doctor lord', 'lodge', 'philip spencer', 'ed thornburg', 'john quincy adams', 'professor bo', 'vic tanny', 'mrs. benington', 'bill kunkel', 'lee', 'lawrence', 'vouillemont', 'george needham', 'thelma', 'sposato', 'beau', 'buck rogers', 'racie friedenwald', 'lucian', 'king', 'frank meriwether', 'tieck', 'virgin', "gaetan d'amours", 'rousseau', 'stephen crane', 'james saxton', 'fistoulari', 'mr. crosson', 'samuel groom', 'harold', 'lotte lehmann', 'norman b. small , jr.', 'isaac pitt', 'lissa', 'stark young', 'carwood', 'first sergeant robert early', 'anita', 'nieman', 'katharine ross', 'crosson', 'howsam', 'conchita', 'arlene', 'roosevelt', 'stinky', 'nicodemus', 'savonarola', 'gannon', 'sara', 'horton smith', 'ted koehler', 'helmut roloff', "schumann's", 'du^rer', 'jay porter', 'mr. h.', 'grabski', 'yvette chadroe', 'mr. bates', 'whipple', 'rathbone', 'jim lemon', 'donnell reid', 'nordmann', 'sam snead', 'buster', 'irelands', 'stravinsky', 'john h. whipple', 'blaine smythe', 'romeo', 'ingbar', 'the man', 'prokofieff', 'ralph houk', 'dion', 'calenda', 'alex', 'mr. scott', 'noel coward', 'wales', 'mayor dever', 'mrs. charles -', 'apollo belvedere', 'lou gehrig', 'beall', 'chaucer', 'niepce', 'juanita', 'dorothy sayers', 'pornsen', 'gene krupa', 'god', 'hugh mercer', 'sandalphon', 'red', 'billy', 'ann catt', 'miss henrietta', 'niebuhr', 'godot', 'william gilmore simms', 'leo durocher', 'velasquez', 'perry mason', 'ballestre', 'solicitor general rankin', 'c. virgil martin', 'duke', 'hub', 'mis-ter mcbride', 'hillman', 'walter lippmann', 'pierre bottineau', 'benny goodman', 'al', 'e. b.', 'howard', 'parson weems', 'bernard gimbel', 'william berry jr.', 'kelsey', 'carl sandburg', 'prosecutor baird', 'james a. farley', 'dunn', 'jim landis', 'crip', 'rev', 'joseph maria ballestre', 'deputy marshal luke harper', 'mrs. lincoln', 'norman taylor', 'kitti gilborn', 'presiding elder', 'yamabe', 'max fink', 'robert', 'state party chairman james w. dorsey', 'graves moreland', 'de kooning', 'mcbride', 'morris jastrow', 'fleischman', 'john mcauliffe', 'rourke', 'chairman bill hollowell', 'robert penn warren', 'mike deegan', 'mr. thynne', 'schweitzer', 'hall', 'arthur williams', 'wolpe', 'curt', 'deputy barney clark', 'jerry arlen', 'claude de mommor', 'person', 'mills', 'dutch brenner', 'mr. w. a. wildhack', 'douglass', 'w. d. snodgrass', 'eliot', 'bailly', 'maier', 'nicholas cop', 'dr. albert ellis', 's. j. perelman', 'james buchanan', 'wallace f. jannsen', 'mr. benson', 'palmer', 'joe dey', 'hathaway', 'holden', 'alvin pettibone', 'wilcox', 'mrs. constable', 'wheaton', 'jay cooke', 'richardson', 'max', 'dr. wise', 'yalies', 'dan pavletich', 'alison', 'greer', 'montaigne', 'helen shipley', 'willie', 'gibbs', 'bertrand russell', 'margarito lopez', 'ben prime', 'emile', 'cudkowicz', 'bernoulli', 'dick howser', 'rheinholdt', 'lena horne', 'babe ruth', 'thomas campbell', 'walters', 'miller', 'manning', 'mayor richardson dilworth', 'bee-hunter', 'nori', 'herold', 'plane', 'frankie ricco', 'pete ward', 'loosli', 'carl hubbell', 'ben', 'evensen', 'mckee', 'artur schnabel', 'zeme north', 'augustus quasimodo', 'brailsford', 'joe', 'manuel', 'supt. chester o. strickland', 'pam', 'concetta', 'halda', 'aeschbacher', 'kali', 'eugene', 'lagrange', 'piepsam', 'miss x', 'eliot sparling', 'mirsky', 'meredith', 'mr. keo', 'banjo ferguson', 'francis xavier bowman', 'larry jackson', 'piddington', 'duclos', 'mussett', 'shea', 'phillip marlowe', 'detective sergeant john j. ryan', 'henrietta', 'johann krumpp', 'hildy weissman', 'jerry', 'raymond fox', 'atreus', 'freinkel', 'marcus aurelius', 'meg', 'cyprian', 'walter hendl', 'nelson', 'madame de pompadour', 'schnabelian', 'bushnell', 'doris hull', 'crouch', 'ensign ritchie', 'joe adcock', 'joe jastrow', 'william henry harrison', 'thomas griffith', 'shaw', 'buster ramsey', 'salfininistas', 'jessie', 'dionie', 'bouvardier', 'mrs. monmouth', 'john h. mercer', 'mr. berkely', 'bud dodington', 'american republicans', 'lancret', 'public relations director', 'spumoni', 'george stepanovich', 'rebels', 'clifford curzon', 'morris manderscheid', 'mr. ferguson', 'sam schaeffer', 'key', 'reps. v. e. red berry', 'jim myers', 'charlie haydon', 'harold cherry', 'joe dimaggio', 'cox', 'keane', 'john crosby', 'mckenzie', 'mrs. garth', 'rose', 'zoe ann olsen', 'arthur miller', 'thomas', 'charles c . carpenter', 'marx', 'mr. y', 'h. k. fowler', 'franklin', 'r. g. collingwood', 'rabbi melzi', 'superior court judge durwood pye', 'mr. crumb', 'arnold lodley', 'laura keene', 'robert snodgrass', 'schley county rep. b. d. pelham', 'mr. faulkner', 'niccolo machiavelli', 'frank loesser', 'clements', 'morrison', 'benets', 'stengel', 'carey williams', 'cliff cook', 'big hans', 'afranio do amaral', 'clark wait', 'dick hyde', 'hyde', 'george t. day', 'peter caroli', 'sherman', 'clark j. wait', 'wilson', 'leverku^hn', 'john brown', 'schlek', 'alfred north whitehead', 'kate', 'minnett', 'simon suggs', 'pecks', 'bill mazeroski', 'benjamin thompson', 'empedocles', 'duane bosch', 'jason compson', 'professor roland claude', 'sterling holloway', 'erwin schwartz', 'marshall formby', 'curt adams', 'faulkner', 'rip randall', 'benjamin szold', 'm. de cury', 'boaz', 'producer john holmes', 'al paschal', 'enos slaughter', 'mrs. holden', 'under secretary of foreign affairs', 'scott hudson', 'vecchio', 'hieronymus', 'mary dobbs tuttle', 'starkey poe', 'rep. charles e. hughes', 'negro', 'winston', 'berra', 'byron', 'inspector cramer', 'kakutani', 'konishi', 'paul ferris', 'hank maguire', 'sen. george parkhouse', 'h. f. bell', 'judith', 'sojourner', 'acting lieutenant gunnar matson', 'national better business bureau', 'ed delahanty', 'hans', 'l. c. orvis', 'philibert berthelier', 'alix', 'cousin simmons', 'formby', 'aaron mcbride', 'dr. clarence charles clark', 'phil', 'bruegel', 'bill boxell', 'j. e. mcnaughton', 'weigand', 'herman wolff', 'joseph sanchez', 'daly', 'edmund', 'gauer', 'frederick seward', 'mike', "scotty 's", 'gustavus adolphus', 'fawcett', 'heuvelmans', 'robertson', 'donizetti', 'george', 'dr. clark', 'lieut', 'fletcher', 'burr', 'madden', 'uncle randolph', 'peter robert', 'fleisher', 'solly', 'solomon asch', 'cousin joshua', "ol ' case", 'castaneda', 'dr. maurice linden', 'laue', 'seaman wilson', 'flugel', 'dr. morton schillinger', 'beethoven', 'hans knappertsbusch', 'jefferson lawrence', 'dred scott', 'jackson', 'sancho panza', 'mr. heiser', 'jean-paul sartre', 'houghton', 'hartsfield', 'payne', 'ghadiali', 'col. henry', 'captain chandler', 'mr. morgan', 'sam lubell', 'old ones', 'mr. brenner', 'henry w. taylor', 'dr. hilprecht', 'terry isaacson', 'black', 'freddie', 'mr. booker t. w. jones food technician', 'edwin s. porter', 'mrs. major roebuck', 'huhmun', 'rauschenbusch', 'mr. dryfoos', 'harnack', 'austin', 'martin', 'johnston', 'cimabue', 'rock', 'foss', 'la^utner', 'ludie', 'pedro', 'maude', 'baslot', 'weber', 'yujobo', 'mr. speaker', 'blanche jacobs', 'bill tuttle', 'old scrapiron', 'ziggy elman', 'sen. parkhouse', 'cleanth brooks', 'uncle izaak', 'trig', 'andrus', 'leigh', 'jawaharlal nehru', 'mr. quasimodo', 'sophocles', 'mays', 'dorset', 'bob friend', 'reverend samuel parris', 'edwin booth', 'dave grayson', 'j. wheaton smith', 'miguel de cervantes', 'thomas douglas', 'frank graham', 'mr. thomas griffith', 'sarah', 'mrs. olga vickery', 'count rumford', 'longstreet', 'mrs. laguardia', 'warren rabb', 'brannon', 'hajime iijima', 'naomi', 'pasley', 'david w. griffith', 'mattathias dover', 'hitler', 'greene', 'sergeant edwin h. fay', 'drs. c. j. martin', 'braque', 'u thant', 'friend', 'manthey', 'sergeant', 'sinton', 'billy graham', 'paul lipson', 'ferraro', 'digges', 'harold clurman', 'peter askington', 'whittier', 'frank ackerly', 'bill nordmann', 'nikita khrushchev', 'old crip', 'dostoevsky', 'nathan milstein', 'verdi', 'gil hodges', 'assistant secretaries of state', 'mckinley', 'gratt shafer', 'mack', 'sophie szold', 'midshipman tillotson', 'jerry bock', 'mayor william b. hartsfield', 'hoagy carmichael', 'jim', 'selena masters', 'john nichols', 'old jack', 'jess crouch', 'peter conlow', 'lou duvol', 'mcfeeley', 'myers', 'dr. h. v. hilprecht', 'bill virdon', 'lieutenant-colonel henry leavenworth', 'miss vera green', 'stacey black', 'alf dyer', 'colonel snelling', 'stanbury', 'fighting seventh', 'beatrice rosenberg', 'dineen', 'saint woodrow ( wilson', 'johnny st. cyr', 'yuri tolubeyev', 'mr. paxton', 'gene geary', 'haddix', 'ferraros', 'jerry burton', 'galahad', 'william a. bill shea', 'life', 'one', 'lauren payne', 'dronk', 'evelyn cibula', 'willings', 'forty martyrs', 'matthew b. goodwin', 'cotton davidson', 'drew', 'robinson', 'enrico', 'don hoak', 'lieutenant robert m. carroll', "father o ' brien", 'sloanaker', 'e. y. harburg', 'mary', 'george a. mercer', 'lodley', 'rameau', 'christopher tunnard', 'manager gene mauch', 'clarence goyette', 'maguires', 'lolotte', 'dr. albert abrams', 'swadesh', 'muller', 'raymond vernon', 'chambers', 'kunkel', 'money', 'billy gannon', "mr. o' donnell", 'jock sutherland', 'gruller', 'p. j.', 'dave mills', 'reno bertoia', 'young man', 'bishop senator boone', 'thomas nelson page', 'joe mcfeeley', 'laguardia', 'durer', 'alexander nevsky', 'jane', 'spencer', 'pirate manager danny murtaugh', 'steiners', 'julian m. beall', 'lt. rinker', 'arnold', 'krishna', 'major rathbone', 'robert juet', 'bob clemente', 'dr. breckenridge', 'buri', 'coates', 'ellamae heckman', 'judas maccabeus', 'jack elliott', 'dr. i. p. george', 'henry a. wise', 'stanley', 'stevens', 'alpers', 'uncle and aunt howe', 'henry levin', 'dr. g. baum', 'weston', 'lauren', 'william hitchcock', 'george abbott', 'dr. aterman', 'nbs director', 'franco zeffirelli', 'mrs. wilcox', 'sweeney', 'cobb', 'fran horowitz', 'sarah bernhardt', 'eleanor brooke', 'george waymouth', 'troeltsch', 'hoijer', 'william hartman woodin', 'verner von heidenstam', 'moriarty', 'richard brinsley sheridan', 'donald', 'raymond chandler', 'district director', 'bob mcnaughton', 'hindemith', 'paul', 'karl barth', 'nancy', 'speer', 'chauncey depew', 'wally post', 'jeannie may', 'jack', 'grindlay', 'rilke', 'whitey herzog', 'persons', 'napoleon bonaparte', 'mme cestre', 'buber', 'gibby', 'pullen james', 'george woodcock', 'jastrow', 'george dillon', 'philip grimm', 'bill meek', 'thornburg', "o ' banion", 'frank glazer', 'old man arthur', 'jack spikes', 'rapunzel', 'john ciardi', 'wynston', 'cardinal newman', 'king james /1 1', 'fields', 'gardner willings', 'edith fleming blackmer', 'spahn', 'styka', 'franz kline', 'judge sulzberger', 'skinny brown', 'attorney general', 'augustine', 'fichte', 'dr. linden', 'ryne duren', 'mrs. horowitz', 'rocky colavito', 'aaron c. burr', 'curie-weiss', 'stowey', 'jacques lipchitz', 'lumpe', 'stowey rummel', 'lubberlanders', 'mayor wagner', 'louis / 15', 'supreme bishop', 'spring', 'daniel m. friedman', 'philip marlowe', 'maris', 'sarason', 'dr. j. r. mclemore', 'frank gorshin', 'cousin john', 'james', 'old chris', 'dummkopf', 'peter gennaro', 'grigory kozintsev', 'berman', 'ralph gabriel', 'feyer', 'abelson', 'martin luther', 'carla', 'mr. flannagan', 'han', 'whitey', 'haupts', 'hugh cooper', 'morris', 'tschilwyk', 'jack dunn', 'le fort', 'senor x', "o ' connor", 'mrs. ryerson', 'bolger', 'rob ledford', 'yogi berra', 'ramirez', 'mr. jones', 'edwin muir', 'peter walsh', 'm. l. manley', 'macneff', 'gene raesz', 'assistant district attorneys', 'dr. charles leale', 'rilly', 'lagow', 'charles thiot', 'stack', 'colonel theodore roosevelt', 'kayabashi-san', 'pedro chavez', 'wert', 'griffith', 'paul richards', 'burns', 'smith', 'fujimoto', 'rice', 'macmillan', 'staffe', 'early', 'sir cedric hardwicke', 'arlen', 'fritz buri', 'james bernoulli', 'jacopo galli', 'sweeneys', 'hedda gabler', 'pee wee russell', 'rep. mac barber', 'mrs. dalloway', 'charlie pastern', 'daniel w. vaughan', 'gardner', 'mr. claude', 'rube goldberg', 'bravado', 'claire', 'eddie lee', 'fing', 'john stuart mill', 'niobe', 'coward', 'hammer', 'vermejo', 'graves', 'rawlins', 'dick stuart', 'clint blume', 'tom lord', 'mr. skopas', 'rossi', 'john tsitouris', 'pitt-rivers', 'whitehead', 'mynheer', 'elena', 'mlle lagoon', 'don wert', 'booker t. washington', 'edwards', 'wolstenholme', 'pendleton', 'henry gray', 'taylor', 'giovanni martini', 'felix', "sean o'casey", 'seward', 'agatha christie', 'jim mcdaniel', 'moses', 'john powell', 'kitti walker', 'pilate', 'major marcus a. reno', 'forerunner', 'joan sheldon', 'nicholas', 'richard stafford', 'bill mauldin', 'lavoisier', 'chaikoff', 'sol hurok', 'king muhammad', 'eddie dyer', 'john osborne', 'shirl winter', 'henri', 'margo felicity brighetti', 'captain john davis', 'haydn c. covington', 'mr. lattimer', 'lenny green', 'jehovah', 'sammy shooter', 'flannagans', 'martin tahse', 'felix fing', 'march', 'adams', 'myra', 'ted', 'loeser', 'humpty dumpty', 'thomas demontez lord', 'pontius pilate', 'guy fawkes', 'art ditmar', 'lees', 'amenitskii', 'jean', 'patrick henry', 'virginia', 'liston', 'arch', 'gaines', 'amra', 'monet', 'blake', 'compson', 'laura stuart', 'laredo', 'billie', 'roy mason', 'raphael', 'senator joseph mccarthy', 'carey', 'allison', 'ernest', 'skopas', 'salomonovich', 'domokous', 'midshipman rogers', 'siva', 'adam', 'major joseph plympton', 'william godwin', 'hartweger', 'joey jay', 'mike rice', 'robert bylot', 'thomas dixon', 'gallet', 'andrei androfski', 'director of internal revenue', 'degroot', 'colonel baird', 'bill blake', 'mongi slim', 'todman', 'newman', 'jerome weidman', 'mrs. minks', 'ivan the terrible', 'ferguson', 'fromm', 'woodbury', 'virdon', 'pemberton', 'toscanini', 'gentile', 'beccaria', 'ulanys', 'macintosh', 'sam caldwell', 'ross', 'master calvin', "selkirk's", 'oersted', 'koehler', 'andrew jackson', 'jake carwood', 'jenkins', 'camilo carreon', 'sen. a. r. schwartz', 'oliver', 'art nehf', 'general', 'loren severe', 'mrs. hull', 'whiteman', 'frank', 'leona', 'edward land', 'muscle builder', 'cooper', 'fred', 'samuel matlowsky', 'sober', 'mr. pope', 'beth march', 'edgerton', 'red hogan', 'craig', 'tom', 'bake', 'torrio-capone', 'eshleman', 'danny', 'a. e. sharp', 'mrs. gilborn', 'st. gregory', 'e. f. smith', 'j. carnochan', 'mark manley', 'skolman', 'pamela north', 'harburg', 'joyce holland', 'mayer', 'sangallo', 'dewey lawrence', 'charles harve', 'selena', 'greg', 'j. b. brady', 'bob hartman', 'karl marx', 'ramsey', 'papa-san', 'paschal', 'betty', 'mrs. craven', 'al reynolds', 'henley', 'cyrus adler', 'a. n. whitehead', 'john sell cotman', 'broad', 'hausman', 'ito', 'pearl williams hartsfield', 'mr.', 'fred powell', 'frost', 'pete rozelle', 'faustus', 'jubal', 'story', 'pompeii', 'mrs. trempler', 'mr. hendl', 'walter donaldson', 'serge prokofieff', 'f. h. walker', 'jesus', 'a. c. young', 'johnson', 'eloise', 'small', 'fiorello', 'bob nordmann', 'robert hillyer', 'maxwell bodenheim', 'mr. wales', 'thomas de torquemada', 'orville', 'mr. jack', 'joan', 'francis xavier', 'elector of bavaria', 'prettyman', 'mr. sulzberger', 'signora ferraro', 'mr. mckenzie', 'gouldings', 'marie', "pat o'dwyer", 'john steinbeck', 'richard nixon', 'mrs. mercer', 'billy gardner', 'sinatra', 'henri de courcy', 'selma lagerlo', 'pinkie', 'district director of internal revenue', 'rall', 'tong', 'm. bluthenzweig', 'drs. howry', 'digby', 'joe chapman', 'de groot', 'barry jenkins', 'thomas taylor', 'h. h. holley', 'monsieur favre', 'luis hernandez', 'frank house', 'rosalie', 'tillich', 'bix beiderbecke', 'dark', 'jen nelson', 'victor babin', 'mr. dronk', 'milton', 'willie mays', 'charles ansley', 'wolfe', 'turner', 'day', 'miss maude', 'abigail williams', 'horn', 'marjorie morningstar', 'milstein', 'agnese', 'coble', 'shelley', 'selkirk', 'm. c. reynolds', 'ray ainsley', 'pierre', 'eileen', 'mrs. f. h. briggs', 'don taussig', 'glendora', 'j. f. bishop', 'adele', 'gov. marvin griffin', 'rep. berry', 'martin bucer', 'praisegod piepsam', 'eric ambler', 'burleson', "duke d'aumont", 'shirley', 'brahms', 'needham', 'hall johnson', 'coons', 'varnessa', 'henry', 'laurence m . klauber', 'dickens', 'origen', 'st. paul', 'bob hope', 'michael murray', 'gabriel', 'allah', 'steinbecks', 'frankie', 'midge', 'mrs. andrus', 'cohn', 'majesty', 'john clayton', 'angelo', 'william buckley', 'charley hinton', 'dr. moriarty', 'thackeray', 'volta', 'goulding', 'sadie', 'negroes', 'mr. justice clark', 'young mrs. arthur', 'lord percy', 'tobin', 's-s-sahjunt', 'ed wynn', 'miss dawn ardent', 'kleist', 'lord selkirk', 'jess', 'debora', 'wells', 'connor', 'fredrico de mille rossilini', 'lieutenant', 'jake', 'macklin', 'kenny boyer', 'scotty', 'roger williams', 'packards', 'ira gershwin', 'bonfiglio', 'vaughn', 'dora', 'o. e. plath', 'rawson', 'jackie', 'doctor fraud', 'thomas bangs thorpe', 'mrs. crombie', 'jerome kern', 'ted collins', 'bodhisattva', 'nancy parks', 'jean kerr', 'mark arnold-foster', 'theodore roosevelt', 'sartre', 'hughes', 'macaulay', 'lindskog', 'holmes', 'doris', 'carvalho', 'lord', 'orvis', 'radhakrishnan', 'nina', 'mrs. tussle', 'killpath', 'herblock', 'simms', 'marsden', 'mickie', 'lil armstrong', 'belton', 'arturo ramirez', 'john pendleton kennedy', 'herry', 'cairns', 'sergeant early', 'parsifal', 'joseph', 'c. sheer', 'jack boissoneault', 'bartok', 'truman', 'larkin', 'moreland', 'charles merz', 'ray', 'schaeffer', 'diane', 'rep. henry c. grover', 'philippoff', 'ernie broglio', 'dr. fisher', 'lieutenant rawlins', 'del castillo', 'george towsley', 'terry de la mesa allen', 'lt. gov. garland byrd', 'sir giles overreach', 'samuel f. b. morse', 'royal', 'frank robinson', 'reeves-type', 'short', 'mrs. charles shipman payson', 'rev. mark trafton', 'francis p. shepard', 'lillian', 'dr. douglass', 'pierre ameaux', 'thomas alva edison', 'bill garrett', 'cameron', 'jean eckart', 'manuel gonzales', 'dickson', 'howard mitchell', 'andrei', 'khrushchev', 'marlowe', 'larry', 'chandler', 'r. f. whitcomb', 'j. a. w. iglehart', 'si mubarak bekkai', 'reverend', 'soeren', 'arbuckle', 'helen deutsch', 'h. a. benesi', 'bud freeman', 'kenny lane', 'rizzuto', 'alfred funk', 'mr. gorboduc', 'st. augustine', 'long jim barnes', 'charles', 'horace', 'colonel josiah snelling', 'ed donnelly', 'al smith', 'r . r . mole', 'herman', 'mateo garcia', 'calhoun', 'great elizabeth', 'mr. milstein', 'jed hawksworth', 'amos c. barstow', 'lucretia', 'hamm', 'mcauliffe', 'mrs. fink', 'gilroy', 'louisa alcott', 'sen. louis crump', 'joe sullivan', 'anthony', 'mark', 'hans schweizer', 'strauss', 'gary morgan', 'charlie marble', 'rottger', 'tjokorda agoeng', 'ellis', 'stein', 'william lewis', 'harold rhodes', 'caruso', 'matheson', 'nathan hale', 'gimpy', 'mcquillan', 'michael sept', 'miss rak', 'commissioner ford c. frick', 'irvin moll', 'major roebuck', 'trafton', 'mr. christiansen', 'lemon', 'george wells', 'richard haestier', 'sergeant vaughn', 'stevie', 'paula prentiss', 'arleigh griffith', 'jack teagarden', 'jerebohm', 'william weigand', 'russell', 'philip morrison', 'more', 'h. s. walker', 'johnny keating', 'lizzy', 'little flower', 'raymond l . ditmars', 'grunnfeu arapacis', 'julio', 'clint courtney', 'frederick boland', 'heidegger', 'sam spade', 'henry morgan', 'mr. skyros', 'adrien', 'lucretius', 'mr. meeker', 'miguel', 'bob gardner', 'mr. kahler', 'george e. bohart', 'johnny', 'gagarin', 'heiser', 'c. b. carleton', 'lucien', 'maestro lippi', 'coulomb', 'george hargett', 'gyp', 'otis g. carroll', 'joseph jastrow', 'mr. cowley', 'tom horn', 'mauch', 'bill weigand', 'beebe', 'tatian', 'ben gurion', 'barstow', 'urbano quintana', 'mr. hohlbein', 'conrad', 'tolek alterman', 'oscar williams', 'hamilton basso', 'jim hutton', 'aschenbach', 'mrs. harry mercier', 'blevins', 'gordon hartweger', 'general reub davis', 'argiento', 'harris j. griston', 'mike hammer', 'jr.', 'jean jacques', 'elizabeth way', 'karl muck', 'ade', 'mccullough', 'dillon', 'asher jones', 'john blackmer', 'stephen vincent benet', 'ben arbuckle', 'jinny', 'brandt', 'mccone', 'robert frost', 'dolores hart', 'garnett lee', 'huey short', 'father lucian galtier', 'william beebe', 'dr. grimesby roylott', 'young frederick seward', 'miss ada', 'alexander', 'mal whitfield', 'corporal johnson', 'kirkwood', 'arnold toynbee', 'meek', 'fisher', 'gun', 'alexis bailly', 'rep. wesley roberts', 'dick groat', 'commander c. k. green', 'vigreux', 'schramm', 'custer', 'mr. arthur', 'cocteau', 'snopes', 'philip staffe', 'ben franklin', 'mrs. pastern', 'tony calenda', 'louis martin', 'murtaugh', 'mrs. flannagan', 'jack collins', 'gov. vandiver', 'deslonde', 'mr. average citizen', 'frank cipriani', 'joel', 'laura andrus', 'kyne', 'wallace gray', 'romagnosi', 'norths', 'reich minister of the interior', 'lou', 'nakamura', 'marlene dietrich', 'signor raymond', 'joan sutherland', 'ed keegan', 'mr. orvil e. dryfoos', 'commissioner of internal revenue', 'cleota', 'harry hawk', 'mizell', 'hawthorne', 'roberts', 'von hayek', 'west texan', 'tom bosley', 'henry /4', 'mama albright', 'mavis', 'mr. canada', 'mrs. shaefer', 'landesco', 'bill', 'colonel marsh', 'bob skinner', 'de jager', 'abyssinians', 'francis clemens', 'reno', 'bob ( bevo )', 'szolds', 'bill brown', 'roland sheldon', 'mrs. joseph shadow of greatness douglas', 'mrs. hewlitt', 'mr. lincoln', 'boucher', 'charles 10', 'filippo rossi', 'marcus jastrow', 'samuel s. foss', 'abel', 'cervantes', 'george latinovich', 'farneses', 'roger entwhistle', 'solly hemus', 'anthony creighton', 'acting captain o. t. killpath', 'don rudolph', 'maria callas', 'mr. blatz', 'major', 'cook bennett mathues', 'dietrich', 'mrs. stowe', 'abbe raynal', 'stan musial', 'izaak', 'nero wolfe', 'dr. zworykin', 'poynting-robertson', 'mr. guthrie', 'junior mr. canada', 'john hunt morgan', 'bonner', 'j. f.', 'mr. a.', 'david hume', 'roger maris', "o'connor", 'patricia', 'dr. freud', 'grover', 'ben hogan', 'caldwell', 'granny', 'amy', 'sir arthur conan doyle', 'thomas w. dorr', 'abner haynes', 'denny', 'pancho villa', 'alusik', 'tien', 'mrs. emerson', 'bill jr.', 'wieland wagner', 'edison', 'larry scherer', 'michael perse', 'erich auerbach', 'anzilotti', 'rattzhenfuut', 'ratcliff', 'norm van brocklin', 'hopkins', 'phineoppus', 'garry moore', 'antony rose', 'graham', 'ron hansen', 'robert dickson', 'mrs. claire shaefer', 'miss arapacis', 'juan jose martinez', 'joyce monmouth', 'glen mankowski', 'burt', 'frank lloyd wright', 'jorge', 'edward s. isham', 'dick mcauliffe', 'mr. crombie', 'cicero', 'pettit', 'john cool', 'mr. thor', 'john cudmore', 'jackie jensen', 'nixon', 'darrell royal', "william van o'connor", 'depew', 'caroline', 'rudyard kipling', 'andrew', 'tom owen', 'ibrahim', 'alexander brandel', 'mr. justice taney', 'john heffernan', 'mose', 'kennedy', 'larry larkin', 'gogol', 'gustaf vasa', 'balafrej', 'gauleiter', 'felix bush', 'coach john benington', 'bern', 'caroli', 'gonzalez', 'lord peter whimsey', 'best', 'cherkasov', 'nick skorich', 'ritter', 'gyp carmer', 'marv breeding', 'wilhelmina', 'andy carey', 'russ snyder', 'southey', 'angelina', 'garrisonian', 'goodwin', 'ivan allen jr.', 'j. j. hapgood', 'mccarthy', 'mel chandler', 'beardsley', 'sir francis drake', 'mazeroski', 'sonenberg', 'chapman', 'toonker burkette', 'dr. servatius', 'sawalisch', 'jessica', 'mahzeer', 'len boehmer', 'chuck stober', 'waters', 'messrs. salsich', 'jeff lawrence', 'e. g. bacon', 'serge koussevitzky', 'johnny blanchard', 'vinegar bend mizell', 'john snook', 'hank', 'miss pulova', 'a. j. armstrong', 'young', 'the english', 'roland claude', 'wyatt', 'h. e. bates', 'john marsden', 'patrolman accacia', 'mr. addison', 'herbert a. leggett', 'art hambric', 'brevet major general george armstrong custer', 'wilkes', 'kieffer', 'c. edwin knill', 'rev. trafton', 'kipling', 'patagonians', 'cromwell', 'towsley', 'annie', 'blanche', 'dicke', 'francisco chaves', 'ole buckra', 'dr. edward teller', 'ray moore', 'blatz', 'aaron blaustein', 'bobby lowe', 'capone', 'sulamith', 'jerry williams', 'johnson jones hooper', 'la dietrich', 'laurie', 'bates', 'ernest bloch', 'flem snopes', 'williams', 'dr. verdi', 'anna pulova', 'norm siebern', 'koussevitzky', 'rudolf kempe', 'father murray', 'hogan', 'bertha', 'alexander mcdonnell', 'floyd', 'mrs. meeker', 'james bird', 'dave harris', 'jenkins lloyd jones', 'captain docherty', 'john hudson', 'miss celie', 'lauritz esmarch', 'alberto', 'miss sarah', 'murray', 'drs. zworykin', 'white', 'arnold palmer', 'bellini', 'miss snow', 'george s. patton', 'longfellow', 'mason', 'dr. c. m. herzfeld', 'mr. mckinley', 'hamilton burger', 'blossom seeley', 'camaret', 'anniston', 'louis dufresne', 'harrison e. salisbury', 'shell', 'aggie', 'roy', 'rumscheidt', 'kitti', 'john proctor', 'joseph of arimathea', 'gino cimoli', 'kerr', 'mike kelsey', 'francis pendleton gaines', 'j. n. hard', 'alicia', 'ana', 'carters', 'larkins', 'mrs. macready', 'marchand', 'paul w. orvis', 'napoleon', 'hirschey', 'lieutenant rinker', 'oldenburg', 'peter', 'engh', 'district attorney mills', 'george meredith', 'mr. america', 'warren spahn', 'goering', 'elisha r. potter', 'michelangelo', 'miro', 'william', 'schuyler', 'charles 12', 'berry', 'j . j . quelch', 'general chairman', 'dr. maurice e. linden', 'riggs', 'fanny', 'captain jan', 'walter', 'mr. garth', 'pope pius 12', 'kahler', 'yankee schwartz', 'throneberry', 'mr. john b. oakes', 'superintendent of documents', 'tolstoy', 'mantegna', 'mrs. godwin', 'hino', 'sergeant prevot', 'aunt rose', 'oregonians', 'mrs. mason', 'orville torrence killpath', 'mudugno', 'richard tucker', 'birnbaum', 'gonzales', 'marshal woods', 'van brocklin', 'dave', 'bob allison', 'juan marcus', 'john calvin', 'sabine', 'igor', 'peg', 'beckworth', 'lane', 'solomon chandler', 'grimm', 'gun matson', 'angie', 'gibson', 'm. w. mills', 'vandiver', 'house', 'schubert-beethoven-mozart', 'arthur hays sulzberger', 'hurok', 'big bear', 'paynes', 'nischwitz', 'cousin lura', 'lindy mcdaniel', 'anthony payne', 'father werther', 'castro', 'chuck hinton', 'george w. cable', 'steinberg', 'carsten', 'mendoza', 'dousman', 'miss keene', 'serif', 'shylock', 'joe harris', 'mayor-nominate ivan allen jr.', 'trikojus', 'garth', 'nathaniel hawthorne', 'dr. julian smith', 'eddie bracken', 'jesse macklin', 'picasso', 'mr. frans', 'gilbert seldes', 'john peal bishop', 'herb pennock', 'gratt', 'marcus reno', 'prandtl', 'eckenfelder', 'district traffic supervisor', 'f . w . urich', 'eddie'}
+Lemma('state.v.01.say'): {'sayin', 'say', 'sed', 'saying', 'says', 'said'}
+Lemma('see.v.05.view'): {'view', 'viewed', 'viewing', 'views'}
+Lemma('dark.s.03.dark'): {'dark'}
+Lemma('face.n.01.face'): {'face', 'faces'}
+Lemma('expression.n.01.look'): {'look', 'looks'}
+Lemma('subsequently.r.01.later'): {'later'}
+Lemma('very.r.01.very'): {'very'}
+Lemma('better.a.01.better'): {'better'}
+Lemma('forget.v.02.forget'): {'forgotten', 'forget', 'forgit', 'forgot'}
+Lemma('promise.n.02.hope'): {'hope', 'hopes'}
+Lemma('natural.a.01.natural'): {'natural'}
+Lemma('death.n.02.death'): {'death'}
+Lemma('prompt.v.03.remind'): {'reminded', 'reminding', 'reminds', 'remind'}
+Lemma('large.a.01.big'): {'bigger', 'biggest', 'big'}
+Lemma('detect.v.01.notice'): {'noticed', 'notice', 'noticing'}
+Lemma('telephone.n.01.telephone'): {'telephone', 'telephones'}
+Lemma('then.r.01.then'): {'then'}
+Lemma('hope.v.02.hope'): {'hoping', 'hope', 'hoped'}
+Lemma('get_down.v.07.begin'): {'begin', 'begins', 'beginning', 'begun', 'began'}
+Lemma('note.n.01.note'): {'notes', 'note'}
+Lemma('listen.v.01.listen'): {'listened', 'listening', 'listen'}
+Lemma('understand.v.02.see'): {'seen', 'sees', 'saw', 'seeing', 'see'}
+Lemma('call.v.03.call'): {'called', 'call', 'calls', 'calling'}
+Lemma('mind.n.01.mind'): {'minds', 'mind'}
+Lemma('manage.v.02.handle'): {'handles', 'handle', 'handled', 'handling'}
+Lemma('treat.v.01.handle'): {'handle', 'handled', 'handling'}
+Lemma('just.r.03.just'): {'just'}
+Lemma('allege.v.01.say'): {'saying', 'says', 'said', 'say'}
+Lemma('look.v.01.look'): {'looking', 'look', 'looked', 'looks'}
+Lemma('atom.n.02.particle'): {'particle', 'particles'}
+Lemma('apparent.s.01.apparent'): {'apparent'}
+Lemma('examine.v.02.examine'): {'examine', 'examined', 'examining'}
+Lemma('heart.n.02.heart'): {'heart'}
+Lemma('upper.s.02.upper'): {'upper'}
+Lemma('argue.v.03.indicate'): {'indicate', 'indicated', 'indicating'}
+Lemma('several.s.01.several'): {'several'}
+Lemma('direction.n.01.way'): {'way'}
+Lemma('again.r.01.again'): {'again'}
+Lemma('problem.n.01.problem'): {'problem', 'problems'}
+Lemma('naturally.r.01.of_course'): {'of course', 'acourse', 'uh coahse'}
+Lemma('hash_out.v.01.discuss'): {'discussing', 'discussed', 'discuss'}
+Lemma('hypothesis.n.02.possibility'): {'possibilities', 'possibility'}
+Lemma('however.r.03.however'): {'however'}
+Lemma('search.v.01.look_for'): {'looked for', 'look for', 'looking for'}
+Lemma('evidence.n.01.evidence'): {'evidence'}
+Lemma('come.v.04.come'): {'coming', 'come', 'came', 'comes'}
+Lemma('depository_financial_institution.n.01.bank'): {'bank', 'banks'}
+Lemma('locate.v.01.locate'): {'located', 'locate', 'locating'}
+Lemma('agree.v.01.agree'): {'agrees', 'agreeing', 'agree', 'agreed'}
+Lemma('play.v.02.play'): {'play', 'playing', 'plays', 'played'}
+Lemma('shake.v.01.shake'): {'shake', 'shaken', 'shaking', 'shook'}
+Lemma('head.n.01.head'): {'head', 'heads'}
+Lemma('then.r.02.then'): {'then'}
+Lemma('besides.r.02.too'): {'too'}
+Lemma('interrogate.v.02.question'): {'questioning', 'questioned', 'question'}
+Lemma('know.v.04.know'): {'knew', 'knowing', 'known', 'knows', 'know'}
+Lemma('more.a.02.more'): {'more'}
+Lemma('look.v.03.look'): {'looking', 'look', 'looked'}
+Lemma('remember.v.02.think_of'): {'thinks of', 'think', 'thinking', 'thinking of', 'thought of', 'think of'}
+Lemma('think_of.v.04.think_of'): {'thinks of', 'thought', 'thinking of', 'thought of', 'think of'}
+Lemma('mail.v.02.send'): {'send', 'sends', 'sent'}
+Lemma('directly.r.01.directly'): {'directly'}
+Lemma('ask.v.02.ask'): {'asks', 'asking', 'ask', 'asked'}
+Lemma('telephone.n.01.phone'): {'phones', 'phone'}
+Lemma('leave.v.01.leave'): {'leave', 'leavin', 'left', 'leaves', 'leaving'}
+Lemma('two.n.01.two'): {'two'}
+Lemma('see.v.12.see'): {'saw', 'seeing', 'see'}
+Lemma('day.n.05.day'): {'days', 'day'}
+Lemma('secretary.n.02.secretary'): {'secretaries', 'secretary'}
+Lemma('tone.n.01.tone'): {'tone', 'tones'}
+Lemma('bespeak.v.01.indicate'): {'indicate', 'indicates', 'indicated', 'indicating'}
+Lemma('short.a.01.short'): {'short', 'shorter'}
+Lemma('enter.v.01.enter'): {'entering', 'entered', 'enters', 'enter'}
+Lemma('office.n.01.office'): {'offices', 'office'}
+Lemma('professional.a.02.professional'): {'professional'}
+Lemma('man.n.01.man'): {'men', 'man'}
+Lemma('well.r.02.well'): {'well'}
+Lemma('three.s.01.three'): {'3.0', 'three'}
+Lemma('child.n.02.child'): {'children', 'child'}
+Lemma('male_child.n.01.boy'): {'boys', 'boy'}
+Lemma('female_child.n.01.girl'): {'girl', 'girls'}
+Lemma('last.r.02.finally'): {'finally'}
+Lemma('know.v.03.know'): {'knew', 'knowing', 'known', 'knows', 'know'}
+Lemma('wholly.r.01.completely'): {'completely'}
+Lemma('incorrect.a.01.wrong'): {'wrong'}
+Lemma('continue.v.01.go_on'): {'goes on', 'go on', 'went on', 'go', 'going on', 'gone on', 'went', 'goes'}
+Lemma('right.r.01.right'): {'right'}
+Lemma('mention.v.01.refer'): {'referring', 'refer', 'referred', 'refers'}
+Lemma('once.r.01.once'): {'once'}
+Lemma('ever.r.01.ever'): {'ever'}
+Lemma('see.v.10.see'): {'seen', 'sees', 'saw', 'seeing', 'see'}
+Lemma('so.r.01.so'): {'so'}
+Lemma('see.v.01.see'): {'seen', 'sees', 'seein', 'saw', 'seeing', 'sea', 'see'}
+Lemma('bring.v.04.bring'): {'brought', 'brings', 'bringing', 'bring'}
+Lemma('immediately.r.01.immediately'): {'immediately'}
+Lemma('reasonably.r.01.fairly'): {'fairly'}
+Lemma('note.v.01.remark'): {'remarked', 'remarks', 'remark', 'remarking'}
+Lemma('reason.n.01.reason'): {'reason', 'reasons'}
+Lemma('change.v.01.change'): {'changes', 'changed', 'changing', 'change'}
+Lemma('right.r.02.right'): {'right'}
+Lemma('grow.v.02.grow'): {'growing', 'grew', 'grow', 'grows', 'grown'}
+Lemma('particularly.r.01.particularly'): {'particularly'}
+Lemma('time.n.04.time'): {'time'}
+Lemma('note.v.01.mention'): {'mention', 'mentioned'}
+Lemma('look.v.02.seem'): {'seem', 'seeming', 'seemed', 'seems'}
+Lemma('precisely.r.01.just'): {'just'}
+Lemma('become.v.01.become'): {'becoming', 'became', 'becomes', 'become'}
+Lemma('earlier.r.01.before'): {'before', 'befoh'}
+Lemma('nod.v.02.nod'): {'nodded', 'nod', 'nodding'}
+Lemma('nod.v.01.nod'): {'nodded', 'nod', 'nodding'}
+Lemma('affect.v.05.strike'): {'strike', 'struck', 'strikes'}
+Lemma('seek.v.01.seek'): {'sought', 'seeks', 'seeking', 'seek'}
+Lemma('read.v.01.read'): {'reading', 'reads', 'read'}
+Lemma('go.v.05.go'): {'go', 'went'}
+Lemma('come.v.03.come'): {'coming', 'come', 'came', 'comes'}
+Lemma('add.v.01.add'): {'added', 'add', 'adding', 'adds'}
+Lemma('continue.v.01.continue'): {'continuing', 'continued', 'continue', 'continues'}
+Lemma('duty.n.02.duty'): {'duty', 'duties'}
+Lemma('personal.s.02.personal'): {'personal'}
+Lemma('sum.n.01.sum'): {'sums', 'sum'}
+Lemma('still.r.01.still'): {'still'}
+Lemma('think.v.03.think'): {'thinks', 'think', 'thinking', 'thought'}
+Lemma('earn.v.02.earn'): {'earn', 'earned', 'earning'}
+Lemma('recognize.v.04.recognize'): {'recognized', 'recognize', 'recognizes'}
+Lemma('well.r.03.well'): {'well', 'better'}
+Lemma('include.v.03.include'): {'included', 'include', 'including'}
+Lemma('find.v.05.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('find.v.03.find'): {'finding', 'find', 'found'}
+Lemma('mention.v.01.mention'): {'mentioning', 'mention', 'mentioned', 'mentions'}
+Lemma('detail.n.01.point'): {'point', 'points'}
+Lemma('a_bit.r.01.a_bit'): {'a bit', 'a'}
+Lemma('high.a.01.high'): {'higher', 'highest', 'high'}
+Lemma('refer.v.02.concern'): {'concern', 'concerns', 'concerned', 'concerning'}
+Lemma('trouble.n.01.trouble'): {'trouble'}
+Lemma('persuade.v.02.persuade'): {'persuading', 'persuaded', 'persuade'}
+Lemma('know.v.05.know'): {'known', 'knew', 'knows', 'know'}
+Lemma('following.s.02.next'): {'next'}
+Lemma('moment.n.01.moment'): {'moment', 'moments'}
+Lemma('half.s.01.half'): {'half', 'one-half'}
+Lemma('react.v.01.react'): {'reacted', 'reacting', 'reacts', 'react'}
+Lemma('ask.v.01.inquire'): {'inquired', 'inquire', 'inquiring'}
+Lemma('reach.v.02.reach'): {'reach', 'reaches', 'reached', 'reaching'}
+Lemma('meet.v.01.see'): {'saw', 'seen', 'seeing', 'see'}
+Lemma('occasionally.r.01.occasionally'): {'occasionally'}
+Lemma('rule.v.04.find'): {'finds', 'finding', 'find', 'found'}
+Lemma('talk.v.01.talk'): {'talk', 'talks', 'talked', 'talking'}
+Lemma('play.v.01.play'): {'played', 'playing', 'plays', 'play'}
+Lemma('employment.n.02.work'): {'work'}
+Lemma('lead.v.01.take'): {'takin', 'taken', 'take', 'takes', 'took', 'taking'}
+Lemma('away.r.01.away'): {'away'}
+Lemma('a_lot.r.01.a_lot'): {'lots of', 'a lot', 'lot'}
+Lemma('tell.v.02.tell'): {'tells', 'tell', 'told', 'telling'}
+Lemma('hypothesis.n.02.theory'): {'theory', 'theories'}
+Lemma('manner.n.02.manner'): {'manner'}
+Lemma('necessitate.v.01.demand'): {'demands', 'demanded', 'demand', 'demanding'}
+Lemma('to_be_sure.r.01.no_doubt'): {'no doubt'}
+Lemma('feel.v.01.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('lead.v.01.lead'): {'led', 'leading', 'leads', 'lead'}
+Lemma('doorway.n.01.door'): {'doors', 'door'}
+Lemma('tell.v.05.tell'): {'tell', 'told', 'telling'}
+Lemma('however.r.01.nevertheless'): {'nevertheless'}
+Lemma('populate.v.01.live'): {'lived', 'lives', 'living', 'live'}
+Lemma('four.s.01.four'): {'four'}
+Lemma('glass.n.01.glass'): {'glass'}
+Lemma('floor.n.02.floor'): {'floor', 'floors'}
+Lemma('professional.a.01.professional'): {'professional'}
+Lemma('think.v.02.think'): {'think', 'thinking', 'though', 'thought', 'thinks'}
+Lemma('month.n.02.month'): {'months', 'month'}
+Lemma('possibly.r.01.perhaps'): {'perhaps'}
+Lemma('twenty-five.s.01.twenty-five'): {'twenty-five'}
+Lemma('one.s.01.one'): {'one'}
+Lemma('incorporate.v.02.contain'): {'contained', 'contains', 'contain', 'containing'}
+Lemma('lie.v.01.lie'): {'laying', 'lying', 'lay', 'lie', 'lies'}
+Lemma('offer.v.02.offer'): {'offer', 'offering', 'offers', 'offered'}
+Lemma('ask.v.01.ask'): {'asks', 'asking', 'ask', 'asked'}
+Lemma('time.n.02.time'): {'times', 'time'}
+Lemma('add.v.02.add'): {'add', 'adding', 'added', 'adds'}
+Lemma('day.n.02.day'): {'days', 'day'}
+Lemma('manner.n.01.way'): {'ways', 'way'}
+Lemma('small.a.01.little'): {'little'}
+Lemma('transport.v.02.carry'): {'carries', 'carrying', 'carried', 'carry'}
+Lemma('body_of_water.n.01.water'): {'water', 'waters'}
+Lemma('by_and_by.r.01.later'): {'later'}
+Lemma('reach.v.01.reach'): {'reach', 'reaches', 'reached', 'reaching'}
+Lemma('eight.s.01.eight'): {'eight'}
+Lemma('get_down.v.07.start'): {'starting', 'starts', 'started', 'start'}
+Lemma('happen.v.02.happen'): {'happened', 'happens', 'happen'}
+Lemma('question.n.01.question'): {'questions', 'question'}
+Lemma('remain.v.03.remain'): {'remaining', 'remain', 'remained', 'remains'}
+Lemma('evidence.n.02.evidence'): {'evidence'}
+Lemma('note.n.02.note'): {'notes', 'note'}
+Lemma('find.v.01.find'): {'finding', 'finds', 'find', 'found'}
+Lemma('information.n.01.information'): {'information'}
+Lemma('yield.v.01.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('first.r.01.first'): {'first'}
+Lemma('think.v.01.believe'): {'believed', 'believe', 'believing', 'believes'}
+Lemma('determine.v.01.determine'): {'determining', 'determined', 'determine', 'determines'}
+Lemma('great.s.01.great'): {'great', 'greater'}
+Lemma('concluding.s.01.last'): {'last'}
+Lemma('same.s.04.same'): {'same'}
+Lemma('direct.a.01.direct'): {'direct'}
+Lemma('send.v.01.send'): {'send', 'sending', 'sends', 'sent'}
+Lemma('top.n.01.top'): {'top', 'tops'}
+Lemma('fail.v.02.fail'): {'fails', 'failing', 'failed', 'fail'}
+Lemma('indicate.v.03.indicate'): {'indicate', 'indicates', 'indicated', 'indicating'}
+Lemma('turn.v.01.turn'): {'turn', 'turning', 'turns', 'turned'}
+Lemma('chief.s.01.chief'): {'chief'}
+Lemma('interest.n.01.interest'): {'interests', 'interest'}
+Lemma('return.v.01.return'): {'returns', 'return', 'returning', 'returned'}
+Lemma('travel.v.01.go'): {'go', 'gone', 'went to', 'going', 'went', 'goin', 'goes'}
+Lemma('spend.v.01.spend'): {'spends', 'spending', 'spend', 'spent'}
+Lemma('support.v.02.support'): {'supported', 'support', 'supporting'}
+Lemma('obtain.v.01.obtain'): {'obtain', 'obtaining', 'obtained'}
+Lemma('large.a.01.large'): {'larger', 'largest', 'large'}
+Lemma('purpose.n.01.purpose'): {'purpose', 'purposes'}
+Lemma('prove.v.02.establish'): {'establishes', 'establish', 'established'}
+Lemma('far.r.02.far'): {'farther', 'far', 'further'}
+Lemma('about.r.07.nearly'): {'nearly'}
+Lemma('note.v.03.note'): {'noting', 'noted', 'note'}
+Lemma('note.v.01.note'): {'noting', 'noted', 'notes', 'note'}
+Lemma('name.v.01.name'): {'naming', 'name', 'named'}
+Lemma('name.v.01.call'): {'called', 'call', 'calls', 'calling'}
+Lemma('back.r.01.back'): {'back'}
+Lemma('propose.v.01.propose'): {'proposed', 'proposing', 'proposes', 'propose'}
+Lemma('ahead.r.01.ahead'): {'ahead'}
+Lemma('former.s.03.previous'): {'previous'}
+Lemma('precisely.r.01.precisely'): {'precisely'}
+Lemma('situation.n.02.situation'): {'situation', 'situations'}
+Lemma('state.v.01.state'): {'states', 'stating', 'stated', 'state'}
+Lemma('so.r.03.so'): {'so'}
+Lemma('event.n.02.case'): {'cases', 'case'}
+Lemma('about.r.07.almost'): {'almost'}
+Lemma('coerce.v.01.force'): {'forced', 'force', 'forcing'}
+Lemma('five.s.01.five'): {'five'}
+Lemma('certain.a.02.sure'): {'sure'}
+Lemma('opportunity.n.01.opportunity'): {'opportunities', 'opportunity'}
+Lemma('good.a.01.good'): {'better', 'good', 'best'}
+Lemma('line_up.v.02.find'): {'finding', 'find', 'found'}
+Lemma('stay.v.04.remain'): {'remaining', 'remain', 'remained', 'remains'}
+Lemma('refuse.v.01.refuse'): {'refused', 'refusing', 'refuses', 'refuse'}
+Lemma('believe.v.01.believe'): {'believed', 'believe', 'believing', 'believes'}
+Lemma('common.a.01.common'): {'common', 'commoner'}
+Lemma('first.a.01.first'): {'first'}
+Lemma('happen.v.01.occur'): {'occurs', 'occur', 'occurred', 'occurring'}
+Lemma('wait.v.01.wait'): {'waits', 'waited', 'wait', 'waiting'}
+Lemma('list.v.02.list'): {'list', 'listed'}
+Lemma('contend.v.06.fight'): {'fought', 'fighting', 'fight', 'fightin'}
+Lemma('win.v.01.win'): {'wins', 'winning', 'won', 'win'}
+Lemma('trouble.n.04.difficulty'): {'difficulty', 'difficulties'}
+Lemma('travel_by.v.01.pass'): {'passing', 'passes', 'pass', 'passed'}
+Lemma('hang.v.01.hang'): {'hanging', 'hung', 'hang'}
+Lemma('rise.v.01.rise'): {'rose', 'rises', 'rising', 'risen', 'rise'}
+Lemma('fifty.s.01.fifty'): {'fifty'}
+Lemma('foot.n.02.foot'): {'feet', 'foot', 'ft'}
+Lemma('nowadays.r.01.now'): {'now'}
+Lemma('determine.v.01.find'): {'finds', 'find', 'finding', 'found'}
+Lemma('run.v.03.lead'): {'led', 'leading', 'leads'}
+Lemma('chief.s.01.main'): {'main'}
+Lemma('idea.n.01.idea'): {'ideas', 'idea'}
+Lemma('come.v.01.come'): {'come', 'comin', 'comes', 'com', 'came', 'coming'}
+Lemma('sound.v.01.sound'): {'sounds', 'sounded', 'sound'}
+Lemma('announce.v.01.announce'): {'announces', 'announce', 'announcing', 'announced'}
+Lemma('alternatively.r.01.instead'): {'instead'}
+Lemma('reasonable.a.01.reasonable'): {'reasonable'}
+Lemma('complete.v.01.finish'): {'finish', 'finishing', 'finishes', 'finished'}
+Lemma('talk.v.02.speak'): {'spoken', 'speak', 'speaks', 'speaking', 'spoke'}
+Lemma('ten.s.01.ten'): {'ten'}
+Lemma('effective.a.01.effective'): {'effective'}
+Lemma('avoid.v.01.avoid'): {'avoiding', 'avoid', 'avoided'}
+Lemma('high.a.02.high'): {'higher', 'highest', 'high'}
+Lemma('snow.n.02.snow'): {'snow'}
+Lemma('immediately.r.01.at_once'): {'at once'}
+Lemma('aside.r.02.away'): {'away'}
+Lemma('appear.v.02.appear'): {'appear', 'appears', 'appeared', 'appearing'}
+Lemma('procedure.n.01.process'): {'processing', 'process', 'processes'}
+Lemma('fill.v.02.fill'): {'filde', 'fill', 'filling', 'filled', 'fills'}
+Lemma('again.r.01.once_more'): {'once more'}
+Lemma('hold.v.03.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('hear.v.03.hear'): {'hearing', 'hear', 'heard'}
+Lemma('request.v.01.call_for'): {'calls for', 'called for', 'calling for', 'call for'}
+Lemma('keep.v.03.keep'): {'kept', 'keeps', 'keep', 'keeping'}
+Lemma('person.n.01.individual'): {'individual', 'individuals'}
+Lemma('conduct.v.01.conduct'): {'conducting', 'conducts', 'conducted', 'conduct'}
+Lemma('order.v.01.order'): {'ordered', 'order'}
+Lemma('raise.v.02.raise'): {'raise', 'raised', 'raises', 'raising'}
+Lemma('hit.v.02.hit'): {'hits', 'hitting', 'hit'}
+Lemma('contribute.v.03.contribute'): {'contributing', 'contributes', 'contributed', 'contribute'}
+Lemma('change.n.04.change'): {'changes', 'change'}
+Lemma('postdate.v.01.follow'): {'follows', 'following', 'followed', 'follow'}
+Lemma('here.r.02.here'): {'here'}
+Lemma('great.s.02.great'): {'great', 'greatest'}
+Lemma('state.n.04.nation'): {'nation', 'nations'}
+Lemma('meet.v.07.assemble'): {'assemble', 'assembled'}
+Lemma('merely.r.01.merely'): {'merely'}
+Lemma('earth.n.01.world'): {'world'}
+Lemma('mark.v.02.mark'): {'marking', 'mark', 'marked', 'marks'}
+Lemma('sake.n.01.interest'): {'interests', 'interest'}
+Lemma('possibly.r.01.possibly'): {'possibly'}
+Lemma('law.n.01.law'): {'law', 'laws'}
+Lemma('sense.n.02.sense'): {'sense'}
+Lemma('condition.n.02.condition'): {'condition', 'conditions'}
+Lemma('acknowledge.v.06.recognize'): {'recognized', 'recognize', 'recognizing', 'recognizes'}
+Lemma('state.n.04.state'): {'state', 'states'}
+Lemma('political.a.02.political'): {'political'}
+Lemma('share.v.01.share'): {'shares', 'shared', 'sharing', 'share'}
+Lemma('evolve.v.01.develop'): {'develops', 'developing', 'develop', 'developed'}
+Lemma('theory.n.01.theory'): {'theory', 'theories'}
+Lemma('doctrine.n.01.doctrine'): {'doctrines', 'doctrine'}
+Lemma('major.a.01.major'): {'major'}
+Lemma('action.n.02.action'): {'action', 'actions'}
+Lemma('experience.n.03.experience'): {'experiences', 'experience'}
+Lemma('motivation.n.01.need'): {'needs', 'need'}
+Lemma('criterion.n.02.standard'): {'standard', 'standards'}
+Lemma('small.a.01.small'): {'smaller', 'small'}
+Lemma('actually.r.01.really'): {'really'}
+Lemma('less.r.01.less'): {'less'}
+Lemma('political.a.01.political'): {'political'}
+Lemma('particular.s.01.special'): {'special'}
+Lemma('united_states.n.01.United_States'): {'united states'}
+Lemma('carry.v.04.express'): {'expresses', 'expressed', 'express', 'expressing'}
+Lemma('related.a.01.related_to'): {'related to'}
+Lemma('state.n.04.country'): {'country', 'countries'}
+Lemma('more.a.01.more'): {'more'}
+Lemma('fact.n.02.fact'): {'fact', 'facts'}
+Lemma('beginning.n.04.origin'): {'origins', 'origin'}
+Lemma('keep.v.01.maintain'): {'maintained', 'maintains', 'maintain', 'maintaining'}
+Lemma('rule.n.01.rule'): {'rule', 'rules'}
+Lemma('lay_down.v.01.establish'): {'establishing', 'establishes', 'establish', 'established'}
+Lemma('join.v.01.join'): {'joining', 'join', 'joined'}
+Lemma('quite.r.02.quite'): {'quite'}
+Lemma('enroll.v.01.enter'): {'entering', 'entered', 'enter'}
+Lemma('writer.n.01.writer'): {'writers', 'writer'}
+Lemma('consequence.n.01.effect'): {'effects', 'effect'}
+Lemma('aspect.n.02.aspect'): {'aspect', 'aspects'}
+Lemma('particular.s.01.particular'): {'particular'}
+Lemma('old.a.02.old'): {'older', 'ould', 'old'}
+Lemma('cover.v.05.cover'): {'covered', 'covering', 'covers', 'cover'}
+Lemma('common.s.03.common'): {'common'}
+Lemma('united_states.n.01.America'): {'america'}
+Lemma('lose.v.01.lose'): {'loses', 'losing', 'lost', 'lose'}
+Lemma('wholly.r.01.entirely'): {'entirely'}
+Lemma('power.n.01.power'): {'power', 'powers'}
+Lemma('affect.v.01.affect'): {'affecting', 'effect', 'affected', 'affects', 'affect'}
+Lemma('no_longer.r.01.no_longer'): {'no longer'}
+Lemma('associate.v.01.relate'): {'related', 'relates', 'relating', 'relate'}
+Lemma('aspect.n.01.aspect'): {'aspect', 'aspects'}
+Lemma('see.v.05.regard'): {'regards', 'regarded', 'regarding', 'regard'}
+Lemma('individual.n.02.individual'): {'individual', 'individuals'}
+Lemma('national.a.01.national'): {'national'}
+Lemma('intensity.n.02.intensity'): {'intensity'}
+Lemma('scope.n.01.scope'): {'scope'}
+Lemma('notion.n.02.notion'): {'notions', 'notion'}
+Lemma('spot.v.02.recognize'): {'recognized', 'recognize', 'recognised', 'recognizing'}
+Lemma('reflect.v.01.reflect'): {'reflect', 'reflects', 'reflecting', 'reflected'}
+Lemma('see.v.05.see'): {'seen', 'sees', 'saw', 'seeing', 'see'}
+Lemma('kind.n.01.form'): {'form', 'forms'}
+Lemma('human.a.01.human'): {'human'}
+Lemma('organization.n.01.organization'): {'organization', 'organizations'}
+Lemma('different.a.01.different'): {'different'}
+Lemma('try.v.01.seek'): {'sought', 'seeks', 'seeking', 'seek'}
+Lemma('agree.v.02.agree'): {'agree', 'agreed'}
+Lemma('growth.n.02.growth'): {'growth'}
+Lemma('respective.s.01.various'): {'various'}
+Lemma('control.v.01.control'): {'controls', 'controlling', 'control', 'controlled'}
+Lemma('take.v.06.take'): {'taking', 'taken', 'take', 'took'}
+Lemma('leave.v.07.lead'): {'led', 'leading', 'leads', 'lead'}
+Lemma('means.n.01.means'): {'means'}
+Lemma('policy.n.02.policy'): {'policy', 'policies'}
+Lemma('cause.v.01.do'): {'did', 'doing', 'does', 'done', 'do'}
+Lemma('quickly.r.01.rapidly'): {'rapidly'}
+Lemma('change.v.02.change'): {'changed', 'changing', 'change'}
+Lemma('force.n.01.force'): {'force', 'forces'}
+Lemma('thing.n.02.thing'): {'thing', 'things'}
+Lemma('consider.v.03.deal'): {'deals', 'deal', 'dealing', 'dealt'}
+Lemma('situation.n.01.situation'): {'situation', 'situations'}
+Lemma('undertaking.n.01.task'): {'task', 'tasks'}
+Lemma('result.v.01.result'): {'resulted', 'resulting', 'results', 'result'}
+Lemma('amount.n.02.amount'): {'amounts', 'amount'}
+Lemma('homo.n.02.man'): {'man', 'men'}
+Lemma('generally.r.02.generally'): {'generally'}
+Lemma('quite.r.01.quite'): {'quite'}
+Lemma('increase.v.02.increase'): {'increases', 'increased', 'increase', 'increasing'}
+Lemma('serve.v.01.serve'): {'serve', 'serves', 'serving', 'served'}
+Lemma('policy.n.01.policy'): {'policy', 'policies'}
+Lemma('labor.n.01.labor'): {'labor'}
+Lemma('however.r.01.however'): {'however'}
+Lemma('doctrine.n.01.philosophy'): {'philosophy'}
+Lemma('major.a.02.major'): {'major'}
+Lemma('trade.n.01.trade'): {'trade'}
+Lemma('impression.n.01.notion'): {'notions', 'notion'}
+Lemma('duty.n.01.obligation'): {'obligations', 'obligation'}
+Lemma('supplant.v.01.replace'): {'replace', 'replacing', 'replaced'}
+Lemma('family.n.02.family'): {'family', 'families'}
+Lemma('chief.s.01.principal'): {'principle', 'principal'}
+Lemma('example.n.01.example'): {'example', 'examples'}
+Lemma('at_least.r.02.at_least'): {'at least'}
+Lemma('extent.n.02.extent'): {'extent'}
+Lemma('bring.v.03.bring'): {'brought', 'brings', 'bring'}
+Lemma('reject.v.01.reject'): {'rejecting', 'rejected', 'reject', 'rejects'}
+Lemma('part.n.01.part'): {'part', 'parts'}
+Lemma('consequence.n.01.result'): {'results', 'result'}
+Lemma('originate.v.01.arise'): {'arose', 'arising', 'arises', 'arise'}
+Lemma('respective.s.01.several'): {'several'}
+Lemma('national.a.02.national'): {'national'}
+Lemma('equally.r.01.as'): {'as'}
+Lemma('frequently.r.01.often'): {'often'}
+Lemma('change.v.03.vary'): {'vary', 'varying', 'varies', 'varied'}
+Lemma('change.n.02.change'): {'changes', 'change'}
+Lemma('only.r.03.only'): {'only'}
+Lemma('surely.r.01.surely'): {'surely'}
+Lemma('receive.v.01.receive'): {'receiving', 'receives', 'receive', 'received'}
+Lemma('equally.r.01.equally'): {'equally'}
+Lemma('continue.v.03.continue'): {'continuing', 'continues', 'continued', 'continue'}
+Lemma('following.s.01.following'): {'following'}
+Lemma('present.v.02.present'): {'presented', 'present', 'presents', 'presenting'}
+Lemma('rather.r.02.rather'): {'rather'}
+Lemma('full.a.01.full'): {'fuller', 'full'}
+Lemma('school.n.01.school'): {'school', 'schools'}
+Lemma('like.v.02.like'): {'likee', 'liking', 'likes', 'liked', 'like'}
+Lemma('slightly.r.01.somewhat'): {'somewhat'}
+Lemma('develop.v.03.develop'): {'develops', 'developing', 'develop', 'developed'}
+Lemma('following.s.02.following'): {'following'}
+Lemma('enter.v.02.enter'): {'entering', 'entered', 'enter'}
+Lemma('enjoy.v.01.enjoy'): {'enjoy', 'enjoys', 'enjoying', 'enjoyed'}
+Lemma('life.n.01.life'): {'lives', 'life'}
+Lemma('discover.v.04.find'): {'finding', 'find', 'found'}
+Lemma('direction.n.03.direction'): {'directions', 'direction'}
+Lemma('give.v.04.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('world.n.03.world'): {'worlds', 'world'}
+Lemma('universe.n.01.world'): {'world'}
+Lemma('heart.n.01.heart'): {'hearts', 'heart'}
+Lemma('concluding.s.01.final'): {'final'}
+Lemma('line.n.05.line'): {'line', 'lines'}
+Lemma('print.v.01.publish'): {'publish', 'publishing', 'published'}
+Lemma('publish.v.02.publish'): {'publishes', 'published'}
+Lemma('fresh.s.04.new'): {'new'}
+Lemma('visualize.v.01.see'): {'seen', 'sees', 'saw', 'seeing', 'see'}
+Lemma('feel.v.03.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('tell.v.03.tell'): {'tells', 'tell', 'told', 'telling'}
+Lemma('being.n.01.existence'): {'existence'}
+Lemma('love.v.01.love'): {'loving', 'loves', 'loved', 'love'}
+Lemma('short.a.02.short'): {'short', 'shorter'}
+Lemma('piece.n.01.piece'): {'pieces', 'piece'}
+Lemma('design.v.03.design'): {'designing', 'designed', 'designs', 'design'}
+Lemma('adjacent.s.01.next'): {'next'}
+Lemma('model.n.07.example'): {'example', 'examples'}
+Lemma('talk.v.01.speak'): {'spoken', 'speak', 'speaks', 'speaking', 'spoke'}
+Lemma('achieve.v.01.achieve'): {'achieving', 'achieved', 'achieve', 'achieves'}
+Lemma('answer.v.01.answer'): {'ansuh', 'answer', 'answering', 'answered', 'answers'}
+Lemma('work.n.02.work'): {'work', 'works'}
+Lemma('end.n.05.end'): {'end', 'ends'}
+Lemma('indicate.v.02.indicate'): {'indicate', 'indicates', 'indicated', 'indicating'}
+Lemma('personal.a.01.personal'): {'personal'}
+Lemma('know.v.02.know'): {'knew', 'knowing', 'known', 'knows', 'know'}
+Lemma('field.n.01.field'): {'field', 'fields'}
+Lemma('child.n.01.child'): {'children', 'child'}
+Lemma('play.v.05.play'): {'played', 'playing', 'plays', 'play'}
+Lemma('find.v.10.find'): {'find', 'found'}
+Lemma('solution.n.02.answer'): {'answer', 'answers'}
+Lemma('citizenry.n.01.people'): {'people', 'peoples'}
+Lemma('complete.v.01.complete'): {'completed', 'completes', 'completing', 'complete'}
+Lemma('describe.v.01.describe'): {'describes', 'described', 'describe', 'describing'}
+Lemma('represent.v.03.represent'): {'representing', 'represent', 'represented'}
+Lemma('discontinue.v.01.cease'): {'ceasing', 'ceased', 'cease', 'ceases'}
+Lemma('meaning.n.01.meaning'): {'meanings', 'meaning'}
+Lemma('life.n.02.life'): {'lives', 'life'}
+Lemma('custom.n.02.tradition'): {'traditions', 'tradition'}
+Lemma('back.r.03.back'): {'back'}
+Lemma('thing.n.01.thing'): {'thing', 'things'}
+Lemma('nation.n.02.country'): {'country', 'countries'}
+Lemma('spirit.n.01.spirit'): {'spirit', 'spirits'}
+Lemma('erstwhile.s.01.former'): {'former'}
+Lemma('structure.n.01.structure'): {'structure', 'structures'}
+Lemma('construct.v.01.build'): {'building', 'builds', 'build', 'built'}
+Lemma('land.n.04.ground'): {'ground'}
+Lemma('concept.n.01.conception'): {'conceptions', 'conception'}
+Lemma('memory.n.01.memory'): {'memories', 'memory'}
+Lemma('concerned.a.01.concerned'): {'concerned'}
+Lemma('compare.v.02.compare'): {'compare', 'compared', 'compares'}
+Lemma('approximately.r.01.about'): {'about'}
+Lemma('name.n.04.figure'): {'figures', 'figure'}
+Lemma('ultimately.r.01.finally'): {'finally'}
+Lemma('therefore.r.01.hence'): {'hence'}
+Lemma('down.r.01.down'): {'down'}
+Lemma('subject.n.01.subject'): {'subject', 'subjects'}
+Lemma('interest.n.03.interest'): {'interests', 'interest'}
+Lemma('kind.n.01.kind'): {'kind', 'kinds'}
+Lemma('war.n.01.war'): {'war', 'wars'}
+Lemma('fictional_character.n.01.character'): {'character', 'characters'}
+Lemma('carry_through.v.01.carry_out'): {'carried out', 'carries out', 'carrying out', 'carry', 'carry out'}
+Lemma('writer.n.01.author'): {'author', 'authors'}
+Lemma('compound.v.02.combine'): {'combine', 'combined', 'combines', 'combining'}
+Lemma('early.a.02.early'): {'earlier', 'early'}
+Lemma('follow_through.v.02.carry_out'): {'carried out', 'carrying', 'carrying out', 'carried', 'carry out'}
+Lemma('hint.v.01.suggest'): {'suggesting', 'suggests', 'suggested', 'suggest'}
+Lemma('scope.n.01.range'): {'range'}
+Lemma('very.r.02.very'): {'very'}
+Lemma('however.r.02.however'): {'however'}
+Lemma('establish.v.02.establish'): {'establishing', 'establish', 'established'}
+Lemma('deity.n.01.god'): {'god', 'gods'}
+Lemma('human.a.03.human'): {'human'}
+Lemma('first.s.02.first'): {'first'}
+Lemma('end.v.01.end'): {'ended', 'end', 'ends', 'ending'}
+Lemma('battle.n.01.battle'): {'battles', 'battle'}
+Lemma('then.r.03.then'): {'then'}
+Lemma('domain.n.02.land'): {'lands', 'land'}
+Lemma('witness.v.02.find'): {'finding', 'find', 'finds', 'found'}
+Lemma('yet.r.01.yet'): {'yet'}
+Lemma('fifteen.s.01.fifteen'): {'fifteen'}
+Lemma('suddenly.r.01.suddenly'): {'suddenly'}
+Lemma('impression.n.01.feeling'): {'feelings', 'feeling'}
+Lemma('history.n.04.history'): {'history'}
+Lemma('write.v.01.write'): {'writing', 'write', 'writes', 'written', 'wrote'}
+Lemma('form.n.03.form'): {'form', 'forms'}
+Lemma('transit.v.01.pass_through'): {'passes through', 'passed through', 'passing through', 'pass through'}
+Lemma('fire.v.02.fire'): {'fired', 'firing'}
+Lemma('sing.v.01.sing'): {'sung', 'sings', 'sing', 'sang', 'singing'}
+Lemma('lay.v.02.lay'): {'laying', 'lay', 'laid'}
+Lemma('way.n.04.way'): {'way'}
+Lemma('across-the-board.s.01.wide'): {'wider', 'wide'}
+Lemma('history.n.02.history'): {'history'}
+Lemma('student.n.01.student'): {'students', 'student'}
+Lemma('typify.v.02.represent'): {'representing', 'represent', 'represents', 'represented'}
+Lemma('minimal.a.01.minimal'): {'minimal'}
+Lemma('opportunity.n.01.chance'): {'chance', 'chances'}
+Lemma('achieve.v.01.attain'): {'attaining', 'attained', 'attain'}
+Lemma('serve.v.07.serve'): {'serve', 'serves', 'serving', 'served'}
+Lemma('well.r.01.well'): {'well'}
+Lemma('life.n.05.life'): {'lives', 'life'}
+Lemma('give_birth.v.01.bear'): {'born', 'bear'}
+Lemma('difficult.a.01.difficult'): {'difficult'}
+Lemma('feed.v.02.feed'): {'fed', 'feeding', 'feed'}
+Lemma('family.n.01.family'): {'family', 'families'}
+Lemma('therefore.r.01.therefore'): {'therefore'}
+Lemma('learn.v.01.learn'): {'learning', 'learn', 'learned', 'learns'}
+Lemma('discipline.n.01.subject'): {'subject', 'subjects'}
+Lemma('help.v.03.help'): {'help', 'helps', 'helping', 'helped'}
+Lemma('history.n.03.history'): {'history'}
+Lemma('stay.v.01.remain'): {'remaining', 'remain', 'remained', 'remains'}
+Lemma('entire.s.01.entire'): {'entire'}
+Lemma('university.n.02.university'): {'university', 'universities'}
+Lemma('fix.v.12.prepare'): {'prepare', 'preparing', 'prepares', 'prepared'}
+Lemma('learn.v.04.study'): {'study', 'studying', 'studied'}
+Lemma('study.n.02.study'): {'studies', 'study'}
+Lemma('dwelling.n.01.home'): {'homes', 'home'}
+Lemma('absolutely.r.01.perfectly'): {'perfectly'}
+Lemma('thinking.n.01.thought'): {'thoughts', 'thought'}
+Lemma('consequence.n.01.consequence'): {'consequences', 'consequence'}
+Lemma('live.v.02.live'): {'lived', 'lives', 'living', 'live'}
+Lemma('difficulty.n.02.difficulty'): {'difficulty', 'difficulties'}
+Lemma('derive.v.02.gain'): {'gaining', 'gained', 'gain', 'gains'}
+Lemma('accept.v.02.take'): {'taken', 'take', 'takes', 'took', 'taking'}
+Lemma('academic_degree.n.01.degree'): {'degrees', 'degree'}
+Lemma('project.v.08.propose'): {'proposed', 'proposing', 'proposes', 'propose'}
+Lemma('accept.v.01.accept'): {'accepting', 'accept', 'accepts', 'accepted'}
+Lemma('open.v.04.open'): {'opening', 'opened', 'opens'}
+Lemma('begin.v.03.begin'): {'begin', 'begins', 'beginning', 'begun', 'began'}
+Lemma('use.v.01.apply'): {'applies', 'apply', 'applying', 'applied'}
+Lemma('experiment.n.01.experiment'): {'experiments', 'experiment'}
+Lemma('meet.v.08.meet'): {'meeting', 'met', 'meet'}
+Lemma('bide.v.01.stay'): {'stayed', 'stay', 'staying'}
+Lemma('ten.s.01.10'): {'10', '1.0'}
+Lemma('write.v.02.write'): {'writing', 'write', 'writes', 'written', 'wrote'}
+Lemma('ask.v.03.ask'): {'ask', 'asked'}
+Lemma('invent.v.01.invent'): {'invent', 'inventing', 'invented'}
+Lemma('here.r.01.here'): {'here'}
+Lemma('thirty.s.01.30'): {'30'}
+Lemma('carry.v.02.carry'): {'carries', 'carrying', 'carried', 'carry'}
+Lemma('three.s.01.3'): {'3'}
+Lemma('earth.n.01.Earth'): {'earth'}
+Lemma('produce.v.01.produce'): {'produce', 'producing', 'produced', 'produces'}
+Lemma('survive.v.01.live'): {'lived', 'lives', 'living', 'live'}
+Lemma('witness.v.02.see'): {'seen', 'sees', 'saw', 'seeing', 'see'}
+Lemma('apply.v.03.apply'): {'apply', 'applying', 'applied'}
+Lemma('refuse.v.02.reject'): {'rejected', 'reject'}
+Lemma('see.v.05.consider'): {'consider', 'considers', 'considered', 'considering'}
+Lemma('solution.n.02.result'): {'results', 'result'}
+Lemma('owner.n.01.proprietor'): {'proprietors', 'proprietor', 'proprieter'}
+Lemma('sustain.v.04.maintain'): {'maintained', 'maintains', 'maintain', 'maintaining'}
+Lemma('director.n.01.manager'): {'managers', 'manager'}
+Lemma('report.v.02.report'): {'reports', 'report', 'reporting', 'reported'}
+Lemma('simultaneously.r.01.simultaneously'): {'simultaneously'}
+Lemma('discover.v.03.discover'): {'discovering', 'discovered', 'discover'}
+Lemma('prosecute.v.03.pursue'): {'pursuing', 'pursued', 'pursue'}
+Lemma('assume.v.02.assume'): {'assume', 'assumed'}
+Lemma('same.a.02.same'): {'same'}
+Lemma('distinguish.v.03.mark'): {'mark', 'marked', 'marks'}
+Lemma('every.s.01.every'): {'every'}
+Lemma('measure.n.01.step'): {'step', 'steps'}
+Lemma('grade.n.02.level'): {'level', 'levels'}
+Lemma('wide.a.01.broad'): {'broader', 'broad'}
+Lemma('publish.v.02.issue'): {'issued', 'issue', 'issues'}
+Lemma('deem.v.01.hold'): {'hold', 'holds', 'held'}
+Lemma('discover.v.03.find'): {'finds', 'find', 'finding', 'found'}
+Lemma('first.r.02.first'): {'first'}
+Lemma('eight.s.01.8'): {'8'}
+Lemma('remark.n.01.remark'): {'remarks', 'remark'}
+Lemma('force.n.02.force'): {'force', 'forces'}
+Lemma('detect.v.01.observe'): {'observed', 'observing', 'observe'}
+Lemma('degree.n.01.degree'): {'degrees', 'degree'}
+Lemma('distribution.n.02.distribution'): {'distribution'}
+Lemma('action.n.02.activity'): {'activity', 'activities'}
+Lemma('question.n.02.question'): {'questions', 'question'}
+Lemma('produce.v.02.produce'): {'produce', 'producing', 'produced'}
+Lemma('matter.n.01.thing'): {'thing', 'things'}
+Lemma('prove.v.02.prove'): {'prove', 'proven', 'proves', 'proved'}
+Lemma('better.a.02.better'): {'better'}
+Lemma('attempt.n.01.attempt'): {'attempt', 'attempts'}
+Lemma('phase.n.01.stage'): {'stages', 'stage'}
+Lemma('action.n.01.action'): {'action', 'actions'}
+Lemma('university.n.01.university'): {'university', 'universities'}
+Lemma('harbor.v.01.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('act.n.02.act'): {'acts', 'act'}
+Lemma('invent.v.01.devise'): {'devise', 'devised'}
+Lemma('induce.v.02.cause'): {'causing', 'cause', 'causes', 'caused'}
+Lemma('aid.n.02.assistance'): {'assistance'}
+Lemma('succeed.v.01.succeed'): {'succeeded', 'succeed', 'succeeds'}
+Lemma('light.n.01.light'): {'light'}
+Lemma('make.v.03.create'): {'creating', 'create', 'creates', 'created'}
+Lemma('cause.v.01.make'): {'make', 'made', 'making', 'makes'}
+Lemma('develop.v.01.develop'): {'developing', 'develop', 'developed'}
+Lemma('change.v.01.alter'): {'alter', 'altered', 'altering', 'alters'}
+Lemma('piece.n.02.piece'): {'pieces', 'piece'}
+Lemma('end.n.01.end'): {'end', 'ends'}
+Lemma('prove.v.01.prove'): {'prove', 'proves', 'proven', 'proved', 'proving'}
+Lemma('put.v.01.lay'): {'lay', 'laid'}
+Lemma('appear.v.04.seem'): {'seem', 'seemed', 'seems'}
+Lemma('happen.v.03.happen'): {'happened', 'happens', 'happen'}
+Lemma('wear.v.01.wear'): {'worn', 'wore', 'wearing', 'wear', 'wears'}
+Lemma('note.v.01.observe'): {'observed', 'observe', 'observes'}
+Lemma('report.v.01.report'): {'reports', 'report', 'reporting', 'reported'}
+Lemma('expression.n.03.expression'): {'expressions', 'expression'}
+Lemma('eat.v.01.eat'): {'eating', 'ate', 'eaten', 'eat'}
+Lemma('travel.v.01.move'): {'moves', 'moving', 'moved', 'move'}
+Lemma('corner.n.01.corner'): {'corners', 'corner'}
+Lemma('even.r.03.still'): {'still'}
+Lemma('girl.n.01.girl'): {'girl', 'girls'}
+Lemma('receive.v.02.find'): {'finding', 'find', 'found'}
+Lemma('manner.n.01.mode'): {'modes', 'mode'}
+Lemma('give.v.05.give'): {'gives', 'given', 'give', 'gave'}
+Lemma('now.r.03.now'): {'now'}
+Lemma('believe.v.03.believe'): {'believed', 'believe', 'believing', 'believes'}
+Lemma('crawl.v.01.creep'): {'crept', 'creeping', 'creep'}
+Lemma('end.n.02.end'): {'end'}
+Lemma('war.n.02.war'): {'war', 'wars'}
+Lemma('then.r.01.and_then'): {'and then'}
+Lemma('shoot.v.02.shoot'): {'shot', 'shute', 'shoot', 'shooting'}
+Lemma('common.a.02.common'): {'common'}
+Lemma('expect.v.01.expect'): {'expected', 'expecting', 'expect', 'expects'}
+Lemma('suffer.v.01.suffer'): {'suffers', 'suffered', 'suffer', 'suffering'}
+Lemma('a_bit.r.01.a_little'): {'a little'}
+Lemma('become.v.02.turn'): {'turn', 'turning', 'turns', 'turned'}
+Lemma('hope.v.01.hope'): {'hoping', 'hope', 'hopes', 'hoped'}
+Lemma('enjoy.v.02.enjoy'): {'enjoy', 'enjoys', 'enjoying', 'enjoyed'}
+Lemma('table.n.02.table'): {'table'}
+Lemma('right.n.02.right'): {'right'}
+Lemma('half.s.02.half'): {'half'}
+Lemma('fifty.s.01.50'): {'50'}
+Lemma('take.v.01.take'): {'take', 'taken', 'takes', 'took', 'taking'}
+Lemma('state.v.01.tell'): {'tells', 'tole', 'told', 'telling', 'tell'}
+Lemma('reasonably.r.01.pretty'): {'pretty'}
+Lemma('continue.v.01.keep'): {'kept', 'keeps', 'keep'}
+Lemma('blast.v.07.shoot'): {'shot', 'shoot', 'shootin', 'shooting'}
+Lemma('perform.v.01.perform'): {'performed', 'performs', 'perform', 'performing'}
+Lemma('message.n.01.message'): {'message', 'messages'}
+Lemma('uncover.v.01.reveal'): {'reveal', 'reveals', 'revealing', 'revealed'}
+Lemma('feeling.n.01.feeling'): {'feelings', 'feeling'}
+Lemma('remark.n.01.comment'): {'comments', 'comment'}
+Lemma('think.v.01.think'): {'think', 'thout', 'thinking', 'thought', 'thinkin', 'thinks'}
+Lemma('get.v.01.get'): {'got', 'get', 'getting', 'gets'}
+Lemma('dad.n.01.papa'): {'papa', 'pappies'}
+Lemma('leftover.s.01.left'): {'left'}
+Lemma('pick_up.v.09.receive'): {'receiving', 'receives', 'receive', 'received'}
+Lemma('take.v.04.take'): {'taken', 'take', 'takes', 'took', 'taking'}
+Lemma('learn.v.02.hear'): {'hearing', 'hears', 'hear', 'heard'}
+Lemma('discontinue.v.01.quit'): {'quits', 'quitting', 'quit'}
+Lemma('function.n.02.use'): {'use', 'uses', 'yuse'}
+Lemma('experience.n.01.experience'): {'experiences', 'experience'}
+Lemma('dad.n.01.pa'): {'pa'}
+Lemma('arrive.v.01.get'): {'got', 'get', 'getting', 'gets'}
+Lemma('run.v.01.run'): {'run', 'ran', 'running', 'runs'}
+Lemma('scat.v.01.run'): {'run', 'running'}
+Lemma('military_officer.n.01.officer'): {'officers', 'officer', 'offersey'}
+Lemma('have.v.01.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('hold.v.11.contain'): {'contained', 'contains', 'contain', 'containing'}
+Lemma('comply.v.01.follow'): {'follows', 'following', 'followed', 'follow'}
+Lemma('material.n.01.material'): {'materials', 'material'}
+Lemma('god.n.01.God'): {'god'}
+Lemma('assume.v.03.take'): {'take', 'taken', 'takes', 'took', 'taking'}
+Lemma('a_lot.r.01.very_much'): {'very much'}
+Lemma('human.a.02.human'): {'human'}
+Lemma('hard.a.02.hard'): {'hard', 'hardest'}
+Lemma('look.v.02.look'): {'looking', 'look', 'looked', 'looks'}
+Lemma('side.n.02.side'): {'sides', 'side'}
+Lemma('face.n.03.face'): {'face', 'faces'}
+Lemma('precisely.r.01.exactly'): {'exactly'}
+Lemma('last.s.01.last'): {'last'}
+Lemma('arrive.v.01.come'): {'coming', 'come', 'came', 'comes'}
+Lemma('hear.v.01.hear'): {'hearest', 'hear', 'hearing', 'hears', 'heard'}
+Lemma('light.n.02.light'): {'lights', 'light'}
+Lemma('idea.n.01.thought'): {'thoughts', 'thought'}
+Lemma('stay.v.02.stay'): {'stayed', 'stay', 'staying'}
+Lemma('pull.v.01.pull'): {'pulled', 'pull', 'pulls', 'pulling'}
+Lemma('far.r.03.far'): {'farther', 'far', 'further'}
+Lemma('inside.r.02.inside'): {'inside'}
+Lemma('answer.n.01.answer'): {'answer', 'answers'}
+Lemma('wholly.r.01.all'): {'all'}
+Lemma('pay_up.v.01.pay'): {'pay', 'paying', 'paid', 'pays'}
+Lemma('city.n.01.city'): {'cities', 'city'}
+Lemma('airplane.n.01.plane'): {'plane', 'planes'}
+Lemma('car.n.01.car'): {'car', 'cars'}
+Lemma('earlier.r.01.earlier'): {'earlier'}
+Lemma('nine.s.01.9'): {'9'}
+Lemma('state.n.02.state'): {'state', 'states'}
+Lemma('retain.v.03.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('tag.v.01.mark'): {'mark', 'marked', 'marks'}
+Lemma('means.n.02.means'): {'means'}
+Lemma('thousand.s.01.thousand'): {'thousand'}
+Lemma('include.v.02.include'): {'included', 'include', 'including', 'includes'}
+Lemma('religion.n.01.faith'): {'faith'}
+Lemma('season.n.02.season'): {'season', 'seasons'}
+Lemma('dust.n.01.dust'): {'dust'}
+Lemma('bring.v.01.bring'): {'brought', 'brings', 'bringing', 'bring'}
+Lemma('animation.n.01.life'): {'lives', 'life'}
+Lemma('stay.v.04.stay'): {'stayed', 'stay'}
+Lemma('six.s.01.six'): {'six'}
+Lemma('hundred.s.01.hundred'): {'hundred'}
+Lemma('dollar.n.02.dollar'): {'dollar', 'dollars'}
+Lemma('endanger.v.01.threaten'): {'threaten', 'threatened', 'threatening'}
+Lemma('world.n.02.world'): {'worlds', 'world'}
+Lemma('ride.v.02.ride'): {'riding', 'ridden', 'rides', 'ride', 'rode'}
+Lemma('soil.n.02.soil'): {'soil'}
+Lemma('wonder.v.01.wonder'): {'wondered', 'wondering', 'wonder', 'wonders'}
+Lemma('serviceman.n.01.man'): {'men', 'man'}
+Lemma('meet.v.01.meet'): {'meets', 'meet', 'met', 'meeting'}
+Lemma('mean.v.03.mean'): {'meant', 'mean', 'meaning', 'means'}
+Lemma('attend.v.01.attend'): {'attends', 'attended', 'attend', 'attending'}
+Lemma('narrative.n.01.tale'): {'tale', 'tales'}
+Lemma('prime_minister.n.01.Prime_Minister'): {'prime minister'}
+Lemma('chancellor.n.02.prime_minister'): {'prime minister'}
+Lemma('exit.v.01.go_out'): {'go', 'out', 'gone out', 'go out', 'went', 'goes out', 'went out'}
+Lemma('right.r.03.right'): {'right'}
+Lemma('seven.s.01.seven'): {'seven'}
+Lemma('rise.v.02.rise'): {'rose', 'rises', 'rising', 'risen', 'rise'}
+Lemma('company.n.02.company'): {'company', 'companies'}
+Lemma('drive.v.02.drive'): {'drive', 'driving', 'drove', 'driven'}
+Lemma('earth.n.02.earth'): {'earth'}
+Lemma('school.n.02.school'): {'school', 'schools'}
+Lemma('do.v.03.do'): {'did', 'doing', 'does', 'done', 'do'}
+Lemma('once.r.03.once'): {'once'}
+Lemma('head.v.02.head'): {'head', 'heads', 'headed'}
+Lemma('development.n.01.development'): {'development', 'developments'}
+Lemma('undertaking.n.01.project'): {'project', 'projects'}
+Lemma('labor.n.02.labor'): {'labor'}
+Lemma('occupation.n.01.business'): {'business'}
+Lemma('give.v.05.pay'): {'paying', 'pay', 'paid'}
+Lemma('happen.v.01.take_place'): {'take place', 'takes place', 'taking place', 'took place', 'taken place'}
+Lemma('white.a.01.white'): {'white'}
+Lemma('sit.v.01.sit'): {'sit', 'sitting', 'sat', 'sits'}
+Lemma('prevent.v.02.keep'): {'kept', 'keeps', 'keep', 'keeping'}
+Lemma('foot.n.01.foot'): {'feet', 'foot'}
+Lemma('nine.s.01.nine'): {'nine'}
+Lemma('address.v.01.address'): {'address', 'addressing', 'addressed', 'addresses'}
+Lemma('call.v.05.call'): {'called', 'call', 'calls', 'calling'}
+Lemma('present.a.02.present'): {'present'}
+Lemma('move.v.03.move'): {'moves', 'moved', 'moving', 'move'}
+Lemma('gaze.v.01.stare'): {'stare', 'staring', 'stared'}
+Lemma('dark.a.02.dark'): {'dark', 'darkest'}
+Lemma('experience.v.03.get'): {'gets', 'got', 'gotten', 'get', 'getting'}
+Lemma('remember.v.01.remember'): {'remembering', 'remembers', 'remember', 'remembered'}
+Lemma('newspaper.n.01.paper'): {'paper', 'papers'}
+Lemma('happen.v.01.happen'): {'happened', 'happening', 'happens', 'happen'}
+Lemma('entertain.v.02.think_of'): {'thought of', 'think of', 'thinking of'}
+Lemma('discontinue.v.01.stop'): {'stop', 'stops', 'stopped', 'stopping'}
+Lemma('surely.r.01.sure'): {'sure'}
+Lemma('word.n.01.word'): {'word', 'words'}
+Lemma('arise.v.03.stand_up'): {'stood up', 'stand up'}
+Lemma('originate.v.02.start'): {'starts', 'starting', 'started', 'start'}
+Lemma('mean.v.01.mean'): {'meant', 'mean', 'meaning', 'means'}
+Lemma('shout.v.02.cry'): {'crying', 'cried'}
+Lemma('watch.v.03.watch'): {'watching', 'watched', 'watch'}
+Lemma('perform.v.01.do'): {'doing', 'did', 'does', 'done', 'do'}
+Lemma('intend.v.01.mean'): {'meant', 'mean', 'means'}
+Lemma('alone.r.02.alone'): {'alone'}
+Lemma('sale.n.01.sale'): {'sales', 'sale'}
+Lemma('merchandise.n.01.product'): {'product', 'products'}
+Lemma('production.n.02.production'): {'productions', 'production'}
+Lemma('water.n.01.water'): {'water', 'waters'}
+Lemma('cover.v.02.cover'): {'covered', 'covering', 'covers', 'cover'}
+Lemma('begin.v.02.begin'): {'begin', 'begins', 'beginning', 'begun', 'began'}
+Lemma('surface.n.01.surface'): {'surfaces', 'surface'}
+Lemma('item.n.01.item'): {'item', 'items'}
+Lemma('sell.v.02.sell'): {'sell', 'sells', 'selling', 'sold'}
+Lemma('continue.v.02.go_on'): {'goes on', 'go on', 'went on', 'gone on'}
+Lemma('jump.v.01.leap'): {'leaps', 'leaped', 'leapt', 'leaping', 'leap'}
+Lemma('apparent.s.01.evident'): {'evident'}
+Lemma('just.r.04.just'): {'just'}
+Lemma('exit.v.01.get_out'): {'get out', 'got out', 'getting out', 'get'}
+Lemma('yard.n.01.yard'): {'yard', 'yards'}
+Lemma('left.a.01.left'): {'left'}
+Lemma('restrain.v.03.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('hold.v.02.hold'): {'holding', 'hold', 'held'}
+Lemma('possibly.r.01.maybe'): {'maybe'}
+Lemma('look.n.02.look'): {'look'}
+Lemma('recognize.v.02.realize'): {'realizing', 'realized', 'realize'}
+Lemma('lead.v.03.lead'): {'led', 'leading', 'leads', 'lead'}
+Lemma('become.v.01.get'): {'got', 'get', 'getting', 'gets'}
+Lemma('money.n.02.money'): {'money', 'moneys'}
+Lemma('promise.v.01.promise'): {'promise', 'promises', 'promised', 'promising'}
+Lemma('much.r.02.much'): {'much'}
+Lemma('wish.v.02.like'): {'like', 'liking', 'likes', 'liked'}
+Lemma('love.v.02.love'): {'loves', 'loved', 'love'}
+Lemma('indicate.v.02.show'): {'showing', 'show', 'showed', 'shown', 'shows'}
+Lemma('go.v.03.go'): {'gone', 'going', 'go', 'went'}
+Lemma('suppose.v.01.suppose'): {'suppose', "s'posin", 'supposed'}
+Lemma('slightly.r.01.slightly'): {'slightly'}
+Lemma('follow.v.04.follow'): {'follow', 'following', 'followed', 'follows'}
+Lemma('a_few.s.01.a_couple_of'): {'a couple of'}
+Lemma('stand.v.01.stand'): {'standing', 'stands', 'stood', 'stand'}
+Lemma('surface.n.02.surface'): {'surfaces', 'surface'}
+Lemma('lie.v.02.lie'): {'lyin', 'lying', 'lay', 'lie', 'lain', 'lies'}
+Lemma('ignore.v.01.ignore'): {'ignores', 'ignored', 'ignore'}
+Lemma('meet.v.02.meet'): {'meets', 'meet', 'met', 'meeting'}
+Lemma('actually.r.02.actually'): {'actually'}
+Lemma('so_far.r.01.yet'): {'yet'}
+Lemma('prove.v.02.show'): {'showing', 'show', 'showed', 'shown', 'shows'}
+Lemma('rather.r.01.instead'): {'instead'}
+Lemma('choose.v.01.take'): {'taken', 'take', 'takes', 'took', 'taking'}
+Lemma('possibility.n.02.possibility'): {'possibilities', 'possibility'}
+Lemma('concept.n.01.concept'): {'concept', 'concepts'}
+Lemma('yield.v.01.afford'): {'affording', 'afford', 'afforded', 'affords'}
+Lemma('lawsuit.n.01.case'): {'cause', 'cases', 'case'}
+Lemma('thing.n.03.thing'): {'thing', 'things'}
+Lemma('law.n.02.law'): {'law', 'laws'}
+Lemma('carry.v.23.persuade'): {'persuaded', 'persuading', 'persuade'}
+Lemma('claim.v.01.claim'): {'claiming', 'claimed', 'claim', 'claims'}
+Lemma('deny.v.03.deny'): {'denied', 'deny', 'denying'}
+Lemma('permit.v.01.permit'): {'permitted', 'permitting', 'permit', 'permits'}
+Lemma('board.n.01.board'): {'board', 'boards'}
+Lemma('claim.n.02.claim'): {'claim', 'claims'}
+Lemma('record.n.01.record'): {'record', 'records'}
+Lemma('procedure.n.01.procedure'): {'procedure', 'procedures'}
+Lemma('fail.v.01.fail'): {'fails', 'failing', 'failed', 'fail'}
+Lemma('need.n.01.need'): {'needs', 'need'}
+Lemma('supply.v.01.furnish'): {'furnish', 'furnishes', 'furnished', 'furnishing'}
+Lemma('argue.v.01.argue'): {'argues', 'arguing', 'argued', 'argue'}
+Lemma('united_states_government.n.01.United_States'): {'united states', 'united state'}
+Lemma('fifteen.s.01.15'): {'1.5', '15'}
+Lemma('claim.v.02.claim'): {'claiming', 'claimed', 'claim'}
+Lemma('hundred.s.01.100'): {'100'}
+Lemma('class.n.01.class'): {'classes', 'class'}
+Lemma('church.n.01.church'): {'churches', 'church'}
+Lemma('report.v.03.report'): {'report', 'reporting', 'reported'}
+Lemma('light.n.03.light'): {'light'}
+Lemma('follow.v.06.follow'): {'following', 'followed', 'follow'}
+Lemma('propose.v.01.suggest'): {'suggesting', 'suggests', 'suggested', 'suggest'}
+Lemma('reason.n.01.ground'): {'ground', 'grounds'}
+Lemma('position.n.06.position'): {'positions', 'position'}
+Lemma('six.s.01.6'): {'6'}
+Lemma('twenty.s.01.20'): {'20'}
+Lemma('twenty-five.s.01.25'): {'2.5', '25'}
+Lemma('activity.n.01.activity'): {'activity', 'activities'}
+Lemma('final.s.02.final'): {'final'}
+Lemma('admit.v.01.admit'): {'admitted', 'admits', 'admit', 'admitting'}
+Lemma('determine.v.01.find_out'): {'found out', 'find out'}
+Lemma('leave.v.07.result'): {'resulted', 'resulting', 'results', 'result'}
+Lemma('study.v.03.consider'): {'consider', 'considers', 'considered', 'considering'}
+Lemma('basis.n.02.basis'): {'basis'}
+Lemma('besides.r.02.as_well'): {'as well'}
+Lemma('section.n.01.section'): {'sections', 'section'}
+Lemma('extinguish.v.04.eliminate'): {'eliminates', 'eliminate', 'eliminated', 'eliminating'}
+Lemma('furthermore.r.01.moreover'): {'moreover'}
+Lemma('target.v.01.direct'): {'direct', 'directed'}
+Lemma('look.v.02.appear'): {'appear', 'appears', 'appeared'}
+Lemma('apply.v.02.apply'): {'applies', 'apply', 'applying', 'applied'}
+Lemma('need.n.02.need'): {'needs', 'need'}
+Lemma('degree.n.02.stage'): {'stages', 'stage'}
+Lemma('feature.n.01.feature'): {'feature', 'features'}
+Lemma('major.a.03.major'): {'major'}
+Lemma('feature.n.01.characteristic'): {'characteristics', 'characteristic'}
+Lemma('development.n.02.development'): {'development', 'developments'}
+Lemma('digit.n.01.figure'): {'figures', 'figure'}
+Lemma('vicinity.n.01.neighborhood'): {'neighborhoods', 'neighborhood'}
+Lemma('chiefly.r.01.primarily'): {'primarily'}
+Lemma('spirit.n.02.spirit'): {'spirit', 'spirits'}
+Lemma('connection.n.01.connection'): {'connection', 'connections'}
+Lemma('manner.n.01.style'): {'style', 'styles'}
+Lemma('job.n.02.task'): {'task', 'tasks'}
+Lemma('specify.v.03.define'): {'defining', 'define', 'defines', 'defined'}
+Lemma('status.n.01.position'): {'positions', 'position'}
+Lemma('follow.v.07.follow'): {'followed', 'following', 'follows', 'follow'}
+Lemma('component.n.01.element'): {'elements', 'element'}
+Lemma('analyze.v.01.study'): {'study', 'studying', 'studied'}
+Lemma('survey.n.01.study'): {'studies', 'study'}
+Lemma('sample.n.01.sample'): {'samples', 'sample'}
+Lemma('percentage.n.01.percent'): {'per centum', 'percent', 'per cent'}
+Lemma('case.n.01.case'): {'cases', 'case'}
+Lemma('react.v.01.respond'): {'responds', 'responded', 'respond', 'responding'}
+Lemma('different.s.02.different'): {'different'}
+Lemma('neighborhood.n.02.neighborhood'): {'neighborhoods', 'neighborhood'}
+Lemma('once.r.02.once'): {'once'}
+Lemma('reach.v.04.reach'): {'reach', 'reaches', 'reached', 'reaching'}
+Lemma('approximately.r.01.approximately'): {'approximately'}
+Lemma('arrangement.n.03.organization'): {'organization', 'organizations'}
+Lemma('remember.v.01.recall'): {'recalled', 'recalling', 'recalls', 'recall'}
+Lemma('church.n.02.church'): {'churches', 'church'}
+Lemma('raise.v.03.raise'): {'raised', 'raises', 'raising'}
+Lemma('deem.v.01.view_as'): {'view as', 'viewed as'}
+Lemma('culture.n.02.culture'): {'culture'}
+Lemma('serve.v.03.serve'): {'serve', 'serves', 'served'}
+Lemma('represent.v.01.represent'): {'represents', 'represent', 'representing', 'represented'}
+Lemma('standard.n.01.standard'): {'standard', 'standards'}
+Lemma('fight.v.02.fight'): {'fought', 'fighting', 'fight', 'fights'}
+Lemma('history.n.01.history'): {'history'}
+Lemma('basic.a.01.basic'): {'basic'}
+Lemma('assorted.s.02.various'): {'various'}
+Lemma('expression.n.02.expression'): {'expressions', 'expression'}
+Lemma('extent.n.01.extent'): {'extent'}
+Lemma('give.v.10.give'): {'gives', 'given', 'give', 'gave'}
+Lemma('determine.v.03.determine'): {'determine', 'determining', 'determined', 'determines'}
+Lemma('determine.v.03.set'): {'set', 'sets', 'setting'}
+Lemma('form.v.02.form'): {'form', 'forming', 'formed', 'forms'}
+Lemma('religion.n.01.religion'): {'religions', 'religion'}
+Lemma('matter.n.01.matter'): {'matters', 'matter'}
+Lemma('happen.v.01.go_on'): {'goes on', 'went on', 'going on'}
+Lemma('however.r.01.still'): {'still'}
+Lemma('far.r.01.far'): {'far'}
+Lemma('ride.v.01.ride'): {'riding', 'ridden', 'rides', 'ride', 'rode'}
+Lemma('declare.v.01.declare'): {'declares', 'declare', 'declared', 'declaring'}
+Lemma('less.r.02.less'): {'less'}
+Lemma('side.n.01.side'): {'sides', 'side'}
+Lemma('place.n.02.place'): {'place', 'places'}
+Lemma('hope.v.03.hope'): {'hoping', 'hope', 'hopes', 'hoped'}
+Lemma('head.v.01.head'): {'head', 'heading', 'headed'}
+Lemma('ahead.r.01.in_front'): {'in front'}
+Lemma('stairs.n.01.steps'): {'steps'}
+Lemma('run.v.03.run'): {'ran', 'running', 'run'}
+Lemma('quickly.r.01.quickly'): {'quickly'}
+Lemma('reach.v.06.reach'): {'reach', 'reached', 'reaching'}
+Lemma('floor.n.01.floor'): {'floor', 'floors'}
+Lemma('abruptly.r.01.suddenly'): {'suddenly'}
+Lemma('inside.r.01.inside'): {'inside'}
+Lemma('trouble_oneself.v.01.bother'): {'bother', 'bothering', 'bothered'}
+Lemma('notice.v.02.note'): {'noting', 'noted', 'notes', 'note'}
+Lemma('rush.v.01.rush'): {'rushing', 'rush', 'rushes', 'rushed'}
+Lemma('twenty.s.01.twenty'): {'twenty'}
+Lemma('depart.v.03.start'): {'starting', 'started', 'start'}
+Lemma('follow.v.01.follow'): {'follows', 'following', 'followed', 'follow'}
+Lemma('footstep.n.03.step'): {'step', 'steps'}
+Lemma('show.v.01.present'): {'presented', 'present', 'presents', 'presenting'}
+Lemma('together.r.01.together'): {'together'}
+Lemma('glass.n.02.glass'): {'glasses', 'glass'}
+Lemma('answer.v.01.reply'): {'replies', 'replying', 'reply', 'replied'}
+Lemma('advance.v.01.go_on'): {'go on', 'went on', 'gone on', 'going on'}
+Lemma('part.n.04.part'): {'part'}
+Lemma('open.v.03.open'): {'opening', 'opened', 'open'}
+Lemma('back.r.02.back'): {'back'}
+Lemma('enter.v.01.move_into'): {'moving into', 'moved into', 'move into'}
+Lemma('open.a.01.open'): {'opened', 'open'}
+Lemma('hour.n.02.hour'): {'hour', 'hours'}
+Lemma('reach.v.07.make'): {'make', 'made', 'making', 'makes'}
+Lemma('strike.v.01.strike'): {'striking', 'strike', 'struck', 'strikes'}
+Lemma('thing.n.08.thing'): {'thing', 'things'}
+Lemma('watch.v.01.watch'): {'watching', 'watched', 'watch'}
+Lemma('hope.n.01.hope'): {'hope', 'hopes'}
+Lemma('moment.n.02.moment'): {'moment', 'moments'}
+Lemma('away.r.02.away'): {'away'}
+Lemma('thin.a.01.thin'): {'thin'}
+Lemma('correct.a.01.right'): {'right'}
+Lemma('exit.v.01.leave'): {'left', 'leave', 'leaving'}
+Lemma('render.v.07.return'): {'return', 'returning', 'returned'}
+Lemma('swing.v.01.swing'): {'swung', 'swinging'}
+Lemma('defend.v.01.defend'): {'defend', 'defends', 'defended', 'defending'}
+Lemma('impart.v.01.give'): {'giving', 'given', 'give', 'gave'}
+Lemma('give.v.07.give'): {'giving', 'give', 'given', 'gave'}
+Lemma('down.r.02.down'): {'down'}
+Lemma('exposed.s.01.open'): {'open'}
+Lemma('directly.r.01.straight'): {'straight'}
+Lemma('visit.v.03.visit'): {'visited', 'visiting', 'visit'}
+Lemma('involve.v.02.involve'): {'involving', 'involve', 'involved', 'involves'}
+Lemma('approach.v.01.near'): {'neared', 'nearing'}
+Lemma('shooting.n.01.shot'): {'shots', 'shot'}
+Lemma('direction.n.01.direction'): {'directions', 'direction'}
+Lemma('force.v.06.drive'): {'driven', 'drives', 'drive', 'driving', 'drove'}
+Lemma('fight.n.02.fight'): {'fight', 'fights'}
+Lemma('wonder.v.02.wonder'): {'wonduh', 'wondering', 'wonder', 'wonders', 'wondered'}
+Lemma('let.v.01.allow'): {'allowed', 'allows', 'allowing', 'allow'}
+Lemma('position.n.01.position'): {'positions', 'position'}
+Lemma('urge.v.01.urge'): {'urge', 'urging', 'urges', 'urged'}
+Lemma('shot.n.02.shot'): {'shots', 'shot'}
+Lemma('determine.v.02.determine'): {'determining', 'determined', 'determine', 'determines'}
+Lemma('message.n.02.message'): {'message', 'messages'}
+Lemma('table.n.01.table'): {'tables', 'table'}
+Lemma('send.v.02.send'): {'send', 'sending', 'sends', 'sent'}
+Lemma('system.n.01.system'): {'systems', 'system'}
+Lemma('control.n.02.control'): {'control', 'controls'}
+Lemma('word.n.02.word'): {'word', 'words', 'wohd'}
+Lemma('one.n.01.one'): {'|', 'one'}
+Lemma('wear.v.02.wear'): {'worn', 'wore', 'wearing', 'wear', 'wears'}
+Lemma('drive.v.01.drive'): {'driven', 'drives', 'drive', 'driving', 'drove'}
+Lemma('stop.v.01.stop'): {'stop', 'stops', 'stopped', 'stopping'}
+Lemma('property.n.02.property'): {'property', 'properties'}
+Lemma('discourse.v.01.discuss'): {'discussing', 'discusses', 'discussed', 'discuss'}
+Lemma('function.n.02.purpose'): {'purpose', 'purposes'}
+Lemma('bring.v.02.bring'): {'brought', 'brings', 'bringing', 'bring'}
+Lemma('degree.n.01.level'): {'level', 'levels'}
+Lemma('party.n.02.party'): {'party', 'parties'}
+Lemma('experience.v.03.receive'): {'receiving', 'receives', 'receive', 'received'}
+Lemma('air.n.01.air'): {'air'}
+Lemma('point.n.02.point'): {'point', 'points'}
+Lemma('picture.v.02.show'): {'showing', 'shown', 'show', 'shows'}
+Lemma('figure.n.01.figure'): {'figures', 'figure'}
+Lemma('connection.n.02.connection'): {'connection', 'connections'}
+Lemma('keep.v.01.hold'): {'holding', 'hold', 'holds', 'held'}
+Lemma('provide.v.03.provide'): {'provide', 'providing', 'provides', 'provided'}
+Lemma('wish.v.02.wish'): {'wished', 'wish', 'wishes'}
+Lemma('wish.v.01.wish'): {'wished', 'wishing', 'wish', 'wishes'}
+Lemma('assume.v.01.assume'): {'assume', 'assumed', 'assuming', 'assumes'}
+Lemma('land.n.01.land'): {'lands', 'land'}
+Lemma('voice.n.01.voice'): {'voices', 'voice'}
+Lemma('point.n.01.point'): {'point', 'points'}
+Lemma('place.n.03.place'): {'place'}
+Lemma('most.r.02.most'): {'most'}
+Lemma('directly.r.02.directly'): {'directly'}
+Lemma('get.v.03.get'): {'got', 'get', 'getting', 'gets'}
+Lemma('justify.v.01.justify'): {'justify', 'justified'}
+Lemma('topic.n.02.matter'): {'matter', 'matters'}
+Lemma('consideration.n.01.consideration'): {'consideration', 'considerations'}
+Lemma('military.a.01.military'): {'military'}
+Lemma('change.v.03.change'): {'changed', 'changing', 'change'}
+Lemma('party.n.03.party'): {'party', 'parties'}
+Lemma('comment.v.01.comment'): {'comments', 'commented', 'commenting', 'comment'}
+Lemma('elapse.v.01.pass'): {'pass', 'passes', 'passed'}
+Lemma('speed.n.01.speed'): {'speed', 'speeds'}
+Lemma('range.n.02.range'): {'ranges', 'range'}
+Lemma('widen.v.04.extend'): {'extending', 'extend', 'extended', 'extends'}
+Lemma('use.n.01.use'): {'use', 'uses'}
+Lemma('value.n.02.value'): {'value', 'values'}
+Lemma('administration.n.02.organization'): {'organization', 'organizations'}
+Lemma('repeat.v.01.repeat'): {'repeat', 'repeating', 'repeated'}
+Lemma('originate.v.01.originate'): {'originated', 'originating', 'originate', 'originates'}
+Lemma('military_action.n.01.action'): {'action', 'actions'}
+Lemma('captain.n.01.captain'): {'captain'}
+Lemma('minor.s.10.small'): {'small'}
+Lemma('sound.n.01.sound'): {'sounds', 'sound'}
+Lemma('desire.v.01.desire'): {'desire', 'desires', 'desired', 'desiring'}
+Lemma('originate.v.01.develop'): {'develops', 'developing', 'develop', 'developed'}
+Lemma('measure.n.02.amount'): {'amounts', 'amount'}
+Lemma('suggest.v.05.suggest'): {'suggesting', 'suggests', 'suggested', 'suggest'}
+Lemma('meet.v.04.meet'): {'meet', 'met', 'meeting'}
+Lemma('premise.n.01.assumption'): {'assumptions', 'assumption'}
+Lemma('direct.v.01.direct'): {'direct', 'directed', 'directing'}
+Lemma('necessitate.v.01.need'): {'needs', 'needing', 'need', 'needed'}
+Lemma('descend.v.01.go_down'): {'went down', 'go down', 'goes'}
+Lemma('rise.v.01.go_up'): {'went up', 'go up', 'gone up', 'going up'}
+Lemma('imply.v.02.imply'): {'imply', 'implied', 'implies'}
+Lemma('furthermore.r.01.furthermore'): {'furthermore'}
+Lemma('basic.s.02.basic'): {'basic'}
+Lemma('frequently.r.01.frequently'): {'frequently'}
+Lemma('understand.v.02.realize'): {'realizes', 'realizing', 'realized', 'realize'}
+Lemma('express.v.01.express'): {'expresses', 'express', 'expressed', 'expressing'}
+Lemma('act.v.01.act'): {'acted', 'acts', 'acting', 'act'}
+Lemma('commercial_enterprise.n.02.business'): {'business'}
+Lemma('circumstance.n.03.consideration'): {'consideration', 'considerations'}
+Lemma('impression.n.01.impression'): {'impression', 'impressions'}
+Lemma('class.n.02.class'): {'classes', 'class'}
+Lemma('store.v.02.store'): {'store', 'storing', 'stored'}
+Lemma('mental_picture.n.01.picture'): {'pictures', 'picture'}
+Lemma('surely.r.01.certainly'): {'certainly'}
+Lemma('play.n.01.play'): {'plays', 'play'}
+Lemma('story.n.02.story'): {'story', 'stories'}
+Lemma('real.a.01.real'): {'real'}
+Lemma('for_example.r.01.for_instance'): {'for instance'}
+Lemma('testify.v.02.show'): {'shown', 'show', 'showed', 'shows'}
+Lemma('together.r.02.together'): {'together'}
+Lemma('natural.a.02.natural'): {'natural'}
+Lemma('discussion.n.02.discussion'): {'discussions', 'discussion'}
+Lemma('come.v.05.come'): {'coming', 'come', 'came', 'comes'}
+Lemma('present.v.04.present'): {'present', 'presented', 'presenting', 'presents'}
+Lemma('appear.v.03.appear'): {'appear', 'appears', 'appeared', 'appearing'}
+Lemma('cover.v.05.deal'): {'deals', 'deal', 'dealing', 'dealt'}
+Lemma('fear.v.02.fear'): {'feared', 'fearing', 'fear'}
+Lemma('culture.n.01.culture'): {'cultures', 'culture'}
+Lemma('leave.v.07.leave'): {'left', 'leave', 'leaving'}
+Lemma('position.n.03.position'): {'positions', 'position'}
+Lemma('newspaper.n.01.newspaper'): {'newspapers', 'newspaper'}
+Lemma('field.n.03.field'): {'field'}
+Lemma('argument.n.01.argument'): {'argument', 'arguments'}
+Lemma('remind.v.01.remind'): {'reminded', 'reminding', 'reminds', 'remind'}
+Lemma('analyze.v.01.examine'): {'examined', 'examine', 'examines', 'examining'}
+Lemma('forget.v.01.forget'): {'forgotten', 'forget', 'forgetting', 'forgot'}
+Lemma('to_be_sure.r.01.to_be_sure'): {'to be sure'}
+Lemma('finally.r.01.finally'): {'finally'}
+Lemma('give.v.09.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('establish.v.01.establish'): {'establishing', 'establishes', 'establish', 'established'}
+Lemma('tradition.n.01.tradition'): {'traditions', 'tradition'}
+Lemma('real.a.02.real'): {'real', 'realest'}
+Lemma('sample_distribution.n.01.sample'): {'samples', 'sample'}
+Lemma('purpose.n.01.aim'): {'aim', 'aims'}
+Lemma('topographic_point.n.01.place'): {'place', 'places'}
+Lemma('way.n.05.way'): {'ways', 'way'}
+Lemma('acquire.v.05.win'): {'wins', 'winning', 'won', 'win'}
+Lemma('thing.n.09.thing'): {'thing', 'things'}
+Lemma('appear.v.04.appear'): {'appear', 'appears', 'appeared'}
+Lemma('ask.v.04.require'): {'required', 'require', 'requires'}
+Lemma('huge.s.01.vast'): {'vast'}
+Lemma('report.v.01.describe'): {'describes', 'described', 'describe', 'describing'}
+Lemma('year.n.02.year'): {'year', 'years'}
+Lemma('do.v.04.do'): {'did', 'doing', 'does', 'done', 'do'}
+Lemma('percentage.n.01.percentage'): {'percentages', 'percentage'}
+Lemma('sense.n.01.sense'): {'senses', 'sense'}
+Lemma('attend.v.01.go_to'): {'going to', 'gone to', 'go to', 'went to'}
+Lemma('reason.n.02.reason'): {'reason', 'reasons'}
+Lemma('constitute.v.01.constitute'): {'constitute', 'constitutes', 'constituting', 'constituted'}
+Lemma('day.n.04.day'): {'days', 'day'}
+Lemma('justify.v.01.warrant'): {'warrant', 'warranted'}
+Lemma('go.v.02.move'): {'moves', 'moving', 'moved', 'move'}
+Lemma('deny.v.04.deny'): {'denied', 'deny', 'denies', 'denying'}
+Lemma('spirit.n.02.feeling'): {'feelings', 'feeling'}
+Lemma('child.n.01.kid'): {'kids', 'kid'}
+Lemma('course.n.01.course'): {'course', 'courses'}
+Lemma('demand.v.01.demand'): {'demanding', 'demanded', 'demand', 'demands'}
+Lemma('run.v.03.extend'): {'extending', 'extend', 'extended', 'extends'}
+Lemma('pressure.n.02.pressure'): {'pressures', 'pressure'}
+Lemma('prerequisite.n.01.requirement'): {'requirement', 'requirements'}
+Lemma('comment.v.01.point_out'): {'point out', 'pointing out', 'pointed out', 'points out'}
+Lemma('newspaper.n.02.newspaper'): {'newspapers', 'newspaper'}
+Lemma('news.n.02.news'): {'news'}
+Lemma('raise.v.01.raise'): {'raise', 'raised', 'raises', 'raising'}
+Lemma('measure.v.01.measure'): {'measured', 'measure', 'measuring', 'measures'}
+Lemma('pressure.n.01.pressure'): {'pressures', 'pressure'}
+Lemma('two.s.01.2'): {'2'}
+Lemma('use.v.01.employ'): {'employs', 'employing', 'employed', 'employ'}
+Lemma('quantify.v.02.measure'): {'measured', 'measure', 'measuring'}
+Lemma('part.n.02.part'): {'part', 'parts'}
+Lemma('pass.v.01.pass'): {'passing', 'passes', 'pass', 'passed'}
+Lemma('experiment.n.02.experiment'): {'experiments', 'experiment'}
+Lemma('open.a.02.open'): {'open'}
+Lemma('gas.n.01.gas'): {'gas', 'gases'}
+Lemma('cloud.n.01.cloud'): {'clouds', 'cloud'}
+Lemma('beginning.n.04.source'): {'sources', 'source'}
+Lemma('low.a.01.low'): {'lower', 'lowest', 'low'}
+Lemma('frequency.n.01.frequency'): {'frequency', 'frequencies'}
+Lemma('begin.v.03.start'): {'starting', 'starts', 'started', 'start'}
+Lemma('success.n.02.success'): {'success', 'successes'}
+Lemma('speed.n.01.velocity'): {'velocities', 'velocity'}
+Lemma('four.s.01.4'): {'4'}
+Lemma('construct.v.01.construct'): {'constructed', 'construct', 'constructing'}
+Lemma('gas.n.02.gas'): {'gas'}
+Lemma('associate.v.01.associate'): {'associated', 'associate', 'associating'}
+Lemma('every.s.02.every'): {'every'}
+Lemma('one.s.01.1'): {'1'}
+Lemma('increase.v.01.increase'): {'increases', 'increased', 'increase', 'increasing'}
+Lemma('degree.n.02.point'): {'point', 'points'}
+Lemma('produce.v.03.produce'): {'produce', 'producing', 'produced', 'produces'}
+Lemma('pass_through.v.02.pass_through'): {'passing', 'passes through', 'pass', 'passed through', 'passed'}
+Lemma('design.n.02.design'): {'designs', 'design'}
+Lemma('volume.n.01.volume'): {'volume', 'volumes'}
+Lemma('hold.v.10.support'): {'supports', 'support', 'supported', 'supporting'}
+Lemma('prevent.v.02.prevent'): {'preventing', 'prevented', 'prevent', 'prevents'}
+Lemma('deviation.n.01.difference'): {'difference', 'differences'}
+Lemma('calculate.v.01.compute'): {'computed', 'computes', 'computing', 'compute'}
+Lemma('measure.v.04.evaluate'): {'evaluate', 'evaluating', 'evaluated'}
+Lemma('thousand.s.01.1000'): {'1000'}
+Lemma('transport.v.04.send'): {'send', 'sending', 'sent'}
+Lemma('five.s.01.5'): {'5'}
+Lemma('composition.n.08.paper'): {'paper', 'papers'}
+Lemma('information.n.02.information'): {'information'}
+Lemma('calculate.v.01.calculate'): {'calculate', 'calculating', 'calculated'}
+Lemma('set.n.01.set'): {'set', 'sets'}
+Lemma('intensity.n.01.intensity'): {'intensity', 'intensities'}
+Lemma('area.n.02.area'): {'areas', 'area'}
+Lemma('identical.s.02.very'): {'very'}
+Lemma('character.n.03.character'): {'character'}
+Lemma('occur.v.02.occur'): {'occurs', 'occur', 'occurred'}
+Lemma('publish.v.03.write'): {'writing', 'write', 'writes', 'written', 'wrote'}
+Lemma('perform.v.03.perform'): {'performed', 'perform', 'performing'}
+Lemma('address.v.02.speak'): {'speaking', 'speak', 'spoke'}
+Lemma('hold.v.03.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('study.v.02.study'): {'study', 'studying', 'studied'}
+Lemma('play.v.03.play'): {'play', 'playing', 'plays', 'played'}
+Lemma('sing.v.02.sing'): {'sung', 'sings', 'sing', 'sang', 'singing'}
+Lemma('boy.n.02.boy'): {'boys', 'bawh', 'bawhs', 'boy'}
+Lemma('naturally.r.01.naturally'): {'naturally'}
+Lemma('sign.v.01.sign'): {'sign', 'signed'}
+Lemma('bear.v.01.bear'): {'bore', 'bear', 'bears', 'bearing'}
+Lemma('control.v.02.control'): {'controls', 'controlling', 'control', 'controlled'}
+Lemma('learn.v.02.learn'): {'learning', 'learn', 'learned'}
+Lemma('suffer.v.02.suffer'): {'suffered', 'suffer', 'suffering'}
+Lemma('play.v.06.play'): {'play', 'playing', 'plays', 'played'}
+Lemma('son.n.01.boy'): {'boys', 'bawh', 'boy'}
+Lemma('timbre.n.01.tone'): {'tone', 'tones'}
+Lemma('individual.a.01.individual'): {'individual'}
+Lemma('confront.v.01.confront'): {'confronts', 'confront', 'confronting', 'confronted'}
+Lemma('write.v.04.write'): {'writing', 'write', 'writes', 'written', 'wrote'}
+Lemma('line.n.02.line'): {'line', 'lines'}
+Lemma('thing.n.07.thing'): {'thing', 'things'}
+Lemma('search.v.01.seek'): {'sought', 'seeks', 'seeking', 'seek'}
+Lemma('watch.v.03.see'): {'saw', 'seen', 'seeing', 'see'}
+Lemma('speculate.v.01.suppose'): {'suppose', 'supposed'}
+Lemma('open_fire.v.01.fire'): {'fired', 'fire', 'firing'}
+Lemma('notice.v.02.notice'): {'noticing', 'notice', 'noticed'}
+Lemma('enter.v.01.come_in'): {'comes in', 'come in', 'came in', 'coming in'}
+Lemma('news.n.01.news'): {'news'}
+Lemma('shoot.v.01.shoot'): {'shot', 'shoot'}
+Lemma('director.n.01.director'): {'director', 'directors'}
+Lemma('consider.v.03.take'): {'take', 'taken', 'takes', 'took', 'taking'}
+Lemma('enter.v.01.go_into'): {'gone into', 'going into', 'go into', 'went into', 'goes into'}
+Lemma('expect.v.03.wait'): {'waited', 'wait', 'waiting'}
+Lemma('think.v.02.suppose'): {'supposes', 'suppose', 'supposed'}
+Lemma('achieve.v.01.accomplish'): {'accomplishing', 'accomplish', 'accomplished'}
+Lemma('assume.v.01.presume'): {'presumed', 'presuming', 'presumes'}
+Lemma('call.v.02.call'): {'called', 'call', 'calls', 'calling'}
+Lemma('pick_up.v.01.pick_up'): {'picked up', 'pick', 'pick up', 'picked', 'picking'}
+Lemma('express.v.02.express'): {'expresses', 'expressed', 'express', 'expressing'}
+Lemma('prove.v.01.turn_out'): {'turned out', 'turns out', 'turn out'}
+Lemma('close.a.02.close'): {'close', 'closer', 'closest'}
+Lemma('deny.v.01.deny'): {'denied', 'deny', 'denies', 'denying'}
+Lemma('talk.v.02.talk'): {'talk', 'talked', 'talking'}
+Lemma('hapless.s.01.poor'): {'poor'}
+Lemma('four.n.01.four'): {'four'}
+Lemma('aid.n.02.help'): {'help'}
+Lemma('person.n.01.someone'): {'someone'}
+Lemma('reasonably.r.01.reasonably'): {'reasonably'}
+Lemma('gain.v.08.earn'): {'earn', 'earned', 'earning', 'earns'}
+Lemma('dark.a.01.dark'): {'dark'}
+Lemma('feel.v.04.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('leave.v.04.leave'): {'left', 'leave', 'leaving'}
+Lemma('wait.v.02.wait'): {'waits', 'waited', 'wait', 'waiting'}
+Lemma('finally.r.01.eventually'): {'eventually', 'eventshahleh', 'eventshah-leh', 'evenutally'}
+Lemma('cause.v.01.cause'): {'causing', 'cause', 'causes', 'caused'}
+Lemma('now.r.04.now'): {'now'}
+Lemma('plan.v.02.plan'): {'planning', 'plan', 'planned', 'plans'}
+Lemma('thin.a.02.thin'): {'thin', 'thinner'}
+Lemma('remember.v.02.remember'): {'remembering', 'remembers', 'remember', 'remembered'}
+Lemma('business.n.01.business'): {'business', 'businesses'}
+Lemma('gaze.v.01.gaze'): {'gaze', 'gazed', 'gazing'}
+Lemma('see.v.11.see'): {'seen', 'see'}
+Lemma('learn.v.02.see'): {'saw', 'seen', 'see'}
+Lemma('twelve.s.01.twelve'): {'twelve'}
+Lemma('imply.v.05.involve'): {'involve', 'involving', 'involved', 'involves'}
+Lemma('back.r.05.back'): {'back'}
+Lemma('game.n.03.game'): {'game', 'games'}
+Lemma('act.v.02.act'): {'acted', 'acting', 'act'}
+Lemma('take.v.15.take'): {'taking', 'take', 'taken', 'took'}
+Lemma('threaten.v.02.threaten'): {'threatened', 'threaten', 'threatens', 'threatening'}
+Lemma('leave.v.02.leave'): {'left', 'leave', 'leavin', 'leaving'}
+Lemma('bring.v.01.take'): {'taking', 'take', 'taken', 'took'}
+Lemma('place.n.04.place'): {'place', 'places'}
+Lemma('like.v.03.like'): {'like', 'likes', 'liked'}
+Lemma('thirty.s.01.thirty'): {'thirty'}
+Lemma('stand.v.02.stand'): {'standing', 'stands', 'stood', 'stand'}
+Lemma('search.v.02.search'): {'searched', 'search', 'searching'}
+Lemma('human_body.n.01.figure'): {'figures', 'figure'}
+Lemma('take.v.08.take'): {'taking', 'take', 'taken', 'took'}
+Lemma('listen.v.02.listen'): {'listened', 'listening', 'listens', 'listen'}
+Lemma('express.v.01.show'): {'showing', 'show', 'showed', 'shown'}
+Lemma('remove.v.01.take'): {'taken', 'take', 'took', 'taking'}
+Lemma('life.n.06.life'): {'lives', 'life'}
+Lemma('fall.v.01.fall'): {'fall', 'falls', 'fallen', 'falling', 'fell'}
+Lemma('arise.v.03.get_up'): {'got up', 'get up'}
+Lemma('turn.v.07.grow'): {'growing', 'grew', 'grow', 'grows', 'grown'}
+Lemma('meet.v.01.encounter'): {'encounter', 'encountered', 'encounters'}
+Lemma('low.a.02.low'): {'lower', 'low'}
+Lemma('take.v.09.take'): {'took', 'take', 'taking'}
+Lemma('figure.n.04.figure'): {'figures', 'figure'}
+Lemma('stairs.n.01.stairs'): {'stairs'}
+Lemma('feel.v.05.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('poor.a.02.poor'): {'poorer', 'poor', 'poorest'}
+Lemma('day.n.03.day'): {'days', 'day'}
+Lemma('thing.n.05.thing'): {'thing', 'things'}
+Lemma('promptly.r.01.quickly'): {'quickly'}
+Lemma('change.n.03.change'): {'changes', 'change'}
+Lemma('understand.v.02.understand'): {'understood', 'understand', 'understands'}
+Lemma('end.n.03.end'): {'end'}
+Lemma('address.v.01.turn_to'): {'turn to', 'turned to'}
+Lemma('needed.s.01.needed'): {'needed'}
+Lemma('normally.r.01.commonly'): {'commonly'}
+Lemma('no.r.01.no_more'): {'no more'}
+Lemma('potential.a.01.possible'): {'possible'}
+Lemma('tone.n.02.tone'): {'tone', 'tones'}
+Lemma('treatment.n.02.treatment'): {'treatments', 'treatment'}
+Lemma('assumption.n.02.assumption'): {'assumptions', 'assumption'}
+Lemma('operation.n.07.procedure'): {'procedure', 'procedures'}
+Lemma('thing.n.04.thing'): {'thing', 'things'}
+Lemma('confront.v.02.face'): {'facing', 'faced', 'face', 'faces'}
+Lemma('unit.n.02.unit'): {'unit', 'units'}
+Lemma('suggest.v.03.suggest'): {'suggesting', 'suggests', 'suggested', 'suggest'}
+Lemma('component.n.01.component'): {'components', 'component'}
+Lemma('material.n.02.material'): {'materials', 'material'}
+Lemma('dismiss.v.01.ignore'): {'ignores', 'ignored', 'ignore'}
+Lemma('success.n.01.success'): {'success', 'successes'}
+Lemma('convention.n.02.rule'): {'rule', 'rules'}
+Lemma('join.v.02.join'): {'joining', 'join', 'joined'}
+Lemma('part.n.01.portion'): {'portion', 'portions'}
+Lemma('problem.n.02.problem'): {'problem', 'problems'}
+Lemma('most.a.02.most'): {'most'}
+Lemma('across-the-board.s.01.broad'): {'broadest', 'broader', 'broad'}
+Lemma('technical.a.02.technical'): {'technical'}
+Lemma('design.n.01.design'): {'design'}
+Lemma('lend.v.01.contribute'): {'contributing', 'contributes', 'contributed', 'contribute'}
+Lemma('related.a.01.related'): {'related'}
+Lemma('better.v.02.improve'): {'improve', 'improving', 'improves', 'improved'}
+Lemma('process.v.01.treat'): {'treating', 'treat', 'treats', 'treated'}
+Lemma('prove.v.02.demonstrate'): {'demonstrate', 'demonstrating', 'demonstrated', 'demonstrates'}
+Lemma('car.n.01.automobile'): {'automobiles', 'automobile'}
+Lemma('white.a.02.white'): {'white'}
+Lemma('case.n.01.instance'): {'instance', 'instances'}
+Lemma('populace.n.01.world'): {'worlds', 'world'}
+Lemma('treat.v.01.treat'): {'treat', 'treats', 'treated'}
+Lemma('make.v.08.make'): {'make', 'made', 'making', 'makes'}
+Lemma('prevent.v.01.prevent'): {'preventing', 'prevented', 'prevent', 'prevents'}
+Lemma('deny.v.02.deny'): {'denied', 'deny', 'denies', 'denying'}
+Lemma('frame.v.04.put'): {'puts', 'putting', 'put'}
+Lemma('prosecute.v.03.engage'): {'engage', 'engaged', 'engaging'}
+Lemma('partake.v.02.share'): {'shares', 'shared', 'sharing', 'share'}
+Lemma('deliver.v.01.deliver'): {'delivering', 'delivers', 'deliver', 'delivered'}
+Lemma('fill.v.01.fill'): {'fill', 'filling', 'fills', 'filled'}
+Lemma('owner.n.01.owner'): {'owner', 'owners'}
+Lemma('always.r.01.ever'): {'ever'}
+Lemma('try.v.01.attempt'): {'attempted', 'attempt', 'attempting', 'attempts'}
+Lemma('state.n.01.state'): {'state', 'states'}
+Lemma('very.s.01.very'): {'very'}
+Lemma('refer.v.02.refer'): {'referred', 'refer', 'referring', 'refers'}
+Lemma('acquire.v.05.gain'): {'gaining', 'gained', 'gain'}
+Lemma('approximately.r.01.more_or_less'): {'more or less'}
+Lemma('item.n.03.item'): {'item', 'items'}
+Lemma('fall.v.03.fall'): {'falling', 'fall', 'fell', 'fallen'}
+Lemma('jump.v.01.jump'): {'jumped', 'jumping', 'jumps', 'jump'}
+Lemma('learn.v.02.find_out'): {'found out', 'find out', 'finding out'}
+Lemma('course.n.02.course'): {'course'}
+Lemma('committee.n.01.committee'): {'committees', 'committee'}
+Lemma('former.a.01.former'): {'former'}
+Lemma('cloud.n.02.cloud'): {'clouds', 'cloud'}
+Lemma('leave.v.03.leave'): {'left', 'leaves', 'leaving', 'leave'}
+Lemma('follow.v.03.follow'): {'followed', 'follows', 'follow'}
+Lemma('essential.s.01.essential'): {'essential'}
+Lemma('huge.s.01.huge'): {'huge'}
+Lemma('buy.v.01.purchase'): {'purchases', 'purchasing', 'purchase', 'purchased'}
+Lemma('hang.v.02.hang'): {'hung', 'hanged', 'hang'}
+Lemma('board.n.02.board'): {'board', 'boards'}
+Lemma('move.v.04.move'): {'moves', 'moving', 'moved', 'move'}
+Lemma('simultaneously.r.01.at_the_same_time'): {'at the same time'}
+Lemma('confront.v.01.face'): {'facing', 'faced', 'face', 'faces'}
+Lemma('open.v.01.open'): {'opened', 'opening', 'open', 'opens'}
+Lemma('close.v.02.close'): {'close', 'closing', 'closes', 'closed'}
+Lemma('correct.s.02.right'): {'right'}
+Lemma('drop.v.01.drop'): {'drop', 'dropped', 'dropping'}
+Lemma('drop.v.02.drop'): {'drop', 'dropped', 'drops', 'dropping'}
+Lemma('approach.v.01.approach'): {'approached', 'approaches', 'approach', 'approaching'}
+Lemma('situate.v.01.locate'): {'located', 'locate', 'locating'}
+Lemma('stand.v.03.stand'): {'standing', 'stands', 'stood', 'stand'}
+Lemma('think_up.v.01.think_of'): {'thought of', 'think of', 'thinking of'}
+Lemma('reach.v.03.reach'): {'reach', 'reached', 'reaching'}
+Lemma('animal.n.01.animal'): {'animal', 'animals'}
+Lemma('yard.n.02.yard'): {'yard', 'yards'}
+Lemma('swing.v.02.swing'): {'swung', 'swing', 'swinging'}
+Lemma('discourse.v.01.talk_about'): {'talking about', 'talking of', 'talk about', 'talked about', 'talking'}
+Lemma('order.v.01.tell'): {'tells', 'tell', 'told', 'telling'}
+Lemma('come.v.06.come'): {'come', 'came', 'comes'}
+Lemma('descend.v.01.fall'): {'falling', 'fall', 'fell', 'falls'}
+Lemma('side.n.03.side'): {'sides', 'side'}
+Lemma('shout.v.02.scream'): {'screamed', 'scream', 'screaming'}
+Lemma('investigate.v.02.investigate'): {'investigated', 'investigate', 'investigating'}
+Lemma('pain.n.01.pain'): {'pain'}
+Lemma('hit.v.03.hit'): {'hitting', 'hit'}
+Lemma('induce.v.02.make'): {'make', 'made', 'making', 'makes'}
+Lemma('descend.v.01.come_down'): {'coming down', 'came down', 'come down', 'comes down'}
+Lemma('shake.v.02.shake'): {'shaking', 'shake', 'shook'}
+Lemma('right.a.01.right'): {'right'}
+Lemma('trouble.n.03.trouble'): {'trouble', 'troubles'}
+Lemma('pick_up.v.02.pick_up'): {'picked up', 'pick', 'pick up', 'picks up', 'picked'}
+Lemma('shout.v.02.call'): {'called', 'calling'}
+Lemma('act.n.01.act'): {'acts', 'act'}
+Lemma('read.v.02.read'): {'reading', 'reads', 'read'}
+Lemma('surface.n.03.surface'): {'surface'}
+Lemma('cover.v.03.extend'): {'extending', 'extend', 'extended', 'extends'}
+Lemma('promote.v.01.promote'): {'promotes', 'promote', 'promoting', 'promoted'}
+Lemma('scientific.a.02.scientific'): {'scientific'}
+Lemma('show.v.01.demonstrate'): {'demonstrate', 'demonstrating', 'demonstrated'}
+Lemma('get.v.01.acquire'): {'acquired', 'acquiring', 'acquires', 'acquire'}
+Lemma('property.n.01.property'): {'property', 'properties'}
+Lemma('assemble.v.01.assemble'): {'assembling', 'assemble', 'assembled'}
+Lemma('participate.v.01.participate'): {'participated', 'participate', 'participating', 'participates'}
+Lemma('goal.n.01.end'): {'end', 'ends'}
+Lemma('concerned.s.02.concerned'): {'concerned'}
+Lemma('provide.v.02.provide'): {'provided', 'provide', 'providing'}
+Lemma('issue.v.03.issue'): {'issuing', 'issued', 'issue'}
+Lemma('effective.s.02.effective'): {'effective'}
+Lemma('deem.v.01.deem'): {'deeming', 'deem', 'deemed'}
+Lemma('state.n.03.state'): {'state', 'states'}
+Lemma('payment.n.01.payment'): {'payments', 'payment'}
+Lemma('lead.v.04.lead'): {'led', 'leading', 'leads', 'lead'}
+Lemma('new_york.n.02.New_York'): {'new york', 'n.y.'}
+Lemma('average.s.01.average'): {'average'}
+Lemma('barely.r.01.just'): {'just'}
+Lemma('chiefly.r.01.mainly'): {'mainly'}
+Lemma('be.v.11.live'): {'lived', 'lives', 'living', 'live'}
+Lemma('front.v.01.face'): {'facing', 'faced', 'face'}
+Lemma('arise.v.03.rise'): {'rise', 'rose', 'rising'}
+Lemma('hope.n.02.hope'): {'hope', 'hopes'}
+Lemma('discover.v.04.discover'): {'discovering', 'discovered', 'discover'}
+Lemma('movie.n.01.movie'): {'movie', 'movies'}
+Lemma('learn.v.02.discover'): {'discovering', 'discovered', 'discover'}
+Lemma('love.v.03.love'): {'loves', 'loved', 'love'}
+Lemma('close.a.01.close'): {'close', 'closer'}
+Lemma('accept.v.04.accept'): {'accept', 'accepts', 'accepted'}
+Lemma('conduct.v.02.conduct'): {'conducting', 'conducts', 'conducted', 'conduct'}
+Lemma('remember.v.03.remember'): {'remembering', 'remembers', 'remember', 'remembered'}
+Lemma('shout.v.01.shout'): {'shouting', 'shouts', 'shouted', 'shout'}
+Lemma('performance.n.01.performance'): {'performances', 'performance'}
+Lemma('phonograph_record.n.01.record'): {'record', 'records'}
+Lemma('art.n.01.art'): {'art', 'arts'}
+Lemma('thought.n.03.thought'): {'thought'}
+Lemma('accept.v.02.accept'): {'accepting', 'accept', 'accepts', 'accepted'}
+Lemma('destroy.v.01.destroy'): {'destroying', 'destroy', 'destroyed'}
+Lemma('choose.v.02.prefer'): {'preferred', 'prefer', 'preferring'}
+Lemma('even.r.02.even'): {'even'}
+Lemma('play.n.01.drama'): {'dramas', 'drama'}
+Lemma('sound.n.02.sound'): {'sounds', 'sound'}
+Lemma('needed.s.01.required'): {'required'}
+Lemma('help.v.02.help'): {'help', 'helps', 'helping', 'helped'}
+Lemma('reflect.v.03.reflect'): {'reflect', 'reflects', 'reflecting', 'reflected'}
+Lemma('fear.v.01.fear'): {'feared', 'fears', 'fearing', 'fear'}
+Lemma('search.v.01.search'): {'searched', 'searches', 'search', 'searching'}
+Lemma('enormous.s.01.tremendous'): {'tremendous'}
+Lemma('form.v.01.organize'): {'organize', 'organized', 'organizing'}
+Lemma('trade.n.02.trade'): {'trade', 'trades'}
+Lemma('loss.n.01.loss'): {'loss', 'losses'}
+Lemma('study.n.02.work'): {'work', 'works'}
+Lemma('better.v.03.improve'): {'improve', 'improving', 'improves', 'improved'}
+Lemma('interrupt.v.04.break'): {'broken', 'break', 'broke', 'breaking'}
+Lemma('experience.n.02.experience'): {'experiences', 'experience'}
+Lemma('degree.n.02.degree'): {'degrees', 'degree'}
+Lemma('reality.n.02.reality'): {'reality', 'realities'}
+Lemma('practice.v.01.do'): {'does', 'doing', 'did', 'do'}
+Lemma('open.v.02.open'): {'opening', 'opened', 'opens', 'open'}
+Lemma('unite.v.03.combine'): {'combine', 'combined', 'combines', 'combining'}
+Lemma('function.n.02.function'): {'functions', 'function'}
+Lemma('leave.v.06.leave'): {'left', 'leave', 'leaves', 'leaving'}
+Lemma('draw.v.04.make'): {'make', 'made', 'making'}
+Lemma('being.n.01.being'): {'being'}
+Lemma('admit.v.02.admit'): {'admitted', 'admit', 'admitting'}
+Lemma('sit.v.02.sit'): {'sit', 'sitting', 'sat', 'sits'}
+Lemma('form.n.03.pattern'): {'pattern', 'patterns'}
+Lemma('reach.v.01.arrive_at'): {'arrive at', 'arriving at', 'arrived at'}
+Lemma('world.n.03.reality'): {'reality', 'realities'}
+Lemma('meaning.n.02.meaning'): {'meanings', 'meaning'}
+Lemma('response.n.01.response'): {'response'}
+Lemma('stress.v.01.emphasize'): {'emphasize', 'emphasizing', 'emphasized', 'emphasizes'}
+Lemma('historic_period.n.01.age'): {'ages', 'age'}
+Lemma('degree.n.02.level'): {'level', 'levels'}
+Lemma('entirely.r.02.alone'): {'alone'}
+Lemma('quality.n.03.character'): {'character'}
+Lemma('exert.v.01.exert'): {'exerted', 'exerting', 'exert', 'exerts'}
+Lemma('impel.v.01.force'): {'forced', 'force', 'forcing', 'forces'}
+Lemma('truly.r.01.truly'): {'truly'}
+Lemma('means.n.01.way'): {'ways', 'way'}
+Lemma('space.n.01.space'): {'space'}
+Lemma('motion.n.03.movement'): {'movement', 'movements'}
+Lemma('quality.n.03.quality'): {'quality', 'qualities'}
+Lemma('reaction.n.03.response'): {'responses', 'response'}
+Lemma('necessitate.v.01.take'): {'taken', 'take', 'takes', 'took'}
+Lemma('question.v.01.question'): {'questioning', 'questioned', 'question'}
+Lemma('establish.v.05.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('divide.v.01.divide'): {'divide', 'dividing', 'divided'}
+Lemma('wrong.a.02.wrong'): {'wrong'}
+Lemma('roll_up.v.02.collect'): {'collect', 'collected', 'collecting'}
+Lemma('agency.n.01.office'): {'offices', 'office'}
+Lemma('gain.v.08.make'): {'make', 'made', 'makes'}
+Lemma('answer.n.03.answer'): {'answer', 'answers'}
+Lemma('continue.v.02.continue'): {'continuing', 'continues', 'continued', 'continue'}
+Lemma('deal.v.03.deal'): {'deals', 'deal', 'dealing', 'dealt'}
+Lemma('again.r.01.once_again'): {'once again'}
+Lemma('specify.v.02.determine'): {'determine', 'determining', 'determined', 'determines'}
+Lemma('normally.r.01.normally'): {'normally'}
+Lemma('break.v.02.break'): {'broken', 'break', 'broke', 'breaking'}
+Lemma('snow.n.01.snow'): {'snow'}
+Lemma('refer.v.03.refer'): {'referred', 'refer'}
+Lemma('animal.n.01.creature'): {'creature', 'creatures'}
+Lemma('imply.v.01.imply'): {'imply', 'implied', 'implying', 'implies'}
+Lemma('paint.v.02.paint'): {'painting', 'painted', 'paint'}
+Lemma('paint.v.01.paint'): {'painting', 'painted', 'paint'}
+Lemma('function.v.01.operate'): {'operating', 'operate', 'operates', 'operated'}
+Lemma('follow.v.08.follow'): {'following', 'followed', 'follows'}
+Lemma('top.n.02.top'): {'top', 'tops'}
+Lemma('dry.v.01.dry'): {'drying', 'dry', 'dried'}
+Lemma('put.v.01.set'): {'set', 'setting'}
+Lemma('control.n.01.control'): {'control'}
+Lemma('voice.n.02.voice'): {'voices', 'voice'}
+Lemma('rush.v.01.race'): {'raced', 'racing', 'race'}
+Lemma('form.v.03.form'): {'forming', 'formed', 'forms', 'form'}
+Lemma('bank.n.01.bank'): {'bank', 'banks'}
+Lemma('crawl.v.01.crawl'): {'crawled', 'crawl', 'crawling'}
+Lemma('movement.n.03.movement'): {'movement', 'movements'}
+Lemma('show.v.04.show'): {'showing', 'show', 'showed', 'shown', 'shows'}
+Lemma('match.v.02.match'): {'matched', 'match', 'matching'}
+Lemma('meet.v.06.meet'): {'meet', 'met', 'meeting'}
+Lemma('help.v.01.assist'): {'assisted', 'assist', 'assisting'}
+Lemma('one.n.01.1'): {'1'}
+Lemma('two.n.01.2'): {'2'}
+Lemma('involve.v.01.involve'): {'involve', 'involved', 'involving', 'involves'}
+Lemma('service.v.01.serve'): {'serve', 'serves', 'serving', 'served'}
+Lemma('industry.n.01.industry'): {'industry', 'industries'}
+Lemma('industry.n.02.industry'): {'industry', 'industries'}
+Lemma('effort.n.02.effort'): {'effort', 'efforts'}
+Lemma('take.v.20.take'): {'took', 'take', 'taken', 'taking'}
+Lemma('fill.v.04.take'): {'took', 'take', 'taken', 'taking'}
+Lemma('choose.v.01.select'): {'selects', 'selecting', 'select', 'selected'}
+Lemma('give.v.14.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('stop.v.03.stop'): {'stop', 'stopped', 'stopping'}
+Lemma('take.v.21.take'): {'taken', 'take', 'took'}
+Lemma('miss.v.02.miss'): {'miss', 'misses', 'missed'}
+Lemma('consume.v.02.take'): {'taking', 'taken', 'take', 'took'}
+Lemma('part.n.03.part'): {'part', 'parts'}
+Lemma('point.n.03.point'): {'point'}
+Lemma('pay_back.v.02.get'): {'got', 'get'}
+Lemma('analyze.v.01.analyze'): {'analyzing', 'analyzes', 'analyze', 'analyzed'}
+Lemma('model.n.01.model'): {'models', 'model'}
+Lemma('function.n.01.function'): {'functions', 'function'}
+Lemma('addition.n.03.increase'): {'increases', 'increase'}
+Lemma('permit.v.01.allow'): {'allowed', 'allowing', 'allows', 'allow'}
+Lemma('request.v.01.request'): {'requests', 'requested', 'request', 'requesting'}
+Lemma('depend_on.v.01.depend_upon'): {'depends upon', 'depending upon', 'depends', 'depend upon', 'depended upon', 'depend'}
+Lemma('necessitate.v.01.call_for'): {'calls for', 'called for', 'call for'}
+Lemma('trouble.n.01.problem'): {'problem', 'problems'}
+Lemma('design.v.02.design'): {'designed', 'design'}
+Lemma('claim.n.01.claim'): {'claim', 'claims'}
+Lemma('plan.v.03.plan'): {'planning', 'plan', 'planned', 'plans'}
+Lemma('feel.v.06.feel'): {'felt', 'feel', 'feeling', 'feels'}
+Lemma('study.v.03.study'): {'study', 'studying', 'studied'}
+Lemma('necessity.n.02.requirement'): {'requirement', 'requirements'}
+Lemma('cover.v.03.cover'): {'covered', 'covering', 'covers', 'cover'}
+Lemma('technical.a.01.technical'): {'technical'}
+Lemma('bulk.n.02.volume'): {'volume', 'voume'}
+Lemma('indicate.v.05.suggest'): {'suggests', 'suggested', 'suggest'}
+Lemma('private_detective.n.01.private_detective'): {'private detective'}
+Lemma('private_detective.n.01.private_eye'): {'private eye', 'private eyes'}
+Lemma('essential.a.02.essential'): {'essential'}
+Lemma('death.n.04.death'): {'death', 'deaths'}
+Lemma('place.v.02.place'): {'place', 'placing', 'placed'}
+Lemma('good.a.03.good'): {'good'}
+Lemma('create.v.02.create'): {'create', 'creates', 'created', 'creating'}
+Lemma('associate.v.01.link'): {'linking', 'link', 'linked'}
+Lemma('spirit.n.03.spirit'): {'spirit'}
+Lemma('salvage.v.01.save'): {'saved', 'save', 'saves', 'saving'}
+Lemma('finish_up.v.02.finish'): {'finish', 'finishing', 'finished'}
+Lemma('below.r.01.below'): {'below'}
+Lemma('expect.v.03.expect'): {'expected', 'expecting', 'expect', 'expects'}
+Lemma('mind.n.02.mind'): {'minds', 'mind'}
+Lemma('end.v.02.end'): {'ended', 'end', 'ending'}
+Lemma('detect.v.01.detect'): {'detected', 'detect', 'detecting'}
+Lemma('growth.n.01.growth'): {'growth'}
+Lemma('rate.n.01.rate'): {'rates', 'rate'}
+Lemma('give.v.18.commit'): {'committed', 'committing', 'commit'}
+Lemma('wholly.r.01.wholly'): {'wholly'}
+Lemma('structure.n.02.structure'): {'structure'}
+Lemma('represent.v.04.represent'): {'representing', 'represent', 'represents', 'represented'}
+Lemma('recommend.v.01.urge'): {'urge', 'urging', 'urged'}
+Lemma('head.v.02.lead'): {'led', 'leading', 'lead'}
+Lemma('announce.v.02.declare'): {'declared', 'declaring'}
+Lemma('ask.v.04.expect'): {'expected', 'expecting', 'expect', 'expects'}
+Lemma('deliver.v.02.deliver'): {'delivering', 'delivers', 'deliver', 'delivered'}
+Lemma('function.v.01.work'): {'worked', 'working', 'work', 'works'}
+Lemma('air.n.02.air'): {'air'}
+Lemma('grow.v.08.develop'): {'developed', 'develops', 'develop', 'developing'}
+Lemma('occasionally.r.01.at_times'): {'at times'}
+Lemma('score.v.01.score'): {'score', 'scoring', 'scored'}
+Lemma('hit.v.01.hit'): {'hits', 'hitting', 'hit'}
+Lemma('pull.v.01.draw'): {'drawing', 'draw', 'drawn', 'drew'}
+Lemma('drop.v.03.drop'): {'drop', 'dropped', 'dropping'}
+Lemma('detail.n.02.item'): {'item', 'items'}
+Lemma('set.n.02.set'): {'set', 'sets'}
+Lemma('obviate.v.01.eliminate'): {'eliminates', 'eliminate', 'eliminated', 'eliminating'}
+Lemma('four.n.01.4'): {'4'}
+Lemma('plant.n.02.plant'): {'plant', 'plants'}
+Lemma('class.n.01.category'): {'category', 'categories'}
+Lemma('divide.v.02.divide'): {'divide', 'divides', 'dividing', 'divided'}
+Lemma('render.v.04.give'): {'given', 'giving', 'give', 'gave', 'gives'}
+Lemma('involve.v.01.regard'): {'regards', 'regarding', 'regard'}
+Lemma('frequency.n.02.frequency'): {'frequency', 'frequencies'}
+Lemma('form.n.01.form'): {'form', 'forms'}
+Lemma('match.v.01.match'): {'matches', 'matched', 'match', 'matching'}
+Lemma('cut.v.01.cut'): {'cut', 'cutting', 'cuts'}
+Lemma('source.n.03.source'): {'sources', 'source'}
+Lemma('lead.v.05.lead'): {'led', 'leading', 'leads', 'lead'}
+Lemma('change_state.v.01.turn'): {'turn', 'turning', 'turned'}
+Lemma('define.v.02.define'): {'defining', 'define', 'defines', 'defined'}
+Lemma('committee.n.01.commission'): {'commissions', 'commission'}
+Lemma('support.v.01.support'): {'supports', 'supported', 'support', 'supporting'}
+Lemma('secretary.n.01.secretary'): {'secretaries', 'secretary'}
+Lemma('military.a.02.military'): {'military'}
+Lemma('operate.v.03.operate'): {'operating', 'operate', 'operates', 'operated'}
+Lemma('scientific.a.01.scientific'): {'scientific'}
+Lemma('necessitate.v.01.necessitate'): {'necessitated', 'necessitates', 'necessitate'}
+Lemma('force.n.03.force'): {'force'}
+Lemma('start.v.06.start'): {'starting', 'started', 'starts', 'start'}
+Lemma('enormous.s.01.enormous'): {'enormous'}
+Lemma('cry.v.02.cry'): {'cry', 'crying', 'cried'}
+Lemma('defend.v.02.defend'): {'defend', 'defends', 'defended', 'defending'}
+Lemma('allow.v.03.allow'): {'allowed', 'allowing', 'allow'}
+Lemma('distribution.n.01.distribution'): {'distributions', 'distribution'}
+Lemma('annoy.v.01.bother'): {'bother', 'bothering', 'bothers', 'bothered'}
+Lemma('necessitate.v.01.involve'): {'involve', 'involved', 'involving', 'involves'}
+Lemma('average.s.01.mean'): {'mean'}
+Lemma('perform.v.02.perform'): {'performed', 'performs', 'perform', 'performing'}
+Lemma('scholar.n.01.student'): {'students', 'student'}
+Lemma('concern.v.02.concern'): {'concern', 'concerns', 'concerned'}
+Lemma('detect.v.01.discover'): {'discovered', 'discover'}
+Lemma('recognize.v.02.recognize'): {'recognized', 'recognize', 'recognizing', 'recognizes'}
+Lemma('chiefly.r.01.chiefly'): {'chiefly'}
+Lemma('share.n.02.share'): {'shares', 'share'}
+Lemma('officeholder.n.01.officer'): {'officers', 'officer'}
+Lemma('announce.v.02.announce'): {'announce', 'announcing', 'announced'}
+Lemma('argue.v.02.argue'): {'argues', 'arguing', 'argued', 'argue'}
+Lemma('legislate.v.01.pass'): {'passing', 'pass', 'passed'}
+Lemma('destroy.v.02.destroy'): {'destroying', 'destroy', 'destroyed'}
+Lemma('head.n.02.head'): {'head'}
+Lemma('order.v.02.order'): {'ordered', 'order'}
+Lemma('grow.v.03.grow'): {'growing', 'grew', 'grow', 'grows', 'grown'}
+Lemma('miss.v.01.miss'): {'missing', 'miss', 'missed'}
+Lemma('become.v.01.go'): {'gone', 'going', 'go', 'went'}
+Lemma('lose.v.02.lose'): {'losing', 'lose', 'loses', 'lost'}
+Lemma('eat.v.02.eat'): {'ate', 'eaten', 'eat'}
+Lemma('mention.v.01.cite'): {'cites', 'cited', 'cite'}
+Lemma('memory.n.02.memory'): {'memory'}
+Lemma('adulthood.n.01.maturity'): {'maturity'}
+Lemma('topographic_point.n.01.spot'): {'spots', 'spot'}
+Lemma('gather.v.01.collect'): {'collect', 'collected'}
+Lemma('drive.v.03.drive'): {'driven', 'drives', 'drive', 'driving', 'drove'}
+Lemma('unwrap.v.02.reveal'): {'reveal', 'reveals', 'revealing', 'revealed'}
+Lemma('forty.s.01.forty'): {'forty'}
+Lemma('pain.n.02.pain'): {'pain'}
+Lemma('land.n.02.land'): {'land'}
+Lemma('exist.v.02.live'): {'lived', 'lives', 'living', 'live'}
+Lemma('below.r.02.below'): {'below'}
+Lemma('grow.v.04.grow'): {'growing', 'grows', 'grow', 'grown'}
+Lemma('power.n.02.power'): {'power'}
+Lemma('get_the_better_of.v.01.overcome'): {'overcomes', 'overcome', 'overcoming', 'overcame'}
+Lemma('party.n.01.party'): {'party', 'parties'}
+Lemma('dwell.v.02.lie'): {'lies', 'lay', 'lie'}
+Lemma('carry_through.v.01.accomplish'): {'accomplishing', 'accomplished', 'accomplish'}
+Lemma('store.v.01.store'): {'store', 'storing', 'stored'}
+Lemma('cell.n.01.cell'): {'cells', 'cell'}
+Lemma('assign.v.02.assign'): {'assign', 'assigned', 'assigns', 'assigning'}
+Lemma('feed.v.01.feed'): {'fed', 'feeding', 'feed'}
+Lemma('milligram.n.01.milligram'): {'milligrams', 'milligram'}
+Lemma('bodily_process.n.01.activity'): {'activity'}
+Lemma('unit_of_measurement.n.01.unit'): {'unit', 'units'}
+Lemma('radiation.n.01.radiation'): {'radiation'}
+Lemma('figure.n.01.fig'): {'fig.', 'figs.'}
+Lemma('cover.v.01.cover'): {'covered', 'covers', 'covering', 'cover'}
+Lemma('achieve.v.01.reach'): {'reach', 'reached', 'reaching'}
+Lemma('duty.n.01.duty'): {'duty', 'duties'}
+Lemma('refuse.v.02.refuse'): {'refused', 'refuse'}
+Lemma('performance.n.03.performance'): {'performances', 'performance'}
+Lemma('shout.v.02.shout'): {'shouting', 'shouts', 'shouted'}
+Lemma('form.v.01.form'): {'forming', 'formed', 'form'}
+Lemma('painting.n.01.picture'): {'pictures', 'picture'}
+Lemma('paint.v.03.paint'): {'painting', 'painted', 'paint'}
+Lemma('begin.v.02.start'): {'starts', 'starting', 'started', 'start'}
+Lemma('create.v.05.make'): {'make', 'made', 'making'}
+Lemma('course.n.03.course'): {'course', 'courses'}
+Lemma('give.v.08.give'): {'gives', 'given', 'gave', 'give'}
+Lemma('art.n.02.art'): {'art', 'arts'}
+Lemma('build_up.v.05.develop'): {'developing', 'develop', 'developed'}
+Lemma('meet.v.07.meet'): {'meet', 'met', 'meeting'}
+Lemma('shooting.n.01.shooting'): {'shooting'}
+Lemma('forty.s.01.40'): {'40'}
+Lemma('season.n.01.season'): {'season', 'seasons'}
+Lemma('growth.n.01.development'): {'development'}
+Lemma('stage.v.01.present'): {'presented', 'present', 'presents'}
+Lemma('travel_to.v.01.visit'): {'visited', 'visiting', 'visit'}
+Lemma('cook.v.02.prepare'): {'prepare', 'preparing', 'prepared'}
+Lemma('subject.n.02.subject'): {'subject', 'subjects'}
+Lemma('note.v.03.observe'): {'observed', 'observing', 'observe'}
+Lemma('shape.n.01.form'): {'form', 'forms'}
+Lemma('absolutely.r.01.absolutely'): {'absolutely'}
+Lemma('plane.n.02.plane'): {'plane', 'planes'}
+Lemma('land.n.04.earth'): {'earth'}
+Lemma('close.v.01.close'): {'close', 'closes', 'closing', 'closed'}
+Lemma('build_up.v.02.build'): {'building', 'builds', 'build', 'built'}
+Lemma('confront.v.02.confront'): {'confronting', 'confronted'}
+Lemma('read.v.03.read'): {'reading', 'read'}
+Lemma('act.v.03.play'): {'play', 'playing', 'plays', 'played'}
+Lemma('back.v.01.support'): {'supports', 'supported', 'support', 'supporting'}
+Lemma('enter.v.01.get_in'): {'getting in', 'get in', 'got in'}
+Lemma('travel.v.01.travel'): {'travelling', 'traveled', 'travel', 'travelled', 'travels', 'traveling'}
+Lemma('come.v.16.come_in'): {'come in', 'came in', 'coming in'}
+Lemma('coach.n.01.manager'): {'managers', 'manager'}
+Lemma('volunteer.v.02.offer'): {'offer', 'offered'}
+Lemma('succeed.v.02.succeed'): {'succeeded', 'succeed', 'succeeds'}
+Lemma('meet.v.05.meet'): {'meets', 'meet', 'met', 'meeting'}
+Lemma('practice.v.01.exercise'): {'exercises', 'exercise', 'exercised'}
+Lemma('plan.v.03.design'): {'designed'}
+Lemma('receive.v.02.obtain'): {'obtained'}
+Lemma('case.n.04.case'): {'case'}
+Lemma('captain.n.02.captain'): {'captain'}
+Lemma('converge.v.01.meet'): {'meets', 'meet', 'met', 'meeting'}
+Lemma('get_the_better_of.v.01.defeat'): {'defeating', 'defeated', 'defeat'}
+Lemma('descend.v.01.descend'): {'descended', 'descends', 'descend', 'descending'}
+Lemma('sound.v.02.sound'): {'sounds', 'sounded', 'sound'}
+Lemma('movie.n.01.film'): {'films', 'film'}
+Lemma('visit.v.01.visit'): {'visited', 'visiting', 'visit'}
+Lemma('bond.n.02.bond'): {'bonds', 'bond'}
+Lemma('stage.n.03.stage'): {'stage'}
+Lemma('little.s.03.little'): {'little'}
+Lemma('cover.v.04.cover'): {'covered', 'covering', 'cover'}
+Lemma('cell.n.02.cell'): {'cells', 'cell'}
+Lemma('field.n.05.field'): {'field', 'fields'}
+Lemma('upper.s.01.upper'): {'upper'}
+Lemma('area.n.03.area'): {'areas', 'area'}
+Lemma('issue.v.02.issue'): {'issuing', 'issued', 'issue'}
+Lemma('dance.v.01.dance'): {'dances', 'danced', 'dance', 'dancing'}
+Lemma('promise.v.02.promise'): {'promise', 'promises', 'promised'}
+Lemma('dry.v.02.dry'): {'dry', 'dried'}
+Lemma('do.v.08.make'): {'make', 'made'}
+Lemma('submit.v.02.state'): {'states', 'state', 'stated'}
+Lemma('performance.n.02.performance'): {'performances', 'performance'}
+Lemma('receive.v.02.receive'): {'receiving', 'receives', 'receive', 'received'}
+Lemma('lend.v.01.add'): {'add', 'adds', 'added'}
+Lemma('constitute.v.01.make_up'): {'making up', 'made up', 'make up'}
+Lemma('use.v.02.use'): {'use', 'using', 'used'}
+Lemma('smell.v.01.smell'): {'smell', 'smelling', 'smelled', 'smelt'}
+Lemma('business.n.01.business_concern'): {'business', 'business concerns', 'business concern'}
+Lemma('maturity.n.02.maturity'): {'maturity'}
+Lemma('deviate.v.02.vary'): {'varies', 'vary', 'varying', 'varied'}
+Lemma('direction.n.02.direction'): {'directions', 'direction'}
+Lemma('chemical_bond.n.01.bond'): {'bonds', 'bond'}
+Lemma('affect.v.02.affect'): {'affected', 'affects', 'affect'}
+Lemma('loss.n.02.loss'): {'loss', 'losses'}
+Lemma('smell.v.02.smell'): {'smells', 'smell', 'smelled', 'smelt'}
+Lemma('hit.v.02.strike'): {'striking', 'strike', 'struck', 'strikes'}
+Lemma('print.v.01.print'): {'print', 'printed'}
+Lemma('participate.v.01.take_part'): {'taken part', 'took part', 'take', 'take part', 'taking part'}
+Lemma('close_up.v.01.close'): {'close', 'closing', 'closed'}
+Lemma('city.n.02.city'): {'city'}
+Lemma('direct.v.03.direct'): {'directed'}
+Lemma('close.v.04.close'): {'close', 'closes', 'closed'}
+Lemma('dance.v.02.dance'): {'danced', 'dances', 'dancing', 'dance'}
+Lemma('speak.v.03.speak'): {'spoken', 'speak', 'speaks', 'speaking', 'spoke'}
+Lemma('milligram.n.01.mg'): {'mg', 'mg.'}
+Lemma('hour.n.01.hr'): {'hr', 'hr.'}
+Lemma('corner.n.02.corner'): {'corners', 'corner'}
+Lemma('particle.n.02.particle'): {'particle', 'particles'}
+Lemma('debris.n.01.dust'): {'dusts', 'dust'}
+Lemma('system.n.03.system'): {'systems', 'system'}
+Lemma('duplicate.v.01.repeat'): {'repeat', 'repeating', 'repeated'}
+Lemma('homer.n.01.homer'): {'homers', 'homer'}
+Lemma('perpetrate.v.01.commit'): {'committed', 'commits', 'committing', 'commit'}
+Lemma('hard.a.03.hard'): {'hard'}
+Lemma('phase.n.02.phase'): {'phases', 'phase'}
+Lemma('game.n.02.game'): {'game', 'games'}
+Lemma('film.n.02.film'): {'film'}
+Lemma('measure.v.03.measure'): {'measured', 'measure', 'measuring'}
+Lemma('radiation.n.02.radiation'): {'radiation'}
+Lemma('receive.v.05.receive'): {'receiving', 'receive', 'received'}
+Lemma('undertake.v.01.attempt'): {'attempted', 'attempt', 'attempting'}
+Lemma('put_on.v.07.apply'): {'apply', 'applying', 'applied'}
+Lemma('choose.v.03.choose'): {'chose', 'choose', 'chooses', 'chosen'}
+Lemma('hang.v.03.hang'): {'hanging', 'hung', 'hang', 'hanged'}
+Lemma('dirt.n.02.soil'): {'soils', 'soil'}
+Lemma('shape.v.03.form'): {'forming', 'form', 'formed'}
+Lemma('section.n.02.section'): {'section', 'sections'}
+Lemma('serve.v.06.serve'): {'serve', 'serving', 'served'}
+Lemma('raise.v.04.raise'): {'raise', 'raised', 'raising'}
+Lemma('homer.n.01.home_run'): {'home runs', 'homerun', 'home run'}
+Lemma('choose.v.02.choose'): {'chose', 'chosen', 'choose', 'chooses'}
+Lemma('score.v.02.score'): {'score', 'scoring', 'scored'}

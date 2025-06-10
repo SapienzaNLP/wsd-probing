@@ -1,0 +1,105 @@
+Errors for k = 400
+
+Number of total errors = 248
+Number of total sentences = 1374
+Total Accuracy of BERT = 0.8195050946142649
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 455
+Accuracy: 0.8065934065934066
+
+There are 40 embeddings closer to Lemma('make.v.01.do')
+		|
+		1 - At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' .
+		2 - `` It 's the second time War Ax hands made a play for that money .
+		3 - In their first two years in high school , Jewish boys in this town make strenuous exertions to win positions on the school teams .
+		4 - Two weeks , a month , we talk it over again , and maybe if nothing happens meanwhile to say the cops know this and that , then we make a little deal , is n't it '' ?
+		5 - Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled , That the Secretary of the Interior is hereby authorized and directed to make or cause to be made a study covering -
+		6 - In I 'll go with George dominant stress is probably on George ; but if George has just been mentioned prominently ( and the trip to be made has been under discussion ) , what is said is probably I 'll go with him , and dominant stress is probably on the preposition with .
+		7 - Thus in Mary wrote an account of the trip first strong stress on Mary marks Mary as the first in a series of people who wrote accounts of the trip , strong stress on wrote marks the writing as the first of a series of actions of Mary 's concerned with an account of her trip ( about which she may later have made speeches , for example ) , and strong stress on trip makes the trip the first of a series of subjects about which Mary wrote accounts .
+		8 - School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas .
+		9 - School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas .
+		10 - If a child watched its progress he whispered , `` Hay , hay , load of hay - make a wish and turn away '' , and then stared rigidly in the opposite direction until the sound of the horses ' feet returned no more .
+
+There are 48 embeddings closer to Lemma('make.v.02.make')
+		|
+		1 - I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel .
+		2 - For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers , then the `` open house '' system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door .
+		3 - But what a super Herculean task it is to winnow anything of value from the mud beplastered arguments used so freely , particularly since such common use is made of cliches and stereotypes , in themselves declarations of intellectual bankruptcy .
+		4 - Regardless of how much of a slob you knew yourself to be , you could be certain they would never find out - and even if they did it would make no difference .
+		5 - In I have things to do the word things makes little real contribution to meaning and has weaker stress than do .
+		6 - Courses are provided mainly for post high school day programs ; but sometimes arrangements also are made for high school students to attend , and evening extension courses also may be conducted .
+		7 - Gun set the captain 's fifth of Hiram Walker inside the safe before he reported to Lt. Killpath , though he knew that Killpath 's ulcer prevented him from making any untoward incursion on Herman Wolff 's gift .
+		8 - Thus at the same time that William Henry Harrison was preparing to pacify the aborigines of Indiana Territory and winning fame at the battle of Tippecanoe , Anglo-Saxon settlement made a great leap into the center of the North American continent to the west of the American agricultural frontier .
+		9 - Soil type , drainage , or degree of slope can make the difference between good crops and poor ones .
+		10 - Interruptions came largely from the bench , which numerous times rebuked the Attorney General for letting his witnesses run on , though it , too , made no serious effort to choke off the flow .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 421
+Accuracy: 0.7624703087885986
+
+There are 50 embeddings closer to Lemma('make.v.01.do')
+		|
+		1 - The subsequent two-weeks wait made the crew quarrelsome .
+		2 - Admiralty law , the law merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws .
+		3 - I tell you , I know how it is with you , my friend , I sympathize , and I 'll make it a special point - a special favor - get in touch , and get some stuff just for you .
+		4 - `` Having all the guns makes you a big man , do n't it , Adams ?
+		5 - `` Does this make it any easier , coward '' ?
+		6 - Meanwhile , other air defense forces are being made effective , as described later in this message .
+		7 - And most of all it is not having the only man you could love , whether he drives a bread truck or delivers the mail or checks the berry crates down at the sheds , or owns seventeen oil wells and six diamond mines , for if you are anybody what he is or does makes no difference if he is the one .
+		8 - You wonder about the Christmas card with no name on it , and it comes to you that maybe it would have been better to have made somebody else happy if you could n't be happy yourself , to give somebody else the one they wanted - to give them you .
+		9 - Back at the Factory-to-You with the other old maids , back there she was the youngest clerk and she was thirty-four , which made her young enough to resent the usual ideal working conditions , like the unventilated toilet with the door you had to hold shut while you sat down .
+		10 - Pale yellow snapdragons that by pinching could be made to bite ; seed-pods of the balsams that snapped like fire-crackers at a touch ; red and yellow columbines whose round tipped spurs were picked off and eaten for the honey in them ; morning-glory buds which could be so grasped and squeezed that they burst like a blown-up paper bag ; bright flowers from the trumpet vine that made `` gloves '' on the ends of ten waggling fingers .
+
+There are 50 embeddings closer to Lemma('make.v.01.make')
+		|
+		1 - Beccaria had almost stumbled on a lead to the relationship between electricity and magnetism when a discharge from a Leyden jar was sent transversally through a piece of watch spring steel making its ends magnetic .
+		2 - `` We '' were Bill Garrett of the National Geographic Illustrations Staff , whose three cameras and eight lenses made him look as formidable as any fighting man we met ; Boun My , our interpreter ; and myself .
+		3 - Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such as is made available by a waterfall for milling purposes , a mine , or a sugar maple camp .
+		4 - Mack 's the leader at camp , but Jack 's here , with this is deprived of stress , makes here the complement in the clause .
+		5 - In the Steiners have busy lives without visiting relatives only context can indicate whether visiting relatives is equivalent in meaning to paying visits to relatives or to relatives who are visiting them , and in I looked up the number and I looked up the chimney only the meanings of number and chimney make it clear that up is syntactically a second complement in the first sentence and a preposition followed by its object in the second .
+		6 - The change of emphasis from conventional type to missile type warfare must be made with care , mindful that the one type of warfare cannot be safely neglected in favor of the other .
+		7 - If you are not well acquainted with the area in which you wish to locate , or if you are not sure that you and your family will like and make a success of farming , usually you would do better to rent a place for a year or two before you buy .
+		8 - In other words , the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life , and that the new conspiracy counted on the general anti-Semitism that had made those measures effective , as a readiness for murder .
+		9 - All checks and money orders should be made payable to Internal Revenue Service .
+		10 - Refunds of less than $ 1 will not be made unless you attach a separate application to your return requesting such a refund .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 498
+Accuracy: 0.8795180722891567
+
+There are 42 embeddings closer to Lemma('make.v.02.make')
+		|
+		1 - Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .
+		2 - To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .
+		3 - I 'm sure you won n't mind doing me a small favor '' .
+		4 - By virtue of his self-reliance , his individualism and his freedom from external restraint , the private eye is a perfect embodiment of the middle class conception of liberty , which amounts to doing what you please and let the devil take the hindmost .
+		5 - At any rate , the substance of Eichmann 's testimony was that all his actions flowed from his membership in the party and the SS , and though the Prosecutor did his utmost to prove actual personal hatred of Jews , his success on this score was doubtful and the anti-Semitic lesson weakened to that extent .
+		6 - I remember once I did a jacket for Magpie Press ; the book was a fine historical novel about Edward 3 , , and I did a week of research to get the details just right : the fifteenth century armor , furnishings , clothes .
+		7 - He was an artisan , a man who studied his trade and developed his craftsmanship the way a goldsmith or a wood carver did .
+		8 - `` Listen , wise guy , if you think I 'm gonna do all the fighting for this ball club you 're crazy '' .
+		9 - `` I 'm doing you a favor '' , Eddie said quickly .
+		10 - I tell you when it 's necessary to hurt in order to win - you won n't do it .
+
+There are 18 embeddings closer to Lemma('make.v.01.make')
+		|
+		1 - Its ground for this recommendation was that , while petitioner claimed before the local board August 17 , 1956 ( as evidenced by its memorandum in his file of that date ) , that he was devoting 100 hours per month to actual preaching , the headquarters of the Jehovah's Witnesses reported that he was no longer doing so and , on the contrary , had relinquished both his Pioneer and Bible Student Servant positions .
+		2 - Mr. Mills had done some figuring on a scrap of paper and given him the various kinds of boards and two-by-fours which , properly handled , would , he had assured him , turn into a workbench .
+		3 - `` Do what '' ?
+		4 - In November 1900 surveying was done under John Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power plant .
+		5 - In their very first collages , Braque and Picasso draw or paint over and on the affixed paper or cloth , so that certain of the principal features of their subjects as depicted seem to thrust out into real , bas-relief space - or to be about to do so - while the rest of the subject remains imbedded in , or flat upon , the surface .
+		6 - Although Miller noted in 1907 that a difference in the pleural blood supply existed between animals , nowhere in his published works is it found that he did a comparative study of the intrapulmonary features of various mammalian lungs other than in the dog and cat ( Miller , ' 13 ; ' 25 ) .
+		7 - In addition , little work has been done on a comparative basis in regard to the normal existence of bronchial artery pulmonary artery anastomoses .
+		8 - Experiments were done at 180 , 200 , 210 , 220 ` .
+		9 - When we come upon the rabbit and make our remark about its suffering being a bad thing , we presumably make it with some feeling ; the positivists are plainly right in saying that such remarks do usually express feeling .
+		10 - Mrs. Benington admired Gordon 's spirit and did what she could to persuade her husband that the boy might help the team .
+
+
+-----------------------------------------

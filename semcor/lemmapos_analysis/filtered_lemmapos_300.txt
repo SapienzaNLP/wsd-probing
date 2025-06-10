@@ -1,0 +1,86 @@
+Synsets with frequency > 300 
+Number of lemmapos: 4
+
+-----------------------------------------
+Wordnet Lemma: Lemma('be.v.01.be')
+Frequency of Synset('be.v.01'): 9825  (have the quality of being; (copula, used with an adjective or a predicate noun))
+	 1.Example sentence: How long has it been since you reviewed the objectives of your benefit and service program ? 
+	 2.Example sentence: Is it larger or fancier than you really need ? 
+	 3.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+	 4.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+
+Frequency of Synset('be.v.02'): 2858  (be identical to; be someone or something)
+	 1.Example sentence: What are the possibilities for operating your cafeteria for a single shift only and relying upon vending machines or prepackaged sandwiches for the second - and third shift operations ? 
+	 2.Example sentence: Consider what you can afford to spend and what your goals are before setting up or revamping your employee benefit program . 
+	 3.Example sentence: In granting bereavement leaves , specify the maximum time off and list what the worker 's relation to the deceased must be to qualify . 
+	 4.Example sentence: `` If there was collusion between an outside murderer and a member of the household it would be an elementary precaution to check on the door later . 
+
+Frequency of Synset('be.v.03'): 766  (occupy a certain position or area; be somewhere)
+	 1.Example sentence: In what section of the country are you located ? 
+	 2.Example sentence: Are you in a rural or urban area ? 
+	 3.Example sentence: Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock . 
+	 4.Example sentence: Mr. Hohlbein was out for the day , but Mr. Garth would be free at one-thirty . 
+
+Frequency of Synset('exist.v.01'): 788  (have an existence, be extant)
+	 1.Example sentence: Are there other , cheaper communications techniques that could be substituted ? 
+	 2.Example sentence: But even if that other plant employs the same number of workers and makes the same product , there are other facts to consider . 
+	 3.Example sentence: There are two sides of a coin for this decision . 
+	 4.Example sentence: Thus , there is an added incentive to stay on the job . 
+
+Frequency of Synset('be.v.05'): 662  (happen, occur, take place)
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Ahead were perilous , ice filled waters . 
+	 3.Example sentence: On previous voyages , it had been in precisely such dangerous situations that he had failed as a leader and captain . 
+	 4.Example sentence: To starboard was a cape a thousand feet high , patched with ice and snow , populated by thousands of screaming sea birds . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('have.v.02.have')
+Frequency of Synset('have.v.01'): 1192  (have or possess, either in a concrete or an abstract sense)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in order to have an uninterrupted work week ? 
+	 3.Example sentence: If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ? 
+	 4.Example sentence: If you have an annual or regular physical examination program , is it worth what it is costing you ? 
+
+Frequency of Synset('have.v.02'): 385  (have as a feature)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: Hallmark Cards , Inc. , Kansas City , Mo. , has a do-it-yourself quiz game called `` Benefit Bafflers '' , which it distributes to employees . 
+	 3.Example sentence: Make sure you have minimum age and time on the job requirements tied into your pension plan . 
+	 4.Example sentence: Also make sure you have reasonable requirements as to hours worked before a production employee is entitled to a vacation . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('make.v.01.make')
+Frequency of Synset('make.v.01'): 953  (engage in)
+	 1.Example sentence: What effort do you make to assess results of your program ? 
+	 2.Example sentence: Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such as was done in the union contract recently signed by American Motors Corporation ? 
+	 3.Example sentence: What can your sales and purchasing departments do to curtail orders , shipments , and receipts during vacation shutdown periods ? 
+	 4.Example sentence: What sort of effort do you make to assure that older or disabled workers are fully productive ? 
+
+Frequency of Synset('make.v.02'): 423  (give certain properties to something)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee . 
+	 3.Example sentence: Make sure you have minimum age and time on the job requirements tied into your pension plan . 
+	 4.Example sentence: Make sure you do n't pay for holidays that occur when an employee would not otherwise be working . 
+
+Frequency of Synset('make.v.03'): 326  (make or cause to be or to become)
+	 1.Example sentence: These factors can make the difference between waste and efficiency in any benefit program . 
+	 2.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 3.Example sentence: `` Was she in the habit of making new wills '' ? 
+	 4.Example sentence: She had reason to change the one she made right after Mr. Meeker 's death . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('go.v.02.go')
+Frequency of Synset('travel.v.01'): 375  (change location; move, travel, or proceed, also metaphorically)
+	 1.Example sentence: He thereupon went to London and spent the winter talking to men of wealth . 
+	 2.Example sentence: The two older boys , Hans and Anders , his junior by a year , therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German ; his wife taught the two boys to read and write Danish . 
+	 3.Example sentence: In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy . 
+	 4.Example sentence: A third remarked of slowness of Southerners : `` They moved about from corner to corner , as uneasy as a litter of hungry leaches on the neck of a wooden god '' . 
+
+Frequency of Synset('become.v.01'): 467  (enter or assume a certain state or condition)
+	 1.Example sentence: Even two or three years ago I doubt that she 'd have become involved in this unfortunate Johnston affair . 
+	 2.Example sentence: The theory of international law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality . 
+	 3.Example sentence: Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . 
+	 4.Example sentence: A Texan wrote to a male companion at home : `` What has become of Halda and Laura ? 
+

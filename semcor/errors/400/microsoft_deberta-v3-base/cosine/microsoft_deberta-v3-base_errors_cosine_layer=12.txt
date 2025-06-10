@@ -1,0 +1,140 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 43
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.843065693430657
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.8241758241758241
+
+There are 16 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.8190532326698303
+Average distance of CORRECT embeddings: 0.8825231194496155
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8264965415000916 At the very moment that every attempt is being made to take management out from under the irrationality of anti-trust legislation , a drive is on to abolish collective bargaining under the guise of extending the anti-monopoly laws to unions who want no more than to continue to set wages in the same way that ship operators set freight rates .
+		|
+		2 - Dist: 0.8607584238052368 But competent observers believe he is making progress , particularly toward what Sen. Jackson lists as the primary need - `` a clearer understanding of where our vital national interests lie and what we must do to promote them '' .
+		|
+		3 - Dist: 0.8553521037101746 She lay there , making no effort to get back on her feet .
+		|
+		4 - Dist: 0.9016848802566528 If you can n't see your way clear to have summer cooling included when building , by all means make provision for its easy adding later .
+		|
+		5 - Dist: 0.595790445804596 The American Constitution was historic at this point in providing that `` Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof '' .
+		|
+		6 - Dist: 0.8411417603492737 Mr. Simpkins made a name for himself as a member of the House of Delegates from 1951 through 1958 .
+		|
+		7 - Dist: 0.9022502303123474 Every movement she made seemed unnecessarily noisy .
+		|
+		8 - Dist: 0.9075605273246765 However while in his cell awaiting trial for theft , Barco , in a fit of apprehension , made an attempt to take his own life .
+		|
+		9 - Dist: 0.7557930946350098 There also came a brief contretemps with the sound mixers who made the mistake of being overheard during a quiet moment near the conclusion of `` Do It Again '' , and she made the tart observation that `` I never saw so much moving about in an audience '' .
+		|
+		10 - Dist: 0.8150681257247925 All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest .
+		|
+		11 - Dist: 0.8260753750801086 Since 1944 he has also conducted regularly at the San Francisco Opera , where he made his debut with a memorable performance of Verdi 's Falstaff .
+		|
+		12 - Dist: 0.8407731652259827 After he had spent the first three years in New York as associate conductor , at Toscanini 's invitation , of the NBC Orchestra , he made numerous guest appearances throughout the United States and Latin America .
+		|
+		13 - Dist: 0.729051411151886 What they have objected to is the attempt of the Russians to make use of the tragedy of Dag Hammarskjold 's death to turn the entire U. N. staff from the Secretary down into political agents of the respective countries from which they come .
+		|
+		14 - Dist: 0.7591482996940613 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		15 - Dist: 0.8249284029006958 Progress is being made , too , in improving motorists ' access to many turnpikes .
+		|
+		16 - Dist: 0.8629785180091858 Premier Khrushchev has made propaganda capital out of that fact and in the end got his summit meeting anyway .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.8214285714285714
+
+There are 9 embeddings closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.8157572746276855
+Average distance of CORRECT embeddings: 0.8252454400062561
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.6961248517036438 If then any man is in Christ , he is a new creature [ literally , `` He is a new creation '' ] , the former things have passed away ; behold , they are made new !
+		|
+		2 - Dist: 0.723914623260498 He made himself back off slowly , his eyes wary on Roberts , who now had no more to lose than he .
+		|
+		3 - Dist: 0.8301716446876526 All he can do is to be an objective and careful questioner , seeking to help the sensitive in clarifying and making more specific her paranormal impressions .
+		|
+		4 - Dist: 0.8948184847831726 Merchant ships illuminated in the light of the flares , made to seem like stones imbedded in a lake of polished mud , were impossible to miss .
+		|
+		5 - Dist: 0.7452605962753296 Tend to make this dimension slightly undersize so you can file the screw head to get exactly 1 4 '' tappet movement .
+		|
+		6 - Dist: 0.9209417104721069 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+		|
+		7 - Dist: 0.8752639293670654 Did his mother make him this way ?
+		|
+		8 - Dist: 0.8314878344535828 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+		|
+		9 - Dist: 0.8238322138786316 `` I made you so you could stand up .
+
+There are 6 embeddings closer to Lemma('make.v.01.do') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.8263845443725586
+Average distance of CORRECT embeddings: 0.8252454400062561
+		|
+		|
+		1 - Dist: 0.863354504108429 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		2 - Dist: 0.8045815825462341 But more than one conscientious researcher has been inhibited from completely frank discussion of the available evidence by the less excusable fact that fallout has been made a political issue as well as a scientific problem .
+		|
+		3 - Dist: 0.8293299078941345 If we make it established custom that whenever butchery on the highways grows excessive , say beyond 25000 per annum , then somebody is going to hang , it follows that the more eminent the victim , the more impressive the lesson .
+		|
+		4 - Dist: 0.7715845108032227 We do n't think she can make her child defective , emotionally disturbed or autistic .
+		|
+		5 - Dist: 0.8212442398071289 I made you a man '' .
+		|
+		6 - Dist: 0.868212878704071 `` I made you what you are '' , Gavin whispered .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 0.8787878787878788
+
+There are 12 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.7740446925163269
+Average distance of CORRECT embeddings: 0.8571978807449341
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7612453699111938 One Kohnstamm-positive subject who had both arms rise while being tested in the nai ^ ve condition described her subjective experience as follows : `` You feel they 're going up and you 're on a stage and it 's not right for them to do so and then you think maybe that 's what 's supposed to happen '' .
+		|
+		2 - Dist: 0.8152437806129456 She could do no wrong at the tables that time .
+		|
+		3 - Dist: 0.7016918063163757 Recently Treasury Secretary Dillon and Labor Secretary Goldberg fell into line with Mr. Hodges ' appraisal , though there has been some reluctance to do so at the White House .
+		|
+		4 - Dist: 0.7792046666145325 The rescue squad is to be praised immensely for the fine work they do in all kinds of weather .
+		|
+		5 - Dist: 0.6662979125976562 `` All you have to do is ask '' , he retorted hopefully .
+		|
+		6 - Dist: 0.8553555011749268 It is difficult to say what can be done about them except that we must learn to recognize when it is they , rather than pretexts for them , that are causing the trouble , and do everything possible to nurture the healthy personalities that will prevent the development of such deficiencies .
+		|
+		7 - Dist: 0.8548962473869324 It is the art of relating the finite to the infinite , of doing our best to insure that the particularistic requirements of religious institutions will not thwart God 's intent of unity among men more than is minimally necessary .
+		|
+		8 - Dist: 0.8022460341453552 A sweetheart arrangement can come about as often by employers doing the corrupting as by unscrupulous labor leaders demanding tribute .
+		|
+		9 - Dist: 0.6762527227401733 Unfortunately , those who would remedy our `` softness '' seek to do so with calisthenics .
+		|
+		10 - Dist: 0.6837209463119507 After a nuclear blast , one bureaucrat suggested in those halcyon days , about all you had to do was haul out the broom and sweep off your sidewalks and roof .
+		|
+		11 - Dist: 0.8354223966598511 The other children in the class use this same coloring book and do a fairly good job with things their proper color .
+		|
+		12 - Dist: 0.8569583892822266 Or certain words or rituals that child and adult go through may do the trick .
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 3
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.75
+Wrong lemmas count: 4

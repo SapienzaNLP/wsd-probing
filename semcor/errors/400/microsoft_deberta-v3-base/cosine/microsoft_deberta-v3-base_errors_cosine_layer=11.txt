@@ -1,0 +1,66 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 9
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.9671532846715328
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.9560439560439561
+
+There are 4 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.7150518298149109
+Average distance of CORRECT embeddings: 0.749466598033905
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7006096243858337 Mr. Simpkins made a name for himself as a member of the House of Delegates from 1951 through 1958 .
+		|
+		2 - Dist: 0.7087818384170532 What they have objected to is the attempt of the Russians to make use of the tragedy of Dag Hammarskjold 's death to turn the entire U. N. staff from the Secretary down into political agents of the respective countries from which they come .
+		|
+		3 - Dist: 0.689818799495697 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		4 - Dist: 0.7609969973564148 Premier Khrushchev has made propaganda capital out of that fact and in the end got his summit meeting anyway .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.9642857142857143
+
+There are 3 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.7245032787322998
+Average distance of CORRECT embeddings: 0.7058778405189514
+		|
+		|
+		1 - Dist: 0.7568320631980896 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		2 - Dist: 0.630814790725708 Speakers declared that Protestants often make use of it , if , perhaps , by some other name .
+		|
+		3 - Dist: 0.7858629822731018 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 0.9797979797979798
+
+There are 2 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.6705427169799805
+Average distance of CORRECT embeddings: 0.7252717614173889
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.684459388256073 It is the art of relating the finite to the infinite , of doing our best to insure that the particularistic requirements of religious institutions will not thwart God 's intent of unity among men more than is minimally necessary .
+		|
+		2 - Dist: 0.6566261053085327 The other children in the class use this same coloring book and do a fairly good job with things their proper color .
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 2
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.6666666666666666
+Wrong lemmas count: 3

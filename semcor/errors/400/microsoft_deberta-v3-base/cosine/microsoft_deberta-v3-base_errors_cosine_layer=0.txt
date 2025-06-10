@@ -1,0 +1,122 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 60
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.781021897810219
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.6813186813186813
+
+There are 29 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.8889123797416687
+Average distance of CORRECT embeddings: 0.9580202698707581
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.9202059507369995 There was good reason for Gen. Taylor to make an inspection trip at this time .
+		|
+		2 - Dist: 0.9202059507369995 The University can make a valuable contribution to the state 's economic development through such a study .
+		|
+		3 - Dist: 0.7456590533256531 But competent observers believe he is making progress , particularly toward what Sen. Jackson lists as the primary need - `` a clearer understanding of where our vital national interests lie and what we must do to promote them '' .
+		|
+		4 - Dist: 0.9202059507369995 He was invulnerable to attack , but he could be handled , Mickey knew , if he could be brought to make the first move .
+		|
+		5 - Dist: 0.7456590533256531 She lay there , making no effort to get back on her feet .
+		|
+		6 - Dist: 0.9202059507369995 Had there been another `` brain '' ship at the Base at the moment , Helva would have been guided to make the first move .
+		|
+		7 - Dist: 0.815544068813324 It is possible to find out in which categories most of her correct statements fall , and where she makes most of her `` hits '' .
+		|
+		8 - Dist: 0.9202059507369995 On the eve of the `` great debate '' on the proposal to give the President broad powers to make across-the-board tariff concessions which could practically bring us into the Atlantic Community , we should face the alternatives on this proposition .
+		|
+		9 - Dist: 0.9202059507369995 If you can n't see your way clear to have summer cooling included when building , by all means make provision for its easy adding later .
+		|
+		10 - Dist: 0.9202059507369995 The right to leave the hoosegow any time to see a lawyer instead of waiting for a lawyer to make a trip to the prison .
+		|
+		11 - Dist: 0.9202059507369995 The American Constitution was historic at this point in providing that `` Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof '' .
+		|
+		12 - Dist: 0.9202059507369995 What was missing in the Governor 's argument , as in so many similar arguments , was a premise which would enable one to make the ethical leap from what might be militarily desirable to what is right .
+		|
+		13 - Dist: 0.9202059507369995 All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest .
+		|
+		14 - Dist: 0.9202059507369995 One day last week , Nixon faced a painful constitutional chore that required him to officiate at a joint session of Congress to hear the official tally of the Electoral College vote , and then to make `` sufficient declaration '' of the election of the man who defeated him in the tight 1960 presidential election .
+		|
+		15 - Dist: 0.9202059507369995 Yet it is plainly time to make a start , and to be effective the first move should be highly dramatic , without being fanatical .
+		|
+		16 - Dist: 0.9202059507369995 If he becomes chancellor , Dr. Erhart would make few changes .
+		|
+		17 - Dist: 0.9202059507369995 What they have objected to is the attempt of the Russians to make use of the tragedy of Dag Hammarskjold 's death to turn the entire U. N. staff from the Secretary down into political agents of the respective countries from which they come .
+		|
+		18 - Dist: 0.9202059507369995 Some chaps that know an area well can make their way by landmarks - a tree here , a wash here , a boulder there .
+		|
+		19 - Dist: 0.9202059507369995 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		20 - Dist: 0.9202059507369995 The Living Room has another scoop : Jane Russell will make one of her rare night club singing appearances there , opening Jan. 22 .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.6309523809523809
+
+There are 31 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.9580205678939819
+Average distance of CORRECT embeddings: 0.8705864548683167
+		|
+		|
+		1 - Dist: 0.9580203890800476 The acceptance of collective bargaining as a national policy in 1934 , implicit in the writing of Section 7 A of the National Industrial Recovery Act , has made it impolitic to oppose collective bargaining in principle .
+		|
+		2 - Dist: 0.9580203890800476 We trust you are not one of the 70000000 Americans who do not attend church , but who feel that various forms of recreation are more important than worshipping the God who made our country great .
+		|
+		3 - Dist: 0.9580203890800476 She teamed up with another beauty , whose name has been lost to history , and commenced with some fiddling that would have made Nero envious .
+		|
+		4 - Dist: 0.9580203890800476 If then any man is in Christ , he is a new creature [ literally , `` He is a new creation '' ] , the former things have passed away ; behold , they are made new !
+		|
+		5 - Dist: 0.9580203890800476 But preservation of the natural beauty of the Cape is of more than regional concern , for the automobile age has made it the recreation spot of people from all over the country .
+		|
+		6 - Dist: 0.9580203890800476 This tends to create friction and confusion and has not made it easier for Secretary Rusk to restore vigor and initiative among his subordinates .
+		|
+		7 - Dist: 0.9580203890800476 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		8 - Dist: 0.9580203890800476 There was a fixed grin on Roberts ' face , made hideous by the swollen nose and the smeared blood .
+		|
+		9 - Dist: 0.9580203890800476 He made himself back off slowly , his eyes wary on Roberts , who now had no more to lose than he .
+		|
+		10 - Dist: 0.9580203890800476 Each contributes something different , and something important : Ruth Peale , her wide experience in church work ; Sidney Fields , years of experience as a New York columnist ; Catherine Marshall LeSourd the insight that has made her books world-famous and Norm Mullendore , the keen perception of an advertising executive .
+		|
+		11 - Dist: 0.9580203890800476 But Theodore Parker , commencing his mission to the world-at-large , disguised as the minister of a `` twenty-eighth Congregational Church '' which bore no resemblance to the Congregational polities descended from the founders ( among which were still the Unitarian churches ) , made explicit from the beginning that the conflict between him and the Hunkerish society was not something which could be evaporated into a genteel difference about clerical decorum .
+		|
+		12 - Dist: 0.9580203890800476 The grateful way she looked at Morgan made him ashamed of himself .
+		|
+		13 - Dist: 0.9580203890800476 In addition , their establishment made it unnecessary to begin publication of a contemplated Air Force medical bulletin .
+		|
+		14 - Dist: 0.9580203890800476 He passed two brides , both wearing orchids , and they made him feel a little sad .
+		|
+		15 - Dist: 0.9580203890800476 Then there was exercise , boating and hiking , which was not only good for you but also made you more virile : the thought of strenuous activity left him exhausted .
+		|
+		16 - Dist: 0.9580203890800476 But what made the Morton Foods stock issue such a hot one ?
+		|
+		17 - Dist: 0.9580203890800476 Fortunately it spared us from the usual spate of silly resolutions which in the past have made Georgia look like anything but `` the empire state of the South '' .
+		|
+		18 - Dist: 0.9580203890800476 Merchant ships illuminated in the light of the flares , made to seem like stones imbedded in a lake of polished mud , were impossible to miss .
+		|
+		19 - Dist: 0.9580203890800476 They had ruined the radar warning system with their window , they had made themselves invisible above their flares .
+		|
+		20 - Dist: 0.9580203890800476 The thought made Pamela shudder .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 1.0
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 1
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.5
+Wrong lemmas count: 2

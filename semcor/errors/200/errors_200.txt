@@ -1,0 +1,310 @@
+Errors for k = 200
+
+Number of total errors = 1368
+Number of total sentences = 4500
+TotL Accuracy of BERT = 0.696
+
+Errors for Lemma('become.v.02.become')
+Sense definition: undergo a change or development
+Number of sentences: 204
+Accuracy: 0.8186274509803921
+
+There are 37 embedding closer to Lemma('become.v.01.become')
+		|
+		1 - In the century from 1815 to 1914 the law of nations became international law .
+		2 - Particularly was this true as laissez-faire capitalism became the dominant credo of Western society .
+		3 - As reports dribbled in , William Weigand tossed them into the centrifuge which had become his head .
+		4 - Mr. Justice Taney 's Dred Scott decision in 1857 was unpopular in the North , and soon became a dead letter .
+		5 - That is why the form itself becomes a preoccupation , because it exists as a problem separate from the material it accommodates .
+		6 - But it is becoming increasingly evident that such a hope is a snare .
+		7 - Recently , for example , a paranoid woman 's large-scale philosophizing , in the session , about the intrusive curiosity which has become , in her opinion , a deplorable characteristic of mid twentieth century human culture , developed itself , before the end of the session , into a suspicion that I was surreptitiously peeking at her partially exposed breast , as indeed I was .
+		8 - By December , 1958 , when ' Abdallah Ibrahim became President of the Council , elections had even greater importance .
+		9 - Only when the collage had been exhaustively translated into oil , and transformed by this translation , did Cubism become an affair of positive color and flat , interlocking silhouettes whose legibility and placement created allusions to , if not the illusion of , unmistakable three-dimensional identities .
+		10 - Its Completion thus becomes one of the convenient maturity indicators to include in studies of growth , dietary patterns , and health during adolescence .
+
+
+-----------------------------------------
+Errors for Lemma('become.v.01.become')
+Sense definition: enter or assume a certain state or condition
+Number of sentences: 306
+Accuracy: 0.7679738562091503
+
+There are 71 embedding closer to Lemma('become.v.02.become')
+		|
+		1 - His name became synonymous with cold-blooded cruelty .
+		2 - Still more jealous bitterness was engendered by the O ' Banion gang 's seizure from a West Side marshalling yard of a freight-car load of Canadian whisky worth $ 100000 and by one of the biggest coups of the Prohibition era - the Sibley warehouse robbery , which became famous for the cool brazenness of the operation .
+		3 - He must , in short , cease to be a detective and become a rebel .
+		4 - This , however , did not bar finding that du Pont had become pre-eminent as a supplier of automotive fabrics and finishes to General Motors ; that these products constituted a `` line of commerce '' within the meaning of the Clayton Act ; that General Motors ' share of the market for these products was substantial ; and that competition for this share of the market was endangered by the financial relationship between the two concerns :
+		5 - As the generations move on , clothes become more suitable for the enjoyment of outdoor sports .
+		6 - Gradually watercolor claimed his greater affection until today it has become his major , if not exclusive , technique .
+		7 - He was criticized for his curtness and abruptness - and he answered : `` I am not working to become popular '' .
+		8 - `` Very few wives '' , says Dr. Calderone , `` who balance the checkbook , fix the car , choose where the family will live and deal with the tradesmen , are suddenly going to become submissive where sex is concerned .
+		9 - `` When the husband becomes passive in the face of his wife 's aggressiveness '' , Dr. Linden says , `` the wife , in turn , finds him inadequate .
+		10 - One such wife , Dr. Linden says , became disgusted with her weak husband and flurried through a series of extramarital affairs in the hope of finding a stronger man .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 455
+Accuracy: 0.7208791208791209
+
+There are 31 embeddings closer to Lemma('make.v.01.do')
+		|
+		1 - At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' .
+		2 - Two weeks , a month , we talk it over again , and maybe if nothing happens meanwhile to say the cops know this and that , then we make a little deal , is n't it '' ?
+		3 - Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled , That the Secretary of the Interior is hereby authorized and directed to make or cause to be made a study covering -
+		4 - In I 'll go with George dominant stress is probably on George ; but if George has just been mentioned prominently ( and the trip to be made has been under discussion ) , what is said is probably I 'll go with him , and dominant stress is probably on the preposition with .
+		5 - School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas .
+		6 - School principals and guidance workers made ratings of the various neighborhoods and the research team made independent observations of houses and dwelling areas .
+		7 - If the house is not wired adequately for electricity or if plumbing or a central heating system must be installed , check into the cost of making these improvements .
+		8 - But if the Trial did not expose the special Nazi mania so deadly to Jews as well as to anyone upon whom it happened to light , neither did it warn very effectively against the ordinary anti-Semitism of which the Nazis made such effective use in Germany and wherever else they could find it .
+		9 - If the last day ( due date ) for performing any act for tax purposes , such as filing a return or making a tax payment , etc. , falls on Saturday , Sunday , or a legal holiday , you may perform that act on the next succeeding day which is not a Saturday , Sunday , or legal holiday .
+		10 - He had assumed that all these buildings had been divided into apartments , but this one , from a glance at the hall furnishings , was obviously still a functioning town house , and its owners were in residence ; that made it doubtful as the hiding place of a man whose plans had to be made in advance .
+
+There are 64 embeddings closer to Lemma('make.v.03.make')
+		|
+		1 - I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel .
+		2 - `` It 's the second time War Ax hands made a play for that money .
+		3 - Attorney General Palmer made a series of raids that sent more than 4000 so-called radicals to the jails , in direct violation of their constitutional rights .
+		4 - In their first two years in high school , Jewish boys in this town make strenuous exertions to win positions on the school teams .
+		5 - Thus in Mary wrote an account of the trip first strong stress on Mary marks Mary as the first in a series of people who wrote accounts of the trip , strong stress on wrote marks the writing as the first of a series of actions of Mary 's concerned with an account of her trip ( about which she may later have made speeches , for example ) , and strong stress on trip makes the trip the first of a series of subjects about which Mary wrote accounts .
+		6 - There was not enough room to make the usual vertical bomb run .
+		7 - Thus at the same time that William Henry Harrison was preparing to pacify the aborigines of Indiana Territory and winning fame at the battle of Tippecanoe , Anglo-Saxon settlement made a great leap into the center of the North American continent to the west of the American agricultural frontier .
+		8 - If a child watched its progress he whispered , `` Hay , hay , load of hay - make a wish and turn away '' , and then stared rigidly in the opposite direction until the sound of the horses ' feet returned no more .
+		9 - Interruptions came largely from the bench , which numerous times rebuked the Attorney General for letting his witnesses run on , though it , too , made no serious effort to choke off the flow .
+		10 - When this occurs , I make the change on the sketch or on the final watercolor - if I have been working on a full sheet in the field .
+
+There are 32 embeddings closer to Lemma('make.v.02.make')
+		|
+		1 - For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers , then the `` open house '' system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door .
+		2 - But what a super Herculean task it is to winnow anything of value from the mud beplastered arguments used so freely , particularly since such common use is made of cliches and stereotypes , in themselves declarations of intellectual bankruptcy .
+		3 - Regardless of how much of a slob you knew yourself to be , you could be certain they would never find out - and even if they did it would make no difference .
+		4 - In I have things to do the word things makes little real contribution to meaning and has weaker stress than do .
+		5 - Courses are provided mainly for post high school day programs ; but sometimes arrangements also are made for high school students to attend , and evening extension courses also may be conducted .
+		6 - Gun set the captain 's fifth of Hiram Walker inside the safe before he reported to Lt. Killpath , though he knew that Killpath 's ulcer prevented him from making any untoward incursion on Herman Wolff 's gift .
+		7 - Soil type , drainage , or degree of slope can make the difference between good crops and poor ones .
+		8 - But make no mistake about it , the first reason people turn to camping is one of economy .
+		9 - `` As long as the couple is in agreement in their approach to sex , it makes little difference if one or the other dominates '' , Dr. Calderone declares .
+		10 - Phil spun around and made an accurate throw into Mike Deegan 's hands on third base .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 421
+Accuracy: 0.672209026128266
+
+There are 66 embeddings closer to Lemma('make.v.03.make')
+		|
+		1 - Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee .
+		2 - Make sure you have minimum age and time on the job requirements tied into your pension plan .
+		3 - Make sure you do n't pay for holidays that occur when an employee would not otherwise be working .
+		4 - You might try providing standard vacation time off but make the vacation pay depend on the number of hours worked in the previous year .
+		5 - Beccaria had almost stumbled on a lead to the relationship between electricity and magnetism when a discharge from a Leyden jar was sent transversally through a piece of watch spring steel making its ends magnetic .
+		6 - `` We '' were Bill Garrett of the National Geographic Illustrations Staff , whose three cameras and eight lenses made him look as formidable as any fighting man we met ; Boun My , our interpreter ; and myself .
+		7 - In general , friendly contact with a member followed by contact with a clergyman will account for a major share of recruitment by the churches , making it quite evident that the extension of economic integration through co-optation is the principal form of mission in the contemporary church ; economic integration and co-optation are the two methods by which Protestants associate with and recruit from the neighborhood .
+		8 - The shutter aperture may be made larger or smaller by changing the foil area and adjusting the electrical energy input to the foil .
+		9 - I tell you , I know how it is with you , my friend , I sympathize , and I 'll make it a special point - a special favor - get in touch , and get some stuff just for you .
+		10 - He had to make Jess talk , and he had to do it before Stacey Black got curious and came to investigate .
+
+There are 39 embeddings closer to Lemma('make.v.01.do')
+		|
+		1 - The subsequent two-weeks wait made the crew quarrelsome .
+		2 - Admiralty law , the law merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws .
+		3 - `` Having all the guns makes you a big man , do n't it , Adams ?
+		4 - `` Does this make it any easier , coward '' ?
+		5 - Meanwhile , other air defense forces are being made effective , as described later in this message .
+		6 - And most of all it is not having the only man you could love , whether he drives a bread truck or delivers the mail or checks the berry crates down at the sheds , or owns seventeen oil wells and six diamond mines , for if you are anybody what he is or does makes no difference if he is the one .
+		7 - You wonder about the Christmas card with no name on it , and it comes to you that maybe it would have been better to have made somebody else happy if you could n't be happy yourself , to give somebody else the one they wanted - to give them you .
+		8 - Back at the Factory-to-You with the other old maids , back there she was the youngest clerk and she was thirty-four , which made her young enough to resent the usual ideal working conditions , like the unventilated toilet with the door you had to hold shut while you sat down .
+		9 - Pale yellow snapdragons that by pinching could be made to bite ; seed-pods of the balsams that snapped like fire-crackers at a touch ; red and yellow columbines whose round tipped spurs were picked off and eaten for the honey in them ; morning-glory buds which could be so grasped and squeezed that they burst like a blown-up paper bag ; bright flowers from the trumpet vine that made `` gloves '' on the ends of ten waggling fingers .
+		10 - In other words , the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life , and that the new conspiracy counted on the general anti-Semitism that had made those measures effective , as a readiness for murder .
+
+There are 33 embeddings closer to Lemma('make.v.01.make')
+		|
+		1 - Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such as is made available by a waterfall for milling purposes , a mine , or a sugar maple camp .
+		2 - Mack 's the leader at camp , but Jack 's here , with this is deprived of stress , makes here the complement in the clause .
+		3 - The change of emphasis from conventional type to missile type warfare must be made with care , mindful that the one type of warfare cannot be safely neglected in favor of the other .
+		4 - All checks and money orders should be made payable to Internal Revenue Service .
+		5 - Refunds of less than $ 1 will not be made unless you attach a separate application to your return requesting such a refund .
+		6 - If these services are to be maintained , the New York Central must have the revenues to make them possible '' .
+		7 - Lewis was a man who had made a full-time job of cow stealing .
+		8 - Economic information is made available to businessmen and economists promptly through the monthly Survey of Current Business and its weekly supplement .
+		9 - Three distinct classes of loans are made available to farmers ' cooperatives by the Banks for Cooperatives :
+		10 - I learned , for example , that he made a practice of yapping at dogs he encountered and , in winter , of sprinkling salt on the icy pavement to scarify their feet .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 498
+Accuracy: 0.8554216867469879
+
+There are 19 embeddings closer to Lemma('make.v.02.make')
+		|
+		1 - Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .
+		2 - To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .
+		3 - At any rate , the substance of Eichmann 's testimony was that all his actions flowed from his membership in the party and the SS , and though the Prosecutor did his utmost to prove actual personal hatred of Jews , his success on this score was doubtful and the anti-Semitic lesson weakened to that extent .
+		4 - As the more conservative group with strong backing from wealthy businessmen , the U.M.C.I.A. was generally favored against the more progressive , labor based U.N.F.P. The newer party campaigned heavily , while the older , more confident party expected the Moroccan merchants and small businessmen to support them as they had done for many years .
+		5 - Instead - and not just to prove my objectivity - I hasten to report that it 's a highly amusing film which probably does a fairly accurate job of reporting on the Easter vacation shenanigans of collegians down in Fort Lauderdale , and that it seems to come to grips quite honestly with the moral problem that most commonly vexes youngsters in this age group - that is to say , sex .
+		6 - Sometimes he did n't seem to because he hid them so well he could n't find them himself or because he looked and did n't find anything and figured he had n't hid one after all or had drunk it up .
+		7 - The ninth century was in its artistic work `` the spiritually freest and most self-sufficient between past and future '' , and the loving skill spent by its artists upon their products is a testimonial to their sense that what they were doing was important and was appreciated .
+		8 - `` I can n't stop you from doing what you think is right .
+		9 - By this time Henri 's entire chest back - lat shoulder area is pumped-up to almost bursting point , and Claude takes time to do a bit more pectoral front deltoid shaping work .
+		10 - His parents talked seriously and lengthily to their own doctor and to a specialist at the University Hospital - Mr. McKinley was entitled to a discount for members of his family - and it was decided it would be best for him to take the remainder of the term off , spend a lot of time in bed and , for the rest , do pretty much as he chose - provided , of course , he chose to do nothing too exciting or too debilitating .
+
+There are 12 embeddings closer to Lemma('make.v.01.make')
+		|
+		1 - Its ground for this recommendation was that , while petitioner claimed before the local board August 17 , 1956 ( as evidenced by its memorandum in his file of that date ) , that he was devoting 100 hours per month to actual preaching , the headquarters of the Jehovah's Witnesses reported that he was no longer doing so and , on the contrary , had relinquished both his Pioneer and Bible Student Servant positions .
+		2 - In November 1900 surveying was done under John Marsden on the east mountains to ascertain if it would be possible to get sufficient water and fall to operate an electric power plant .
+		3 - Although Miller noted in 1907 that a difference in the pleural blood supply existed between animals , nowhere in his published works is it found that he did a comparative study of the intrapulmonary features of various mammalian lungs other than in the dog and cat ( Miller , ' 13 ; ' 25 ) .
+		4 - In addition , little work has been done on a comparative basis in regard to the normal existence of bronchial artery pulmonary artery anastomoses .
+		5 - Experiments were done at 180 , 200 , 210 , 220 ` .
+		6 - When we come upon the rabbit and make our remark about its suffering being a bad thing , we presumably make it with some feeling ; the positivists are plainly right in saying that such remarks do usually express feeling .
+		7 - Advance publicity on the Los Angeles Blue Book does not mention names dropped as did the notices for the New York Social Register which made news last week .
+		8 - Mr. Speaker , I ask unanimous consent that all Members who desire to do so may extend their remarks at this point in the Record ; and also that they may have 5 legislative days in which to extend their remarks .
+		9 - `` Most orthodontic work is done on children between the ages of 10 and 14 , though there have been patients as young as two and as old as 55 '' , says Dr. Brodie .
+		10 - Unfortunately , those who would remedy our `` softness '' seek to do so with calisthenics .
+
+There are 41 embeddings closer to Lemma('make.v.03.make')
+		|
+		1 - Mr. Mills had done some figuring on a scrap of paper and given him the various kinds of boards and two-by-fours which , properly handled , would , he had assured him , turn into a workbench .
+		2 - I 'm sure you won n't mind doing me a small favor '' .
+		3 - `` They can n't do anything .
+		4 - By virtue of his self-reliance , his individualism and his freedom from external restraint , the private eye is a perfect embodiment of the middle class conception of liberty , which amounts to doing what you please and let the devil take the hindmost .
+		5 - `` But I could n't do that , even if I were home '' !
+		6 - Even as the conviction of truth roared through him , shattering his last hope of safety , he was reaching to release the hand brake , to head up the road for home , doing her bidding .
+		7 - At four o ' clock , or four thirty , the coming of the newsboy marked the end of the day ; he tossed a paper toward every front door , and housewives came down to their steps to pick them up and read what their neighbors had been doing .
+		8 - I remember once I did a jacket for Magpie Press ; the book was a fine historical novel about Edward 3 , , and I did a week of research to get the details just right : the fifteenth century armor , furnishings , clothes .
+		9 - He was an artisan , a man who studied his trade and developed his craftsmanship the way a goldsmith or a wood carver did .
+		10 - `` Listen , wise guy , if you think I 'm gonna do all the fighting for this ball club you 're crazy '' .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.03.make')
+Sense definition: make or cause to be or to become
+Number of sentences: 233
+Accuracy: 0.592274678111588
+
+There are 36 embeddings closer to Lemma('make.v.02.make')
+		|
+		1 - These factors can make the difference between waste and efficiency in any benefit program .
+		2 - A Massachusetts soldier , who seems to have been a Civil War version of Bill Mauldin , wrote : `` The officers consider themselves as made of a different material from the low fellows in the ranks .
+		3 - A man with a sketch pad in hand sat with a large pink woman in a small office at the end of a long , dim corridor and made pencil lines on paper and said , `` Is this more like it , Mrs. MacReady ?
+		4 - Maybe if the marshal hears this himself , it 'll make a difference .
+		5 - Vocational educators do not claim that school training alone makes skilled workers , but it provides the essential groundwork for developing skills .
+		6 - The purpose of this paper is to analyze one possible force which has not been treated in the literature , but which we believe makes a significant contribution to explaining the wage price behavior of a few very important industries .
+		7 - As a creative enterprise , its abilities are primarily in `` swallowing '' creative enterprises developed outside its own organization ( an ability made possible by us , and almost mandatory ) .
+		8 - Reinforcements came up quickly to take advantage of the opening made by Goulding 's platoon .
+		9 - If he attaches little importance to personal liberty , why not make this known to the world ?
+		10 - A couple of the males made good comedy , too - Jim Hutton and Frank Gorshin .
+
+There are 17 embeddings closer to Lemma('make.v.01.do')
+		|
+		1 - `` Was she in the habit of making new wills '' ?
+		2 - Mrs. Meeker had spent a small fortune on a search for him but had made no provision for him in her will if he should be found after her death , and had never mentioned his name to her lawyers .
+		3 - No need leave a note with it , either - or maybe just something like , Do n't worry about me , I 'm going away to make a better life .
+		4 - His objective is merely to determine `` what distinctions of length and syllabicity it may be desirable to make explicit in a Kikuyu orthography '' ( 59 ) .
+		5 - I 'd like to make sure .
+		6 - For when he began to talk and dream all at the same time , making his plans as he went , she had begun dreaming too .
+		7 - It was from the American outposts that Red River shortages of livestock were to be made good .
+		8 - There is evidence to suggest , in fact , that many authors of the humorous sketches were prompted to write them - or to make them as indelicate as they are - by way of protesting against the artificial refinements which had come to dominate the polite letters of the South .
+		9 - Will the house on any part-time farm you are considering make a satisfactory full-time residence ?
+		10 - This conclusion is based on two propositions : that man by the use of his reason can ascertain God 's purpose in the universe and that God makes known His purpose by certain `` given '' physical arrangements .
+
+There are 42 embeddings closer to Lemma('make.v.01.make')
+		|
+		1 - Nevertheless , he made a mental note to look into Garth 's financial background .
+		2 - There are authorized to be appropriated such sums , to remain available until expended , as may be necessary , but not more than $ 75000000 in all , ( a ) to carry out the provisions of this Act during the fiscal years 1962 to 1967 , inclusive ; ( b ) to finance , for not more than two years beyond the end of said period , such grants , contracts , cooperative agreements , and studies as may theretofore have been undertaken pursuant to this Act ; and ( c ) to finance , for not more than three years beyond the end of said period , such activities as are required to correlate , coordinate , and round out the results of studies and research undertaken pursuant to this Act : Provided , That funds available in any one year for research and development may , subject to the approval of the Secretary of State to assure that such activities are consistent with the foreign policy objectives of the United States , be expended in cooperation with public or private agencies in foreign countries in the development of processes useful to the program in the United States : And provided further , That every such contract or agreement made with any public or private agency in a foreign country shall contain provisions effective to insure that the results or information developed in connection therewith shall be available without cost to the United States for the use of the United States throughout the world and for the use of the general public within the United States .
+		3 - Be it enacted by the Senate and House of Representatives of the United States of America in Congress assembled , That the Secretary of the Interior is hereby authorized and directed to make or cause to be made a study covering -
+		4 - I reconstruct his sentences from notes made immediately after our conversation .
+		5 - In addition , the right to vote the General Motors stock held by du Pont was to be vested in du Pont 's stockholders , other than Christiana and Delaware and the stockholders of Delaware ; du Pont , Christiana , and Delaware were to be enjoined from acquiring stock in or exercising control over General Motors ; du Pont , Christiana , and Delaware were to be prohibited to have any director or officer in common with General Motors , and vice versa ; and General Motors and du Pont were to be ordered to terminate any agreement that provided for the purchase by General Motors of any specified percentage of its requirements of any du Pont manufactured product , or for the grant of exclusive patent rights , or for a grant by General Motors to du Pont of a preferential right to make or sell any chemical discovery of General Motors , or for the maintenance of any joint commercial enterprise by the two companies .
+		6 - Moreover , as long as the weapon was carried openly , the sheriff 's office had made no previous issue of it .
+		7 - When a match is found , an entry is made in the table of dictionary usage .
+		8 - With this enlarged role in mind , I should like to make a few suggestions : What we in the United States do or do not do will make a very large difference in what happens in the rest of the world .
+		9 - Casey made some comment , but his mind was busy as he considered the man .
+		10 - Later , riding in for some lusty enjoyment of the liquor and professional ladies of Cheyenne , he laid claim to the killing with the vague insinuations he made .
+
+
+-----------------------------------------
+Errors for Lemma('entirely.r.02.only')
+Sense definition: without any others being included or involved
+Number of sentences: 224
+Accuracy: 0.7678571428571428
+
+There are 52 embedding closer to Lemma('merely.r.01.only')
+		|
+		1 - If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ?
+		2 - Of only one could he be sure - young John Hudson , his second son .
+		3 - In scope and power it can only be compared to Tolstoy 's War and Peace .
+		4 - Eager as he was to pursue this promising line , he was so loaded down with the management of the pharmacy and lectures in the medical and pharmaceutical faculties at the university that he could devote only Sunday afternoons to `` galvanizing '' .
+		5 - But I promised Joyce I would mention her name , if at all , only as a last resort .
+		6 - Actually , only two men know what the formula is , Blake and '' - He stopped and looked at Thor 's body .
+		7 - I said , `` O. K. , so now only Blake knows .
+		8 - Frequently we are given assurance that automatically all ideas will be sifted and resifted and in the end only the good ones will survive .
+		9 - High sensitivity in radio telescopes is achieved by reducing the bandwidth of the receiver ; therefore , only with precise foreknowledge of the line frequencies is an astronomical search for the radio spectra of these molecules feasible .
+		10 - In September ' 76 Thomas Huxley , Darwin 's famous disciple , came from England to speak in a crowded auditorium at the formal opening of the University ; and although it was a school for men only , it afforded Henrietta an opportunity to attend its public lectures .
+
+
+-----------------------------------------
+Errors for Lemma('merely.r.01.only')
+Sense definition: and nothing more
+Number of sentences: 253
+Accuracy: 0.7707509881422925
+
+There are 58 embedding closer to Lemma('entirely.r.02.only')
+		|
+		1 - But in such an important question , we would be satisfied if the judgment were that the principal objection to the identity of forces which produce electricity and magnetism were only a difficulty , and not a thing which is contrary to it .
+		2 - No questions , statements , or explanations are permitted - only commands .
+		3 - Commands go only from an officer to the man of nearest lower rank .
+		4 - Furthermore , the network in Figure 3 is only the basic net through which other networks pertaining to logistics and the like are interlaced .
+		5 - They discovered that , although 42 per cent of a sample of Catholic students and 15 per cent of the Protestants believed it important to live in accordance with the teachings of their religion , only 8 per cent of the Jewish students had this conviction .
+		6 - Most others have been content to give only the most general attention to the broadest and most obvious features of the phonology when designing orthographies .
+		7 - During all his busy life he had only done things which had to be done .
+		8 - right-of-entry only and right-of-entry plus enforcement authority ;
+		9 - However , the teacher can only go so far if the attitude of the community and the family is anti-intellectual .
+		10 - It only means that there will be new form , and that this form will be of such a type that it admits the chaos and does not try to say that the chaos is really something else .
+
+
+-----------------------------------------
+Errors for Lemma('state.v.01.say')
+Sense definition: express in words
+Number of sentences: 1687
+Accuracy: 0.5969176052163604
+
+There are 680 embedding closer to Lemma('allege.v.01.say')
+		|
+		1 - However likely it was , Pauling said , he could n't limit himself to it .
+		2 - Madden , with his investigation centered on the fraud , said that tomorrow he would go to the Bronx bank through which Mrs. Meeker 's checks to Johnston had cleared .
+		3 - Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock .
+		4 - Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it .
+		5 - He said that he had already told the police chief that he did n't know what insurance man had recommended Johnston to Mrs. Meeker .
+		6 - To begin the interview , he asked if Thayer , with more time to think it over , could add to what he had said the other day about Johnston .
+		7 - For weeks he had been saying that Hudson 's idea of sailing through to Java was absurd .
+		8 - Up spoke carpenter Staffe , who said he would n't give ten pounds to be home .
+		9 - Hall , for example , was quite explicit on this point when he said `` states outside European civilization must formally enter into the circle of law governed countries .
+		10 - Almost nothing is said of Charles ' spectacular victories , the central theme being the heroic loyalty of the Swedish people to their idolized king in misfortune and defeat .
+
+
+-----------------------------------------
+Errors for Lemma('allege.v.01.say')
+Sense definition: report or maintain
+Number of sentences: 219
+Accuracy: 0.8264840182648402
+
+There are 38 embedding closer to Lemma('state.v.01.say')
+		|
+		1 - `` Ca n't say yet .
+		2 - And can n't say I blame you '' , said Angie thoughtfully .
+		3 - `` And you know , Angelo , Pretty , he always keeps it a strict cash basis , like they say '' -
+		4 - `` Gilborn says he was in his office all day with her yesterday .
+		5 - But of course the paterollers won n't be of any help , not with everything so upset and that Yankee cavalry outfit they say is running around , God knows where '' .
+		6 - `` What if I said nobody was here but a couple of patrolmen '' ?
+		7 - `` She 's honest as the day '' , Mr. Phillips said , and added , `` Mr. Gunnar , I can say this to you : Beebe is a little too honest .
+		8 - Todman said excitedly , and hopefully .
+		9 - `` I do n't think I 've reached the point , yet , where I can say I know everything I ought to know about the craft .
+		10 - They were asked to vote `` true '' if they thought they had seen him make the error , `` false '' if they thought he had not ; and `` cannot say '' if they were not certain .
+
+
+-----------------------------------------

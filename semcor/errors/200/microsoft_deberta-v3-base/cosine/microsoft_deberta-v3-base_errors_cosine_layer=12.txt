@@ -1,0 +1,565 @@
+Errors for k = 200
+Distance function: cosine
+
+Number of total errors = 293
+Number of total test sentences = 895
+Total Accuracy of BERT = 0.6726256983240224
+
+Errors for Lemma('become.v.02.become')
+Sense definition: undergo a change or development
+Number of sentences: 40
+Accuracy: 0.65
+
+There are 14 embedding closer to Lemma('become.v.01.become') (enter or assume a certain state or condition)
+Average distance of WRONG embeddings from nearest centroid: 0.8215571045875549
+Average distance of CORRECT embeddings: 0.8409538269042969
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.6336158514022827 But to as many as received him he gave the power of becoming sons of God ; to those who believe in his name : Who were born not of blood , nor of the will of the flesh , nor of the will of man , but of God .
+		|
+		2 - Dist: 0.8829796314239502 Through which he has granted us the very great and precious promises , so that through them you may become partaker of the divine nature .
+		|
+		3 - Dist: 0.8386843204498291 My future plans are to become a language teacher .
+		|
+		4 - Dist: 0.8569219708442688 If this practice should take root and spread , the man who submits a manuscript to a publisher will find himself reviewed before he is accepted and publication will become a sort of post-mortem formality .
+		|
+		5 - Dist: 0.8257948160171509 To determine car speed for a given combination of engine speed , gear ratio , and tire size , the formula is : * * f For an engine speed of 5000 rpm , a gear ratio of 4.00 to 1 , and a tire radius of 13 inches , the equation would look like this : * * f To determine engine speed for a given combination of the other three factors the formula is : * * f Using the same figures as for the previous example , the equation becomes : * *
+		|
+		6 - Dist: 0.8768594861030579 Police said he became ill while parked in front of a barber shop at 229 West Pratt street .
+		|
+		7 - Dist: 0.8882168531417847 The musical cleverness and spirit plus a strong sense of taste and measure save a wry little joke from becoming either bawdy or mawkish .
+		|
+		8 - Dist: 0.8016267418861389 Fortunate for the music itself , it is not too frequent a visitor ; if it were , its heavily chromatic harmonies would soon become cloying .
+		|
+		9 - Dist: 0.7712438106536865 Seven years later he was asked to become director of the Pittsburgh Symphony .
+		|
+		10 - Dist: 0.7504143118858337 No , originally he had hoped to become a concert pianist and had even performed as such .
+		|
+		11 - Dist: 0.9042004346847534 The late Secretary of State John Foster Dulles considered the 1954 Geneva agreement a specimen of appeasement , saw that resolution would be needed to keep it from becoming a calamity for the West .
+		|
+		12 - Dist: 0.9161143898963928 Then , to conclude on an indeterminate note : `` Nevertheless , if fallout increased substantially , or remained high for a long time , it would become far more important as a potential health hazard in this country and throughout the world '' .
+		|
+		13 - Dist: 0.800466001033783 The adherence of many in the population to the Indian background in their pedigree , and emphasis upon the fact that their ancestors had never been slaves , becomes of prime interest in determining how far these elements promote the self-image of the intermediate status of the group in society .
+		|
+		14 - Dist: 0.7546614408493042 If he becomes chancellor , Dr. Erhart would make few changes .
+
+
+-----------------------------------------
+Errors for Lemma('become.v.01.become')
+Sense definition: enter or assume a certain state or condition
+Number of sentences: 61
+Accuracy: 0.5737704918032787
+
+There are 26 embedding closer to Lemma('become.v.02.become') (undergo a change or development)
+Average distance of WRONG embeddings from nearest centroid: 0.8371235132217407
+Average distance of CORRECT embeddings: 0.8536579012870789
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8537036776542664 Anti-trust laws became the greatest protection to uncontrolled business dictatorship .
+		|
+		2 - Dist: 0.9044917225837708 In other words , the anti-trust laws , designed to reduce prices to the consumer on Monday , Wednesday and Friday , become a tool to protect the marginal manufacturer on Tuesday , Thursday and Saturday .
+		|
+		3 - Dist: 0.9068344831466675 Hypocrisy thus becomes the answer to a foolish public policy .
+		|
+		4 - Dist: 0.6489710807800293 `` God so loved the world , that he gave his only begotten Son , that whosoever believeth in him should not perish , but have everlasting life '' , and `` as many as received him , to them gave he power to become the sons of God , even to them that believe on his name '' .
+		|
+		5 - Dist: 0.835433304309845 `` So extensive became her circle of admirers '' , Egyptian police said , `` that her escapades caused distrust '' .
+		|
+		6 - Dist: 0.9222879409790039 Bless you my friends , for it is through love and service that brotherhood becomes a reality .
+		|
+		7 - Dist: 0.8045662045478821 It is through them that we have become aware of the divine humanity in man , and therefore , that most people are noble , helpful and good .
+		|
+		8 - Dist: 0.9056486487388611 Three years ago it became possible to finance a Braille edition for blind readers .
+		|
+		9 - Dist: 0.7890074253082275 And the 100000 subscribers became a reality .
+		|
+		10 - Dist: 0.7985332608222961 And then , as they become aware that they have reached the end of their patience , what do they , to their dismay , learn for the first time about themselves ?
+		|
+		11 - Dist: 0.7481674551963806 Even though his theological theses have become , to us , commonplaces , the fundamental interrogation he phrased is very much with us .
+		|
+		12 - Dist: 0.90409255027771 This is the tale of one John Enright , an American who has accidentally killed a man in the prize ring and is now trying to forget about it in a quiet place where he may become a quiet man .
+		|
+		13 - Dist: 0.88080233335495 Her hum became a gurgle of surprise .
+		|
+		14 - Dist: 0.9328069090843201 Clothes hold their shape better , and mildew and rust become almost forgotten words .
+		|
+		15 - Dist: 0.908440351486206 The need for reupholstering , redecorating , repainting becomes more infrequent .
+		|
+		16 - Dist: 0.8536668419837952 The formula , with the fractions converted to decimals , becomes * * f .
+		|
+		17 - Dist: 0.8884904980659485 Because of this Dr. Bonnor holds that the universe is becoming more thinly populated by stars and whatever else is there .
+		|
+		18 - Dist: 0.6731455326080322 In mentioning this under `` salvation reconsidered '' I do not mean to imply that Roman Catholic doctrine has changed in this area but rather that it has become clearer to the world community what that doctrine is .
+		|
+		19 - Dist: 0.6663450002670288 But as the more concrete plans for the work of the Council gradually became known , there was a rather sharp and abrupt disappointment on all sides .
+		|
+		20 - Dist: 0.7145634293556213 When this second dilemma first became obvious - during the mid to late ' 50 's - the United States appeared to have three choices .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.4505494505494505
+
+There are 34 embeddings closer to Lemma('make.v.03.make') (make or cause to be or to become)
+Average distance of WRONG embeddings from nearest centroid: 0.8937169909477234
+Average distance of CORRECT embeddings: 0.899164080619812
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8472837209701538 There was no implication made that their initial reaction ( absence of an arm-elevation ) was less preferred than the presence of levitation .
+		|
+		2 - Dist: 0.9072825312614441 The screen test was never made - but Diane was .
+		|
+		3 - Dist: 0.9521241784095764 There was good reason for Gen. Taylor to make an inspection trip at this time .
+		|
+		4 - Dist: 0.8993654251098633 But the attack was made from an advance copy .
+		|
+		5 - Dist: 0.8702676892280579 One doctor made a careful survey of his patients and the reasons for their troubles , and he reported that 40 % of them worried about things that never happened ; 30 % of them worried about past happenings which were completely beyond their control ; 12 % of them worried about their health , although their ailments were imaginary ; 10 % of them worried about their friends , neighbors , and relatives , most of whom were quite capable of taking care of themselves .
+		|
+		6 - Dist: 0.9400249719619751 Her first actual flight , for she and her kind had made mock flights on dummy panels since she was eight , showed her complete mastery of the techniques of her profession .
+		|
+		7 - Dist: 0.9279380440711975 It is possible to find out in which categories most of her correct statements fall , and where she makes most of her `` hits '' .
+		|
+		8 - Dist: 0.8914263248443604 In The Parapsychology Foundation 's long-range experiment , readings are made by a variety of sensitives for a large number of cooperating sitters , trying to throw light on this question of the significance of mediumistic statements .
+		|
+		9 - Dist: 0.9199995994567871 An interested sitter may think the sensitive has made a `` hit '' , describing something accurately for him , but can he really be sure that another sitter , hearing the same statement , would not apply it subjectively to his own circumstances ?
+		|
+		10 - Dist: 0.9367732405662537 `` When I 've made a dumb play '' , he says , `` I do n't want to talk to anyone .
+		|
+		11 - Dist: 0.920932948589325 Always , in the abortive attacks upon Ruth 's record , one man alone - a Jimmy Foxx ( 58 in 1932 ) or a Hank Greenberg ( 58 in 1938 ) or a Hack Wilson ( 56 in 1930 ) - made the bid .
+		|
+		12 - Dist: 0.9440379738807678 Georgia has made some reforms , true .
+		|
+		13 - Dist: 0.8127785325050354 This third choice was in fact made .
+		|
+		14 - Dist: 0.9365439414978027 The Laos government plea for help was made by Foreign Minister Tiao Sopsaisana .
+		|
+		15 - Dist: 0.9269131422042847 On November 24 th , they had made a raid on La Maddalena .
+		|
+		16 - Dist: 0.8666501045227051 It would be made in three waves - the first to lay down a smokescreen , the second to drop the gas bombs , the third to shower incendiaries which would burn everything below .
+		|
+		17 - Dist: 0.8133320808410645 Alla Sizova , who seems to have made a special hit in the East , was delightful as the lady Bluebird and her partner , Yuri Soloviev , was wonderfully virile , acrobatic , and poetic all at the same time , in a tradition not unlike that of Nijinsky .
+		|
+		18 - Dist: 0.918929934501648 Atonement , if atonement were possible , could only be made at that sacred , sacrificial basin .
+		|
+		19 - Dist: 0.9243307113647461 One day last week , Nixon faced a painful constitutional chore that required him to officiate at a joint session of Congress to hear the official tally of the Electoral College vote , and then to make `` sufficient declaration '' of the election of the man who defeated him in the tight 1960 presidential election .
+		|
+		20 - Dist: 0.8972598314285278 At a closed-door session on Capitol Hill last week , Secretary of State Christian Herter made his final report to the Senate Foreign Relations Committee on U. S. affairs abroad .
+
+There are 16 embeddings closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.8190532326698303
+Average distance of CORRECT embeddings: 0.899164080619812
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8264965415000916 At the very moment that every attempt is being made to take management out from under the irrationality of anti-trust legislation , a drive is on to abolish collective bargaining under the guise of extending the anti-monopoly laws to unions who want no more than to continue to set wages in the same way that ship operators set freight rates .
+		|
+		2 - Dist: 0.8607584238052368 But competent observers believe he is making progress , particularly toward what Sen. Jackson lists as the primary need - `` a clearer understanding of where our vital national interests lie and what we must do to promote them '' .
+		|
+		3 - Dist: 0.8553521037101746 She lay there , making no effort to get back on her feet .
+		|
+		4 - Dist: 0.9016848802566528 If you can n't see your way clear to have summer cooling included when building , by all means make provision for its easy adding later .
+		|
+		5 - Dist: 0.595790445804596 The American Constitution was historic at this point in providing that `` Congress shall make no law respecting an establishment of religion or prohibiting the free exercise thereof '' .
+		|
+		6 - Dist: 0.8411417603492737 Mr. Simpkins made a name for himself as a member of the House of Delegates from 1951 through 1958 .
+		|
+		7 - Dist: 0.9022502303123474 Every movement she made seemed unnecessarily noisy .
+		|
+		8 - Dist: 0.9075605273246765 However while in his cell awaiting trial for theft , Barco , in a fit of apprehension , made an attempt to take his own life .
+		|
+		9 - Dist: 0.7557930946350098 There also came a brief contretemps with the sound mixers who made the mistake of being overheard during a quiet moment near the conclusion of `` Do It Again '' , and she made the tart observation that `` I never saw so much moving about in an audience '' .
+		|
+		10 - Dist: 0.8150681257247925 All expressed interest in world affairs but no one offered to make any sacrifices to satisfy this interest .
+		|
+		11 - Dist: 0.8260753750801086 Since 1944 he has also conducted regularly at the San Francisco Opera , where he made his debut with a memorable performance of Verdi 's Falstaff .
+		|
+		12 - Dist: 0.8407731652259827 After he had spent the first three years in New York as associate conductor , at Toscanini 's invitation , of the NBC Orchestra , he made numerous guest appearances throughout the United States and Latin America .
+		|
+		13 - Dist: 0.729051411151886 What they have objected to is the attempt of the Russians to make use of the tragedy of Dag Hammarskjold 's death to turn the entire U. N. staff from the Secretary down into political agents of the respective countries from which they come .
+		|
+		14 - Dist: 0.7591482996940613 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		15 - Dist: 0.8249284029006958 Progress is being made , too , in improving motorists ' access to many turnpikes .
+		|
+		16 - Dist: 0.8629785180091858 Premier Khrushchev has made propaganda capital out of that fact and in the end got his summit meeting anyway .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.8095238095238095
+
+There are 12 embeddings closer to Lemma('make.v.03.make') (make or cause to be or to become)
+Average distance of WRONG embeddings from nearest centroid: 0.8329786658287048
+Average distance of CORRECT embeddings: 0.8253294229507446
+		|
+		|
+		1 - Dist: 0.7233713269233704 If then any man is in Christ , he is a new creature [ literally , `` He is a new creation '' ] , the former things have passed away ; behold , they are made new !
+		|
+		2 - Dist: 0.7554481625556946 He made himself back off slowly , his eyes wary on Roberts , who now had no more to lose than he .
+		|
+		3 - Dist: 0.8238373398780823 But Theodore Parker , commencing his mission to the world-at-large , disguised as the minister of a `` twenty-eighth Congregational Church '' which bore no resemblance to the Congregational polities descended from the founders ( among which were still the Unitarian churches ) , made explicit from the beginning that the conflict between him and the Hunkerish society was not something which could be evaporated into a genteel difference about clerical decorum .
+		|
+		4 - Dist: 0.8461078405380249 All he can do is to be an objective and careful questioner , seeking to help the sensitive in clarifying and making more specific her paranormal impressions .
+		|
+		5 - Dist: 0.9211368560791016 Merchant ships illuminated in the light of the flares , made to seem like stones imbedded in a lake of polished mud , were impossible to miss .
+		|
+		6 - Dist: 0.811500608921051 Tend to make this dimension slightly undersize so you can file the screw head to get exactly 1 4 '' tappet movement .
+		|
+		7 - Dist: 0.8361562490463257 If we make it established custom that whenever butchery on the highways grows excessive , say beyond 25000 per annum , then somebody is going to hang , it follows that the more eminent the victim , the more impressive the lesson .
+		|
+		8 - Dist: 0.8241779804229736 We do n't think she can make her child defective , emotionally disturbed or autistic .
+		|
+		9 - Dist: 0.8954744935035706 Did his mother make him this way ?
+		|
+		10 - Dist: 0.8374446630477905 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+		|
+		11 - Dist: 0.8431060314178467 I made you a man '' .
+		|
+		12 - Dist: 0.8779824376106262 `` I made you so you could stand up .
+
+There are 3 embeddings closer to Lemma('make.v.01.do') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.8453829884529114
+Average distance of CORRECT embeddings: 0.8253294229507446
+		|
+		|
+		1 - Dist: 0.863354504108429 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		2 - Dist: 0.8045815825462341 But more than one conscientious researcher has been inhibited from completely frank discussion of the available evidence by the less excusable fact that fallout has been made a political issue as well as a scientific problem .
+		|
+		3 - Dist: 0.868212878704071 `` I made you what you are '' , Gavin whispered .
+
+There are 1 embeddings closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.9209417104721069
+Average distance of CORRECT embeddings: 0.8253294229507446
+		|
+		|
+		1 - Dist: 0.9209417104721069 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 0.6262626262626263
+
+There are 12 embeddings closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.7740446925163269
+Average distance of CORRECT embeddings: 0.8598300814628601
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7612453699111938 One Kohnstamm-positive subject who had both arms rise while being tested in the nai ^ ve condition described her subjective experience as follows : `` You feel they 're going up and you 're on a stage and it 's not right for them to do so and then you think maybe that 's what 's supposed to happen '' .
+		|
+		2 - Dist: 0.8152437806129456 She could do no wrong at the tables that time .
+		|
+		3 - Dist: 0.7016918063163757 Recently Treasury Secretary Dillon and Labor Secretary Goldberg fell into line with Mr. Hodges ' appraisal , though there has been some reluctance to do so at the White House .
+		|
+		4 - Dist: 0.7792046666145325 The rescue squad is to be praised immensely for the fine work they do in all kinds of weather .
+		|
+		5 - Dist: 0.6662979125976562 `` All you have to do is ask '' , he retorted hopefully .
+		|
+		6 - Dist: 0.8553555011749268 It is difficult to say what can be done about them except that we must learn to recognize when it is they , rather than pretexts for them , that are causing the trouble , and do everything possible to nurture the healthy personalities that will prevent the development of such deficiencies .
+		|
+		7 - Dist: 0.8548962473869324 It is the art of relating the finite to the infinite , of doing our best to insure that the particularistic requirements of religious institutions will not thwart God 's intent of unity among men more than is minimally necessary .
+		|
+		8 - Dist: 0.8022460341453552 A sweetheart arrangement can come about as often by employers doing the corrupting as by unscrupulous labor leaders demanding tribute .
+		|
+		9 - Dist: 0.6762527227401733 Unfortunately , those who would remedy our `` softness '' seek to do so with calisthenics .
+		|
+		10 - Dist: 0.6837209463119507 After a nuclear blast , one bureaucrat suggested in those halcyon days , about all you had to do was haul out the broom and sweep off your sidewalks and roof .
+		|
+		11 - Dist: 0.8354223966598511 The other children in the class use this same coloring book and do a fairly good job with things their proper color .
+		|
+		12 - Dist: 0.8569583892822266 Or certain words or rituals that child and adult go through may do the trick .
+
+There are 25 embeddings closer to Lemma('make.v.03.make') (make or cause to be or to become)
+Average distance of WRONG embeddings from nearest centroid: 0.8675183057785034
+Average distance of CORRECT embeddings: 0.8598300814628601
+		|
+		|
+		1 - Dist: 0.854572594165802 When corporate abuses were attacked , it was done on the theory that criminal penalties would be invoked rather than control .
+		|
+		2 - Dist: 0.8335593342781067 But what the elements could not do was seriously threatened when Brigadier General William E. ( Grumble ) Jones reached Philippi while on the famous Jones-Imboden raid in May , 1863 .
+		|
+		3 - Dist: 0.8176707625389099 Mickey paused with him , waiting , no longer impatient , trying now to think it out , do a little planning .
+		|
+		4 - Dist: 0.7901531457901001 You and I do the same thing .
+		|
+		5 - Dist: 0.7743632793426514 Helva 's class was doing Fine Arts , a selective subject in her crowded program .
+		|
+		6 - Dist: 0.9311848282814026 Good workmanship is important in the installation , so if you 're doing your own contracting , do n't award the job on the basis of price alone .
+		|
+		7 - Dist: 0.889511227607727 This costs less than having a completely separate cooling system , for your regular heating ductwork , filters and furnace blower do double duty for cooling .
+		|
+		8 - Dist: 0.9085189700126648 Two men can often do the installation in a day .
+		|
+		9 - Dist: 0.900155782699585 When solving an equation that involves division as well as other steps , do all the division steps first to reduce those parts of the equation to their numerical value .
+		|
+		10 - Dist: 0.875074565410614 However , it is essential that the various mathematical symbols used in the equations be understood so that the mathematical processes can be done properly and in their correct order .
+		|
+		11 - Dist: 0.901131272315979 I do this work all on my own , because I understand the difficulties and I want to help these lay-sisters .
+		|
+		12 - Dist: 0.832396388053894 About 40 per cent of the manufacturing is done at the Dallas plant by more than 200 employes .
+		|
+		13 - Dist: 0.9149900674819946 The firm does a large amount of research and its forecasts have meaning .
+		|
+		14 - Dist: 0.859561562538147 Her husband , who is the son of Alton John Mason of Shreveport , La. , and the late Mrs. Henry Cater Parmer , was president of Alpha Tau Omega and a member of Delta Sigma Pi at Lamar Tech , and did graduate work at Rhodes University in Grahamstown , South Africa , on a Rotary Fellowship .
+		|
+		15 - Dist: 0.9065364003181458 It was done with great taste , was big and spacious , sumptuous as the dreams of any peasant in its courtly costumes , but sumptuous in a muted , pastel-like style , with rich , quiet harmonies of color between the costumes themselves and between the costumes and the scenery .
+		|
+		16 - Dist: 0.877430260181427 Who wants this deed done '' ?
+		|
+		17 - Dist: 0.8974424600601196 To help him on this religious aspect of primitive jazz he had `` Big '' Miller , as a preacher-singer and Hannah Dean , Gospel-singer , while Oscar Brown Jr. , an extremely talented young man , did a slave auctioneer 's call , a field-hands ' work song , and a beautifully sung Negro lullaby , `` Brown Baby '' , which was one of the truly moving moments of the festival .
+		|
+		18 - Dist: 0.8795151710510254 From this taste of the 1920 s , we leaped way out to Stan Getz 's private brand of progressive jazz , which did lovely , subtle things for `` Baubles , Bangles and Beads '' , and a couple of ballards .
+		|
+		19 - Dist: 0.8902795910835266 Benita Valente was delightful as the young wife and John Parella was amusing as the tutor who failed to do all his tutoring .
+		|
+		20 - Dist: 0.8479116559028625 We would like to do that too '' .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.03.make')
+Sense definition: make or cause to be or to become
+Number of sentences: 46
+Accuracy: 0.5217391304347826
+
+There are 13 embeddings closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.788795530796051
+Average distance of CORRECT embeddings: 0.8880656361579895
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7766278982162476 A more tenable explanation for the change in reactions is that the added knowledge and increased familiarity with the total situation made it possible for these subjects to be less guarded and to relax , since any reaction seemed acceptable to the examiner as `` normal '' .
+		|
+		2 - Dist: 0.8260317444801331 At one time I became disturbed in the faith in which I had grown up by the apparent inroads being made upon both Old and New Testaments by a `` Higher Criticism '' of the Bible , to refute which I felt the need of a better knowledge of Hebrew and of archaeology , for it seemed to me that to pull out some of the props of our faith was to weaken the entire structure .
+		|
+		3 - Dist: 0.8402863144874573 n an amateu6rish , yet in a very real sense , I have followed the developments of archaeology , geology , astronomy , herpetology , and mycology with a hearty appreciation of the advances being made in these fields .
+		|
+		4 - Dist: 0.7883468866348267 Cambodia 's chief of state , who has been accused of harboring Communist marauders and otherwise making life miserable for neighboring South Viet Nam and Thailand , insists he would be very unhappy if communism established its power in Southeast Asia .
+		|
+		5 - Dist: 0.7703220248222351 He dumped it into the back and made sure it would n't roll out , then returned to the porch and closed the front door , making sure it was unlocked .
+		|
+		6 - Dist: 0.8032087087631226 He dumped it into the back and made sure it would n't roll out , then returned to the porch and closed the front door , making sure it was unlocked .
+		|
+		7 - Dist: 0.7459571361541748 No less an authority than the FHA concurs that the savings air conditioning makes possible more than offset its operating costs .
+		|
+		8 - Dist: 0.8012510538101196 Also make sure thermometer does not touch the revolving spit or hit the coals .
+		|
+		9 - Dist: 0.710277259349823 I repeat , two wrongs do not make a right .
+		|
+		10 - Dist: 0.7395992279052734 I suppose I am missing some elementary point but I honestly cannot see how two wrongs can make a right !
+		|
+		11 - Dist: 0.8264566659927368 There will be premieres of new works , made possible through Ford Foundation commissions : Carlisle Floyd 's Mystery , with Phyllis Curtin as soprano soloist .
+		|
+		12 - Dist: 0.7544055581092834 The gardens themselves are open free of charge the year round , and the 192 permanent employes make sure that not a dead or wilted flower is ever seen indoors or out by any visitor .
+		|
+		13 - Dist: 0.8715711832046509 Lower costs and a larger number of stations are the key factors making such specialization possible .
+
+There are 2 embeddings closer to Lemma('make.v.01.do') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.828697919845581
+Average distance of CORRECT embeddings: 0.8880656361579895
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.7649036645889282 The Greek evidently fell for her , `` Monsieur X '' recounted , and to clinch what he thought was an affair in the making he gave her 100000 francs ( about $ 300 ) and led her to the roulette tables .
+		|
+		2 - Dist: 0.8924922347068787 The new City Charter , which should get a Yes vote as Question No. 1 on Nov. 7 , would not make a good Mayor out of a bad one .
+
+There are 7 embeddings closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.8774851560592651
+Average distance of CORRECT embeddings: 0.8880656361579895
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8679627180099487 Lots of cheese made from June grass milk is served .
+		|
+		2 - Dist: 0.8923599720001221 Come , behold the works of the Lord , what desolations He hath made in the earth .
+		|
+		3 - Dist: 0.8995398879051208 Shell people were schooled to examine every aspect of a problem or situation before making a prognosis .
+		|
+		4 - Dist: 0.887885570526123 Make a paste of brown sugar and mustard and spread lightly over scored surface .
+		|
+		5 - Dist: 0.9079980254173279 But today he wanted to make a public statement .
+		|
+		6 - Dist: 0.853640079498291 It had been made shockingly evident that very morning to Ensign Kay K. Vesole , in charge of the armed guard aboard the John Bascom .
+		|
+		7 - Dist: 0.8330095410346985 For Jenks knew that Bari 's defenses were made of paper .
+
+
+-----------------------------------------
+Errors for Lemma('entirely.r.02.only')
+Sense definition: without any others being included or involved
+Number of sentences: 44
+Accuracy: 0.8863636363636364
+
+There are 5 embedding closer to Lemma('merely.r.01.only') (and nothing more)
+Average distance of WRONG embeddings from nearest centroid: 0.8271274566650391
+Average distance of CORRECT embeddings: 0.8545649647712708
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8041782975196838 Nischwitz fanned six and walked only Charley Hinton in the third inning .
+		|
+		2 - Dist: 0.8730222582817078 There was no cover here , only grass sighing against pant-legs .
+		|
+		3 - Dist: 0.8774983882904053 If there is nothing evil in these things , if they get their moral complexion only from our feeling about them , why should n't they be greeted with a cheer ?
+		|
+		4 - Dist: 0.8189524412155151 Should I hold her hand while walking or only when crossing the street ?
+		|
+		5 - Dist: 0.7619858384132385 According to his own testimony , he never actually saw things as shaped but only as generally amorphous `` blots '' of color of a more or less indefinite size ; at their edges they slipped pretty much out of focus altogether .
+
+
+-----------------------------------------
+Errors for Lemma('merely.r.01.only')
+Sense definition: and nothing more
+Number of sentences: 50
+Accuracy: 0.7
+
+There are 15 embedding closer to Lemma('entirely.r.02.only') (without any others being included or involved)
+Average distance of WRONG embeddings from nearest centroid: 0.8355135321617126
+Average distance of CORRECT embeddings: 0.8149557113647461
+		|
+		|
+		1 - Dist: 0.8806580305099487 Investors breathed more freely when it was learned that this acrobatic dancer had turned magician and was only doing a best seller book to make some dough .
+		|
+		2 - Dist: 0.8395823836326599 Incidentally , only two did it before a home audience .
+		|
+		3 - Dist: 0.8850685358047485 But he had in Walter Hendl a willing conductor able only up to a point .
+		|
+		4 - Dist: 0.8185960650444031 Be sure that the landing foot is brought close to the hands and that only one foot lands at a time .
+		|
+		5 - Dist: 0.8935943245887756 These experiments can be considered exploratory only .
+		|
+		6 - Dist: 0.857214629650116 This , however , can only be considered approximate , as the diameter of the pulley was increased by the build-up of tape and the tape was occasionally removed from the pulley during the runs .
+		|
+		7 - Dist: 0.8056100010871887 In spite of normal thyroid function tests , a trial of propylthiouracil , 400 mg. daily for one week , was given but served only to intensify muscle weakness .
+		|
+		8 - Dist: 0.8991014957427979 It was at that party that , finally overcoming my timidity , inspired by tales only half understood and overheard among older boys , I asked Jessie to spend New Year's Eve with me .
+		|
+		9 - Dist: 0.8897745609283447 If the distant patron of the suburban branch has been frightened away from downtown by traffic problems , however , the city store can only pressure the politicians to do something about the highways or await the completion of the federal highway program .
+		|
+		10 - Dist: 0.7879765033721924 The fact seems to be that very many large branch stores are uneconomical , that the choice of location in the suburbs is as important as it was downtown , and that even highly suburbanized cities will support only so many big branches .
+		|
+		11 - Dist: 0.7298036813735962 The official military establishment can only threaten to use its nuclear arms ; it cannot bring them into actual play .
+		|
+		12 - Dist: 0.8278607726097107 When one powerful nation strives to emulate the success of another , it is only natural .
+		|
+		13 - Dist: 0.8227959871292114 On November 22 , 1859 , the Providence Daily Journal stated that although Brown 's `` pluck '' and honest fanaticism must be admired , any honor paid to Brown would only induce other fanatics to imitate his actions .
+		|
+		14 - Dist: 0.6835221648216248 It was only natural that Fletcher would strive for a position in which he could make the decisions .
+		|
+		15 - Dist: 0.9115447402000427 We have staved off a war and , since our behavior has involved all these elements , we can only keep adding to our ritual without daring to abandon any part of it , since we have not the slightest notion which parts are effective .
+
+
+-----------------------------------------
+Errors for Lemma('state.v.01.say')
+Sense definition: express in words
+Number of sentences: 337
+Accuracy: 0.7299703264094956
+
+There are 91 embedding closer to Lemma('allege.v.01.say') (report or maintain)
+Average distance of WRONG embeddings from nearest centroid: 0.8353714942932129
+Average distance of CORRECT embeddings: 0.8543145656585693
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.9131952524185181 She explained nonreactivity of others by saying that they were `` not letting themselves relax '' .
+		|
+		2 - Dist: 0.9236418604850769 Another said that her arm did not go up at first `` because I would n't let it ; I thought it was n't supposed to '' .
+		|
+		3 - Dist: 0.7854410409927368 Before 1933 , individuals who opposed trade unions and collective bargaining said so in plain English .
+		|
+		4 - Dist: 0.8816139101982117 Then , with the hymn writer of old , you can say :
+		|
+		5 - Dist: 0.8411341309547424 So , I put my Bible to the practical test of noting what it says about itself , and then tested it to see how it worked .
+		|
+		6 - Dist: 0.6247738003730774 Our blessed Lord Jesus Christ , the sinless Son of God , who could not lie , said , `` Amen , amen , I say to thee , unless a man be born again , he cannot see the kingdom of God '' ( St. John 3 : 3 ) .
+		|
+		7 - Dist: 0.7814440131187439 You may be very religious , a good church member , an upright , honest and sincere person ; you may be baptized , confirmed , reverent and worshipful ; you may attend mass , do penance , say prayers and zealously keep all the sacraments and ceremonies of the church ; you may have the final and extreme unction but if you are not born again you are lost and headed for hell and eternal punishment .
+		|
+		8 - Dist: 0.6282661557197571 Amen , amen , I say to you , he who hears my word , and believes him who sent me , has life everlasting , and does not come to judgment , but has passed from death to life .
+		|
+		9 - Dist: 0.598334550857544 Jesus answered and said to him [ Nicodemus ] `` Amen , amen , I say to thee , unless a man be born again , he cannot see the kingdom of God '' .
+		|
+		10 - Dist: 0.660012423992157 Amen , amen , I say to thee , unless a man be born again of water [ symbol of the Word of God , see Ephesians 5 : 26 ] and the Spirit , he cannot enter into the kingdom of God .
+		|
+		11 - Dist: 0.7695886492729187 Gov. John M. Dalton , himself a lawyer and a man of long service in government , spoke with rich background and experience when he said in an address here that lawyers ought to quit sitting in the Missouri General Assembly , or quit accepting fees from individuals and corporations who have controversies with or axes to grind with the government and who are retained , not because of their legal talents , but because of their government influence .
+		|
+		12 - Dist: 0.9022514224052429 Some critics say that the length of stay in a hospital is too long .
+		|
+		13 - Dist: 0.9284613132476807 The article also said that a person had to be 18 years old or over , and must not be going to high school to attend these classes .
+		|
+		14 - Dist: 0.8761027455329895 I submit that it cannot be dismissed simply by saying we are not facing the facts of life .
+		|
+		15 - Dist: 0.805241584777832 He says of it :
+		|
+		16 - Dist: 0.8719963431358337 Bedridden people say I am easy to hold - and read .
+		|
+		17 - Dist: 0.8937199115753174 They say it helps them bring back into schools the spiritual and moral values on which this country was built .
+		|
+		18 - Dist: 0.8774804472923279 They say all personnel have spiritual needs which Guideposts helps to meet .
+		|
+		19 - Dist: 0.7552838921546936 We have to tell ourselves that when Parker spoke in this vein , he believed what he said , because he could continue , `` But the truth , which cost me bitter tears to say , I must speak , though it cost other tears hotter than fire '' .
+		|
+		20 - Dist: 0.789564311504364 We have to tell ourselves that when Parker spoke in this vein , he believed what he said , because he could continue , `` But the truth , which cost me bitter tears to say , I must speak , though it cost other tears hotter than fire '' .
+
+
+-----------------------------------------
+Errors for Lemma('allege.v.01.say')
+Sense definition: report or maintain
+Number of sentences: 43
+Accuracy: 0.6046511627906976
+
+There are 17 embedding closer to Lemma('state.v.01.say') (express in words)
+Average distance of WRONG embeddings from nearest centroid: 0.8482353687286377
+Average distance of CORRECT embeddings: 0.8622444868087769
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.8503841161727905 Their national leader , Robert Bolivar DePugh of Norborne , Mo. , says the Minutemen believe that guerrilla tactics are best suited to defeat the Red onslaught .
+		|
+		2 - Dist: 0.8769437074661255 `` Just when you think you have it licked , this golf course can get up and bite you '' , Player had said one afternoon midway through the tournament .
+		|
+		3 - Dist: 0.8792411684989929 `` So extensive became her circle of admirers '' , Egyptian police said , `` that her escapades caused distrust '' .
+		|
+		4 - Dist: 0.8320968151092529 `` That 's the way I am '' , he says .
+		|
+		5 - Dist: 0.8013073205947876 `` When I 've made a dumb play '' , he says , `` I do n't want to talk to anyone .
+		|
+		6 - Dist: 0.7815535068511963 Police said he became ill while parked in front of a barber shop at 229 West Pratt street .
+		|
+		7 - Dist: 0.8955067992210388 Doctors at the hospital said he was partially paralyzed on the right side .
+		|
+		8 - Dist: 0.8304901719093323 He said the assailant , who was armed with a .45 - caliber automatic , entered the taxi at Pennsylvania avenue and Gold street .
+		|
+		9 - Dist: 0.748026430606842 The spokesman said the number to be furloughed cannot be estimated since the lay-offs must be carried out in each area depending on what men are most needed on the job .
+		|
+		10 - Dist: 0.8832882642745972 Through Ladgham , Mr. Kennedy sent a message along those lines to Tunisian President Habib Bourguiba ; and one U. S. official said :
+		|
+		11 - Dist: 0.8839238286018372 Attorneys for the eight other defendants said only that there was no proof of their clients ' guilt .
+		|
+		12 - Dist: 0.88744056224823 Thru development , the reactor and its steam turbines had been reduced greatly in size , and also in complexity , allowing a single propeller to be used , the navy said .
+		|
+		13 - Dist: 0.8976165652275085 He said that drawings of the Dreadnought and printed details about the ship were found reproduced in an undeveloped roll of film taken from Lonsdale when he was arrested with the two civil servants outside the Old Vic theater Saturday afternoon , Jan. 7 .
+		|
+		14 - Dist: 0.8652049899101257 Wagner said the city paid only $ 37500 to the Hughes company .
+		|
+		15 - Dist: 0.8442222476005554 Hemphill said the Hughes concern contracted to do the repairs at a cost of $ 500 for each joint .
+		|
+		16 - Dist: 0.8060653209686279 `` I am taking the position that the contract was clearly violated '' , Berger said .
+		|
+		17 - Dist: 0.8566895723342896 Hemphill said that the Hughes Steel Erection Co. contracted to do the work at an impossibly low cost with a bid that was far less than the `` legitimate '' bids of competing contractors .
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 11
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 0.6875
+Wrong lemmas count: 16

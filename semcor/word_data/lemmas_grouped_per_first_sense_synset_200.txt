@@ -1,0 +1,4 @@
+Synset('become.v.01'): ["Lemma('become.v.02.become')", "Lemma('become.v.01.become')"]
+Synset('make.v.01'): ["Lemma('make.v.01.make')", "Lemma('make.v.02.make')", "Lemma('make.v.01.do')", "Lemma('make.v.03.make')"]
+Synset('merely.r.01'): ["Lemma('entirely.r.02.only')", "Lemma('merely.r.01.only')"]
+Synset('state.v.01'): ["Lemma('state.v.01.say')", "Lemma('allege.v.01.say')"]

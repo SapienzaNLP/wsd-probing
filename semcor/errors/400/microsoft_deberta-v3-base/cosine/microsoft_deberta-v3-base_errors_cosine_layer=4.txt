@@ -1,0 +1,61 @@
+Errors for k = 400
+Distance function: cosine
+
+Number of total errors = 9
+Number of total test sentences = 274
+Total Accuracy of BERT = 0.9671532846715328
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 91
+Accuracy: 0.9560439560439561
+
+There are 4 embedding closer to Lemma('make.v.02.make') (give certain properties to something)
+Average distance of WRONG embeddings from nearest centroid: 0.6684303283691406
+Average distance of CORRECT embeddings: 0.7782064080238342
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.5749470591545105 Some chaps that know an area well can make their way by landmarks - a tree here , a wash here , a boulder there .
+		|
+		2 - Dist: 0.7677218914031982 He might have been hoping , to all appearances , that this relatively sunny symphony , in conjunction with the Choral Fantasy at the end of the program , could amount to something like the Ninth ; but no amount of head-tossing could make it so .
+		|
+		3 - Dist: 0.5775089859962463 By the time I 'd made it he was gone .
+		|
+		4 - Dist: 0.753543496131897 Premier Khrushchev has made propaganda capital out of that fact and in the end got his summit meeting anyway .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 84
+Accuracy: 0.9404761904761905
+
+There are 5 embedding closer to Lemma('make.v.01.make') (engage in)
+Average distance of WRONG embeddings from nearest centroid: 0.7086027264595032
+Average distance of CORRECT embeddings: 0.749649167060852
+AVG DISTANCE OF WRONG EMBEDDINGS IS SMALLER THAN AVG DISTANCE OF CORRECT EMBEDDINGS
+		|
+		|
+		1 - Dist: 0.6758409738540649 In the garage he checked the Jeep for signs of the use he had made of it .
+		|
+		2 - Dist: 0.753363847732544 All he can do is to be an objective and careful questioner , seeking to help the sensitive in clarifying and making more specific her paranormal impressions .
+		|
+		3 - Dist: 0.5989305973052979 Speakers declared that Protestants often make use of it , if , perhaps , by some other name .
+		|
+		4 - Dist: 0.8225947618484497 Having hedged its bets in this way , PHS apparently decided it would be possible to make some sort of determination after all : `` At present radiation levels , and even at somewhat higher levels , the additional risk is slight and very few people will be affected '' .
+		|
+		5 - Dist: 0.6922836303710938 Lawmaking power is removed from the Board of Estimate and made a partnership responsibility of the City Council and the Mayor .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 99
+Accuracy: 1.0
+
+
+-----------------------------------------
+Number of wrong embeddings closer to wrong centroid than to correct centroid: 2
+Percentage of wrong embeddings closer than correct embeddings to wrong centroid: 1.0
+Wrong lemmas count: 2

@@ -1,0 +1,127 @@
+Errors for k = 400
+
+Number of total errors = 190
+Number of total sentences = 1374
+Total Accuracy of BERT = 0.8617176128093158
+
+Errors for Lemma('make.v.01.make')
+Sense definition: engage in
+Number of sentences: 455
+Accuracy: 0.8945054945054945
+
+There are 48 embedding closer to Lemma('make.v.02.make')
+Average distance of WRONG embeddings from nearest centroid: 12.724530220031738
+Average distance of CORRECT embeddings: 11.081524848937988
+		|
+		1 - Dist: 10.897178649902344 I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel .
+		2 - Dist: 10.621737480163574 For the occasion on which everyone already knows everyone else and the host wishes them to meet one or a few honored newcomers , then the `` open house '' system is advantageous because the honored guests are fixed connective points and the drifting guests make and break connections at the door .
+		3 - Dist: 11.089179992675781 But what a super Herculean task it is to winnow anything of value from the mud beplastered arguments used so freely , particularly since such common use is made of cliches and stereotypes , in themselves declarations of intellectual bankruptcy .
+		4 - Dist: 14.521202087402344 Regardless of how much of a slob you knew yourself to be , you could be certain they would never find out - and even if they did it would make no difference .
+		5 - Dist: 12.13044261932373 In I have things to do the word things makes little real contribution to meaning and has weaker stress than do .
+		6 - Dist: 12.685198783874512 Courses are provided mainly for post high school day programs ; but sometimes arrangements also are made for high school students to attend , and evening extension courses also may be conducted .
+		7 - Dist: 16.04810333251953 Gun set the captain 's fifth of Hiram Walker inside the safe before he reported to Lt. Killpath , though he knew that Killpath 's ulcer prevented him from making any untoward incursion on Herman Wolff 's gift .
+		8 - Dist: 15.374425888061523 Thus at the same time that William Henry Harrison was preparing to pacify the aborigines of Indiana Territory and winning fame at the battle of Tippecanoe , Anglo-Saxon settlement made a great leap into the center of the North American continent to the west of the American agricultural frontier .
+		9 - Dist: 11.701908111572266 Soil type , drainage , or degree of slope can make the difference between good crops and poor ones .
+		10 - Dist: 15.43813419342041 Interruptions came largely from the bench , which numerous times rebuked the Attorney General for letting his witnesses run on , though it , too , made no serious effort to choke off the flow .
+		11 - Dist: 14.522477149963379 But make no mistake about it , the first reason people turn to camping is one of economy .
+		12 - Dist: 11.976027488708496 `` As long as the couple is in agreement in their approach to sex , it makes little difference if one or the other dominates '' , Dr. Calderone declares .
+		13 - Dist: 12.203169822692871 Phil spun around and made an accurate throw into Mike Deegan 's hands on third base .
+		14 - Dist: 10.619884490966797 Men seem almost universally to want a sense of function , that is , a feeling that their existence makes a difference to someone , living or unborn , close and immediate or generalized .
+		15 - Dist: 15.529572486877441 if a receiver or trustee for any such partnership or corporation , duly appointed by a court of competent jurisdiction in the United States , makes an assignment of the claim , or any part thereof , with respect to which an award is made , or makes an assignment of such award , or any part thereof , payment shall be made to the assignee , as his interest may appear ; and in the case of any assignment of an award , or any part thereof , which is made in writing and duly acknowledged and filed , after such award is certified to the Secretary of the Treasury , payment may , in the discretion of the Secretary of the Treasury , be made to the assignee , as his interest may appear .
+		16 - Dist: 15.87866497039795 The Secretary of the Treasury is authorized and directed out of the sums covered into any of the funds pursuant to subsection ( b ) of this section , and after making the deduction provided for in section 7 ( b ) of this Title -
+		17 - Dist: 12.981698036193848 Such fascinating novelties in the score as the fugual treatment of `` On the Side of the Angels '' and `` Politics and Poker '' were handled splendidly , and I thought Rudy Bond and his band of tuneful ward-heelers made `` Little Tin Box '' even better than it was done by the New York cast ; all the words of its clever lyrics came through with perfect clarity .
+		18 - Dist: 13.56041431427002 I did n't want to touch him and I hoped Ma would do it but she kept looking at the kid 's clothes piled on the floor and the pool of water by them and did n't make any move to .
+		19 - Dist: 11.112051963806152 However , there is also much to be gained by making use of the abilities of the local people who are available and interested in recreation .
+		20 - Dist: 11.257332801818848 Ripe Geometric potters continued to employ the old syntax of ornaments and shapes and made use of the well-defined though limited range of motifs which they had inherited .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.02.make')
+Sense definition: give certain properties to something
+Number of sentences: 421
+Accuracy: 0.7624703087885986
+
+There are 50 embeddings closer to Lemma('make.v.01.do')
+Average distance of WRONG embeddings from nearest centroid: 12.42660903930664
+Average distance of CORRECT embeddings: 11.19630241394043
+		|
+		1 - Dist: 14.376896858215332 The subsequent two-weeks wait made the crew quarrelsome .
+		2 - Dist: 13.638345718383789 Admiralty law , the law merchant , and the host of problems which arise in private litigation because of some contact with a foreign country were all severed from the older Law of Nations and made dependent on the several national laws .
+		3 - Dist: 13.72855281829834 I tell you , I know how it is with you , my friend , I sympathize , and I 'll make it a special point - a special favor - get in touch , and get some stuff just for you .
+		4 - Dist: 11.72602367401123 `` Having all the guns makes you a big man , do n't it , Adams ?
+		5 - Dist: 11.572978973388672 `` Does this make it any easier , coward '' ?
+		6 - Dist: 11.308748245239258 Meanwhile , other air defense forces are being made effective , as described later in this message .
+		7 - Dist: 13.1195650100708 And most of all it is not having the only man you could love , whether he drives a bread truck or delivers the mail or checks the berry crates down at the sheds , or owns seventeen oil wells and six diamond mines , for if you are anybody what he is or does makes no difference if he is the one .
+		8 - Dist: 13.134929656982422 You wonder about the Christmas card with no name on it , and it comes to you that maybe it would have been better to have made somebody else happy if you could n't be happy yourself , to give somebody else the one they wanted - to give them you .
+		9 - Dist: 13.032037734985352 Back at the Factory-to-You with the other old maids , back there she was the youngest clerk and she was thirty-four , which made her young enough to resent the usual ideal working conditions , like the unventilated toilet with the door you had to hold shut while you sat down .
+		10 - Dist: 13.325504302978516 Pale yellow snapdragons that by pinching could be made to bite ; seed-pods of the balsams that snapped like fire-crackers at a touch ; red and yellow columbines whose round tipped spurs were picked off and eaten for the honey in them ; morning-glory buds which could be so grasped and squeezed that they burst like a blown-up paper bag ; bright flowers from the trumpet vine that made `` gloves '' on the ends of ten waggling fingers .
+		11 - Dist: 12.993884086608887 In other words , the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life , and that the new conspiracy counted on the general anti-Semitism that had made those measures effective , as a readiness for murder .
+		12 - Dist: 11.50674819946289 I said , `` Mr. McKenzie , it is as authentic as careful research can make it '' .
+		13 - Dist: 13.191651344299316 Johnson unwired the right hand door , whose window was , like the left one , merely loosely taped fragments of glass , and Johnson wadded himself into a narrow seat made still more narrow by three cases of beer .
+		14 - Dist: 11.638798713684082 `` You have made the labor worth while '' , he said to her , smiling .
+		15 - Dist: 11.625115394592285 `` If you will promise to make it weak '' .
+		16 - Dist: 13.766237258911133 If you are thinking of giving him a berth , be sure to make it a wide one '' .
+		17 - Dist: 13.056448936462402 They argue further ( and somewhat contradictorily ) that our knowledge and resources in preventive medicine would make it possible to control such an outbreak of disease .
+		18 - Dist: 11.912805557250977 The large land areas required for oxidation ponds made this type of treatment financially unattractive to the developer .
+		19 - Dist: 14.073175430297852 What you were looking for ( unless you make a hobby of collecting old tennis rackets and fly screens ) eludes me , but to judge from phonograph records scattered about a fumed oak Victrola , you danced two tangos and a paso doble , which must have been fairly enervating in that milieu .
+		20 - Dist: 12.449810028076172 We 'd seen his handiwork out in the back yard , and the little his tenants had told us of him did make him sound a little special .
+
+There are 50 embeddings closer to Lemma('make.v.01.make')
+Average distance of WRONG embeddings from nearest centroid: 11.676095008850098
+Average distance of CORRECT embeddings: 11.19630241394043
+		|
+		1 - Dist: 10.873612403869629 Beccaria had almost stumbled on a lead to the relationship between electricity and magnetism when a discharge from a Leyden jar was sent transversally through a piece of watch spring steel making its ends magnetic .
+		2 - Dist: 11.794442176818848 `` We '' were Bill Garrett of the National Geographic Illustrations Staff , whose three cameras and eight lenses made him look as formidable as any fighting man we met ; Boun My , our interpreter ; and myself .
+		3 - Dist: 9.931819915771484 Since the hazards of poor communication are so great , p can be justified as a habitable site only on the basis of unusual productivity such as is made available by a waterfall for milling purposes , a mine , or a sugar maple camp .
+		4 - Dist: 10.564687728881836 Mack 's the leader at camp , but Jack 's here , with this is deprived of stress , makes here the complement in the clause .
+		5 - Dist: 14.630008697509766 In the Steiners have busy lives without visiting relatives only context can indicate whether visiting relatives is equivalent in meaning to paying visits to relatives or to relatives who are visiting them , and in I looked up the number and I looked up the chimney only the meanings of number and chimney make it clear that up is syntactically a second complement in the first sentence and a preposition followed by its object in the second .
+		6 - Dist: 9.483948707580566 The change of emphasis from conventional type to missile type warfare must be made with care , mindful that the one type of warfare cannot be safely neglected in favor of the other .
+		7 - Dist: 10.758439064025879 If you are not well acquainted with the area in which you wish to locate , or if you are not sure that you and your family will like and make a success of farming , usually you would do better to rent a place for a year or two before you buy .
+		8 - Dist: 11.320770263671875 In other words , the promulgators of the murder plan made clear that physically exterminating the Jews was but an extension of the anti-Semitic measures already operating in every phase of German life , and that the new conspiracy counted on the general anti-Semitism that had made those measures effective , as a readiness for murder .
+		9 - Dist: 11.832910537719727 All checks and money orders should be made payable to Internal Revenue Service .
+		10 - Dist: 10.221835136413574 Refunds of less than $ 1 will not be made unless you attach a separate application to your return requesting such a refund .
+		11 - Dist: 11.968125343322754 He did n't look like what I thought of as an old man , and his lively and erudite speech made him seem even younger .
+		12 - Dist: 12.430874824523926 If these services are to be maintained , the New York Central must have the revenues to make them possible '' .
+		13 - Dist: 10.021333694458008 Lewis was a man who had made a full-time job of cow stealing .
+		14 - Dist: 10.985429763793945 Economic information is made available to businessmen and economists promptly through the monthly Survey of Current Business and its weekly supplement .
+		15 - Dist: 9.709692001342773 Three distinct classes of loans are made available to farmers ' cooperatives by the Banks for Cooperatives :
+		16 - Dist: 12.209875106811523 I learned , for example , that he made a practice of yapping at dogs he encountered and , in winter , of sprinkling salt on the icy pavement to scarify their feet .
+		17 - Dist: 11.600831985473633 Could your future , your immediate future , be made to include taking us upstairs , giving us a bit of space in which our friend can work , and making available to him your finger tips '' ?
+		18 - Dist: 11.107205390930176 And even as she , having indeed a husband , Adam , but being nevertheless as yet a virgin , having become disobedient , was made the cause of death , both to herself and to the entire human race ; so also did Mary , having a man betrothed [ to her ] , and being nevertheless a virgin , by yielding obedience , become the cause of salvation , both to herself and the whole human race '' .
+		19 - Dist: 11.810708045959473 Rep. Charles E. Hughes of Sherman , sponsor of the bill , said a failure to enact it would `` amount to making a gift out of the taxpayers ' pockets to banks , insurance and pipeline companies '' .
+		20 - Dist: 11.9343843460083 This delightful tropical fruit has become well-known in the past thirty years because modern transportation methods have made it possible to ship avocado anywhere in the United States .
+
+
+-----------------------------------------
+Errors for Lemma('make.v.01.do')
+Sense definition: engage in
+Number of sentences: 498
+Accuracy: 0.9156626506024097
+
+There are 42 embedding closer to Lemma('make.v.02.make')
+Average distance of WRONG embeddings from nearest centroid: 13.686864852905273
+Average distance of CORRECT embeddings: 11.393767356872559
+		|
+		1 - Dist: 12.224507331848145 Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage .
+		2 - Dist: 12.525632858276367 To free the factors of production was a major objective of the rising bourgeoisie , and this objective required that governmental authority - administrative officials and judges - be limited as precisely and explicitly as possible ; that old customs which inhibited trade be abrogated ; that business be free from governmental supervision and notions of morality which might clog the automatic adjustments of the free market ; that obligations of status that were inconsistent with the new politics and the new economics be done away with .
+		3 - Dist: 15.637151718139648 I 'm sure you won n't mind doing me a small favor '' .
+		4 - Dist: 15.68820571899414 By virtue of his self-reliance , his individualism and his freedom from external restraint , the private eye is a perfect embodiment of the middle class conception of liberty , which amounts to doing what you please and let the devil take the hindmost .
+		5 - Dist: 11.586552619934082 At any rate , the substance of Eichmann 's testimony was that all his actions flowed from his membership in the party and the SS , and though the Prosecutor did his utmost to prove actual personal hatred of Jews , his success on this score was doubtful and the anti-Semitic lesson weakened to that extent .
+		6 - Dist: 11.05750846862793 I remember once I did a jacket for Magpie Press ; the book was a fine historical novel about Edward 3 , , and I did a week of research to get the details just right : the fifteenth century armor , furnishings , clothes .
+		7 - Dist: 13.277453422546387 He was an artisan , a man who studied his trade and developed his craftsmanship the way a goldsmith or a wood carver did .
+		8 - Dist: 15.695150375366211 `` Listen , wise guy , if you think I 'm gonna do all the fighting for this ball club you 're crazy '' .
+		9 - Dist: 15.558615684509277 `` I 'm doing you a favor '' , Eddie said quickly .
+		10 - Dist: 16.661409378051758 I tell you when it 's necessary to hurt in order to win - you won n't do it .
+		11 - Dist: 15.711817741394043 Because that 's what you 're doing - wrecking it , wrecking it , wrecking it '' !
+		12 - Dist: 13.614150047302246 As the more conservative group with strong backing from wealthy businessmen , the U.M.C.I.A. was generally favored against the more progressive , labor based U.N.F.P. The newer party campaigned heavily , while the older , more confident party expected the Moroccan merchants and small businessmen to support them as they had done for many years .
+		13 - Dist: 15.683262825012207 On ships at sea , on railroad trains , in summer hotels with mountain views , they always said , `` I 've never done this before '' .
+		14 - Dist: 15.498785018920898 `` That 's one thing I 've never done '' , she said promptly .
+		15 - Dist: 13.317804336547852 Instead - and not just to prove my objectivity - I hasten to report that it 's a highly amusing film which probably does a fairly accurate job of reporting on the Easter vacation shenanigans of collegians down in Fort Lauderdale , and that it seems to come to grips quite honestly with the moral problem that most commonly vexes youngsters in this age group - that is to say , sex .
+		16 - Dist: 13.091562271118164 Sometimes he did n't seem to because he hid them so well he could n't find them himself or because he looked and did n't find anything and figured he had n't hid one after all or had drunk it up .
+		17 - Dist: 13.720211029052734 Hell 's own amount of chaulmoogra oil did nothing to alleviate their torment ; they expired amid indescribable fantods , imploring the Blessed One to forgive their desecration .
+		18 - Dist: 11.471389770507812 The ninth century was in its artistic work `` the spiritually freest and most self-sufficient between past and future '' , and the loving skill spent by its artists upon their products is a testimonial to their sense that what they were doing was important and was appreciated .
+		19 - Dist: 15.879984855651855 Seems like she 's willing , but the male just flops around all day like the bashful boy who took Jeannie May behind the barn and then did n't know what to do , and the people at the zoo have n't got any vulture chicks to show for their trouble .
+		20 - Dist: 12.514509201049805 No suburban shopping-center branch - not even Hudson 's vast Northland outside Detroit - does anything like the unit volume of business or carries anything like the variety of merchandise to be found in the home store .
+
+
+-----------------------------------------

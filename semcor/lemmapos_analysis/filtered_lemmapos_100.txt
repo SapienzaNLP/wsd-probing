@@ -1,0 +1,1103 @@
+Synsets with frequency > 100 
+Number of lemmapos: 55
+
+-----------------------------------------
+Wordnet Lemma: Lemma('be.v.01.be')
+Frequency of Synset('be.v.01'): 9825  (have the quality of being; (copula, used with an adjective or a predicate noun))
+	 1.Example sentence: How long has it been since you reviewed the objectives of your benefit and service program ? 
+	 2.Example sentence: Is it larger or fancier than you really need ? 
+	 3.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+	 4.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+
+Frequency of Synset('be.v.02'): 2858  (be identical to; be someone or something)
+	 1.Example sentence: What are the possibilities for operating your cafeteria for a single shift only and relying upon vending machines or prepackaged sandwiches for the second - and third shift operations ? 
+	 2.Example sentence: Consider what you can afford to spend and what your goals are before setting up or revamping your employee benefit program . 
+	 3.Example sentence: In granting bereavement leaves , specify the maximum time off and list what the worker 's relation to the deceased must be to qualify . 
+	 4.Example sentence: `` If there was collusion between an outside murderer and a member of the household it would be an elementary precaution to check on the door later . 
+
+Frequency of Synset('be.v.03'): 766  (occupy a certain position or area; be somewhere)
+	 1.Example sentence: In what section of the country are you located ? 
+	 2.Example sentence: Are you in a rural or urban area ? 
+	 3.Example sentence: Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock . 
+	 4.Example sentence: Mr. Hohlbein was out for the day , but Mr. Garth would be free at one-thirty . 
+
+Frequency of Synset('exist.v.01'): 788  (have an existence, be extant)
+	 1.Example sentence: Are there other , cheaper communications techniques that could be substituted ? 
+	 2.Example sentence: But even if that other plant employs the same number of workers and makes the same product , there are other facts to consider . 
+	 3.Example sentence: There are two sides of a coin for this decision . 
+	 4.Example sentence: Thus , there is an added incentive to stay on the job . 
+
+Frequency of Synset('be.v.05'): 662  (happen, occur, take place)
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Ahead were perilous , ice filled waters . 
+	 3.Example sentence: On previous voyages , it had been in precisely such dangerous situations that he had failed as a leader and captain . 
+	 4.Example sentence: To starboard was a cape a thousand feet high , patched with ice and snow , populated by thousands of screaming sea birds . 
+
+Frequency of Synset('equal.v.01'): 281  (be identical or equivalent to)
+	 1.Example sentence: Actually , only two men know what the formula is , Blake and '' - He stopped and looked at Thor 's body . 
+	 2.Example sentence: The estimated standard deviations of the data for two of the resistors were 1 millidegree ; and for the third resistor , 3.3 millidegrees . 
+	 3.Example sentence: The gradient was about one half of a millidegree at 4.2 * * f but increased to several millidegrees for bath temperatures slightly greater than the | l point . 
+	 4.Example sentence: The result has been neglect , fumbling efforts , or superficial treatment . 
+
+Frequency of Synset('constitute.v.01'): 215  (form or compose)
+	 1.Example sentence: It was a brilliant debut , so much so indeed that it aroused a new vitality in the younger poets , as did Byron 's Childe Harold . 
+	 2.Example sentence: To get it out into the daylight 's glow Is my life 's aim both first and last , the whole . 
+	 3.Example sentence: That little spark is all the wealth I know , That little spark is my life 's misery '' . 
+	 4.Example sentence: That little spark is all the wealth I know , That little spark is my life 's misery '' . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('let.v.01.permit')
+Frequency of Synset('permit.v.01'): 103  (consent to, give permission)
+	 1.Example sentence: He claims that he was denied due process of law in violation of the Fifth Amendment , because ( 1 ) at a hearing before a hearing officer of the Department of Justice , he was not permitted to rebut statements attributed to him by the local board , and ( 2 ) at the trial , he was denied the right to have the hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim . 
+	 2.Example sentence: He says that he was not permitted to rebut before the hearing officer statements attributed to him by the local board , and , further , that he was denied at trial the right to have the Department of Justice hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim - all in violation of the Fifth Amendment . 
+	 3.Example sentence: All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more than customarily encouraged . 
+	 4.Example sentence: No questions , statements , or explanations are permitted - only commands . 
+
+Frequency of Synset('let.v.01'): 309  (make it possible through a specific action or lack of action for something to happen)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: If coffee is sold at the cafeteria , let a few workers in each department get it for the whole group . 
+	 3.Example sentence: In the following sketch we shall present a brief outline of his life and let him as much as possible speak for himself . 
+	 4.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('become.v.02.become')
+Frequency of Synset('become.v.01'): 467  (enter or assume a certain state or condition)
+	 1.Example sentence: Even two or three years ago I doubt that she 'd have become involved in this unfortunate Johnston affair . 
+	 2.Example sentence: The theory of international law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality . 
+	 3.Example sentence: Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . 
+	 4.Example sentence: A Texan wrote to a male companion at home : `` What has become of Halda and Laura ? 
+
+Frequency of Synset('become.v.02'): 215  (undergo a change or development)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: The important result , however , was that Juet and Francis Clemens , the deposed boatswain , became Hudson 's sworn enemies . 
+	 3.Example sentence: In the century from 1815 to 1914 the law of nations became international law . 
+	 4.Example sentence: The European customs on which international law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('have.v.02.have')
+Frequency of Synset('have.v.01'): 1192  (have or possess, either in a concrete or an abstract sense)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in order to have an uninterrupted work week ? 
+	 3.Example sentence: If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ? 
+	 4.Example sentence: If you have an annual or regular physical examination program , is it worth what it is costing you ? 
+
+Frequency of Synset('have.v.02'): 385  (have as a feature)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: Hallmark Cards , Inc. , Kansas City , Mo. , has a do-it-yourself quiz game called `` Benefit Bafflers '' , which it distributes to employees . 
+	 3.Example sentence: Make sure you have minimum age and time on the job requirements tied into your pension plan . 
+	 4.Example sentence: Also make sure you have reasonable requirements as to hours worked before a production employee is entitled to a vacation . 
+
+Frequency of Synset('experience.v.03'): 249  (go through (mental or physical states or experiences))
+	 1.Example sentence: Even Hudson , experienced in Arctic sailing and determined as he was , must have had qualms as he slid down the Thames . 
+	 2.Example sentence: Professor Fredrik Bo ^ o ^ k , Sweden 's foremost critic of the period , acclaims it as follows : `` In this we have the verse of a painter ; strongly colorful , plastic , racy , vivid . 
+	 3.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+	 4.Example sentence: Boun My - the name means one who has a boun , a celebration , and is therefore lucky - was born in Savannakhet , the Border of Paradise . 
+
+Frequency of Synset('own.v.01'): 151  (have ownership or possession of)
+	 1.Example sentence: Youngish man on the make , Madden labeled him , and was ready to guess that in a correct , not too pushing fashion , the junior partner of the firm had political ambitions ; that Mrs. Garth would be impeccably suitable as the wife of a rising young lawyer ; that there were three children , two boys and a girl ; that she was active in the Woman 's Club and he in Lions , Rotary , and Jaycee ; and finally , that neither of them had harbored an unorthodox opinion since their wedding day . 
+	 2.Example sentence: Deciding to become a painter , he entered the studio of Gerome in Paris , where he enjoyed the life of the artists , but soon found that whatever talent he might have did not lie in that direction . 
+	 3.Example sentence: Rebs who owned slaves occasionally would include in their letters admonitions or greetings to members of the Negro community . 
+	 4.Example sentence: I would tell them I got a letter from home stating that five of my Negroes had run away and ten of Pappies But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' . 
+
+Frequency of Synset('get.v.03'): 144  (cause to move; cause to be in a certain position or condition)
+	 1.Example sentence: Have the insurance company or your own accounting department break down the cost of your insurance package periodically . 
+	 2.Example sentence: An attempt should be made to see if electricity , in its most latent stage , has any action on the magnet as such '' . 
+	 3.Example sentence: The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort . 
+	 4.Example sentence: Really he had Mr. Skyros at bay . 
+
+Frequency of Synset('hold.v.03'): 119  (organize or be responsible for)
+	 1.Example sentence: The trial was held September 10 . 
+	 2.Example sentence: We have 2500 such projects , and they add up to a lot more than just roads and wells and schools . 
+	 3.Example sentence: In the following year her father undertook to give a course in Hebrew theology to Johns Hopkins students , and this brought to the Szold house a group of bright young Jews who had come to Baltimore to study , and who enjoyed being fed and mothered by Mamma and entertained by Henrietta and Rachel , who played and sang for them in the upstairs sitting room on Sunday evenings . 
+	 4.Example sentence: The reception was held in a private dining room of the Webster Hotel on Lincoln Park West . 
+
+Frequency of Synset('induce.v.02'): 122  (cause to do; cause to act in a specified manner)
+	 1.Example sentence: At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . 
+	 2.Example sentence: He devised a detonating fuse in which a short wire was caused to glow by an electric current . 
+	 3.Example sentence: Scarcity of paper caused many Southerners to adopt the practice of cross writing , i. e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . 
+	 4.Example sentence: As luck had it , he had not gone twenty feet in the street before Pat appeared . 
+
+Frequency of Synset('receive.v.01'): 127  (get something; come into possession of)
+	 1.Example sentence: Of these there are surely few that would be more rewarding discoveries than Verner von Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago . 
+	 2.Example sentence: In this final line , we have the key to his nature . 
+	 3.Example sentence: Still another , annoyed by the brevity of a recently received missive , wrote : `` Yore letter was short and sweet , jist like a roasted maget '' . 
+	 4.Example sentence: After he had been away from home about a year he wrote : `` [ Dear Wife ] If I did not write and receive letters from you I believe that I would forgit that I was married I do n't feel much like a maryed man but I never forgit it sofar as to court enny other lady but if I should you must forgive me as I am so forgitful '' . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('make.v.01.make')
+Frequency of Synset('make.v.01'): 953  (engage in)
+	 1.Example sentence: What effort do you make to assess results of your program ? 
+	 2.Example sentence: Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such as was done in the union contract recently signed by American Motors Corporation ? 
+	 3.Example sentence: What can your sales and purchasing departments do to curtail orders , shipments , and receipts during vacation shutdown periods ? 
+	 4.Example sentence: What sort of effort do you make to assure that older or disabled workers are fully productive ? 
+
+Frequency of Synset('make.v.02'): 423  (give certain properties to something)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee . 
+	 3.Example sentence: Make sure you have minimum age and time on the job requirements tied into your pension plan . 
+	 4.Example sentence: Make sure you do n't pay for holidays that occur when an employee would not otherwise be working . 
+
+Frequency of Synset('make.v.03'): 326  (make or cause to be or to become)
+	 1.Example sentence: These factors can make the difference between waste and efficiency in any benefit program . 
+	 2.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 3.Example sentence: `` Was she in the habit of making new wills '' ? 
+	 4.Example sentence: She had reason to change the one she made right after Mr. Meeker 's death . 
+
+Frequency of Synset('induce.v.02'): 122  (cause to do; cause to act in a specified manner)
+	 1.Example sentence: At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . 
+	 2.Example sentence: He devised a detonating fuse in which a short wire was caused to glow by an electric current . 
+	 3.Example sentence: Scarcity of paper caused many Southerners to adopt the practice of cross writing , i. e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . 
+	 4.Example sentence: As luck had it , he had not gone twenty feet in the street before Pat appeared . 
+
+Frequency of Synset('cause.v.01'): 194  (give rise to; cause to happen or occur, not always intentionally)
+	 1.Example sentence: Law became a conscious process , something more than simply doing justice and looking to local customs and a common morality for applicable norms . 
+	 2.Example sentence: It was with the assistance of one of the members of this expedition , Lauritz Esmarch , that Oersted succeeded in producing light by creating an electric discharge in mercury vapor through which an electric current was made to flow . 
+	 3.Example sentence: This damage had been done in the battle of Vientiane , fought less than three months earlier when four successive governments had ruled here in three days ( December 9 - 11 , 1960 ) . 
+	 4.Example sentence: If Mr. Skyros had dreamed of all the trouble that young man would eventually cause - 
+
+Frequency of Synset('construct.v.01'): 155  (make by combining materials and parts)
+	 1.Example sentence: Strindberg 's remedy for this condition was to tear down the old structures and build anew from the ground up . 
+	 2.Example sentence: The Palace was an elaborate establishment , built practically on stilts in front , with long flights of wooden steps running up to the porch . 
+	 3.Example sentence: An acoustical interferometer has been constructed and used , with helium gas as the thermometric fluid , to measure temperatures near 4.2 and 2.1 * * f . 
+	 4.Example sentence: A wall stabilized high current arc source was constructed and used to study transition probabilities of atomic hydrogen and oxygen . 
+
+Frequency of Synset('reach.v.01'): 113  (reach a destination, either real or abstract)
+	 1.Example sentence: When she reached port , she was found to have on board only eight men , all near starvation . 
+	 2.Example sentence: On May 11 , she reached Iceland . 
+	 3.Example sentence: It reached its ultimate philosophical statement in notions of `` state will '' put forward by the Germans , especially by Hegel , although political philosophers will recognize its origins in the rejected doctrines of Hobbes . 
+	 4.Example sentence: In `` The King 's Ride '' , Charles breaks out of a long period of petulance and inertia , regains his old self , escapes from Turkey , and finally reaches his own land after an absence of eighteen years . 
+
+Frequency of Synset('hold.v.03'): 119  (organize or be responsible for)
+	 1.Example sentence: The trial was held September 10 . 
+	 2.Example sentence: We have 2500 such projects , and they add up to a lot more than just roads and wells and schools . 
+	 3.Example sentence: In the following year her father undertook to give a course in Hebrew theology to Johns Hopkins students , and this brought to the Szold house a group of bright young Jews who had come to Baltimore to study , and who enjoyed being fed and mothered by Mamma and entertained by Henrietta and Rachel , who played and sang for them in the upstairs sitting room on Sunday evenings . 
+	 4.Example sentence: The reception was held in a private dining room of the Webster Hotel on Lincoln Park West . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('want.v.02.need')
+Frequency of Synset('necessitate.v.01'): 320  (require as useful, just, or proper)
+	 1.Example sentence: Which is more economical for your plant - a vacation shutdown or spaced vacations that require extra employees for vacation fill-ins ? 
+	 2.Example sentence: The whole thing , his manner conveyed , was so far outside the normal routine of Hohlbein and Garth that it practically demanded being swept under the rug . 
+	 3.Example sentence: On the one hand , the major European nations had to maintain vis-a-vis each other an emphasis upon sovereignty , independence , formal equality - thus insuring for themselves individually an optimal freedom of action to maintain the `` flexibility of alignment '' that the system required and to avoid anything approaching a repetition of the disastrous Napoleonic experience . 
+	 4.Example sentence: The theory did not require , though it unfortunately might acquire , a Hegelian mystique . 
+
+Frequency of Synset('want.v.02'): 115  (have need of)
+	 1.Example sentence: Is it larger or fancier than you really need ? 
+	 2.Example sentence: If you want credit for your employee services program , let your workers know what they 're entitled to . 
+	 3.Example sentence: `` We ask the people what they want , and they supply the labor . 
+	 4.Example sentence: The congregation perishes when it is no longer possible to replenish that core from the neighborhood ; moreover , residential mobility is so high in metropolitan areas that churches have to recruit constantly in their core stratum in order to survive ; they can lose higher - and lower status members from the church without collapsing , but they need adequate recruits for the core stratum in order to preserve economic integration . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('consider.v.05.consider')
+Frequency of Synset('see.v.05'): 191  (deem to be)
+	 1.Example sentence: `` A gift horse to be viewed with suspicion '' . 
+	 2.Example sentence: First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . 
+	 3.Example sentence: National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . 
+	 4.Example sentence: In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . 
+
+Frequency of Synset('think.v.01'): 279  (judge or regard; look upon; judge)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: An Alabama soldier whose feminine associations were of the more admirable type wrote boastfully of his achievements among the Virginia belles : `` They thout I was a saint . 
+	 3.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+	 4.Example sentence: Their product had been endorsed by Good Housekeeping , the A. M. A. , and the Veterinary Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('make.v.01.do')
+Frequency of Synset('make.v.01'): 953  (engage in)
+	 1.Example sentence: What effort do you make to assess results of your program ? 
+	 2.Example sentence: Can you consider restricting any additional employee benefits to those paid for by profit-sharing money , such as was done in the union contract recently signed by American Motors Corporation ? 
+	 3.Example sentence: What can your sales and purchasing departments do to curtail orders , shipments , and receipts during vacation shutdown periods ? 
+	 4.Example sentence: What sort of effort do you make to assure that older or disabled workers are fully productive ? 
+
+Frequency of Synset('perform.v.01'): 196  (carry out or perform an action)
+	 1.Example sentence: Early in the war it was not uncommon for planters ' sons to retain in camp Negro `` body servants '' to perform the menial chores such as cooking , foraging , cleaning the quarters , shining shoes , and laundering clothes . 
+	 2.Example sentence: `` That 's the last one we did . 
+	 3.Example sentence: My lovely caller - Joyce Holland was her name - had previously done three filmed commercials for ZING , and this evening , the fourth , a super production , had been filmed at the home of Louis Thor . 
+	 4.Example sentence: What Joyce wanted me to do was go to Thor 's house and `` do whatever detectives do '' , and get her clothes - and handbag containing her identification . 
+
+Frequency of Synset('do.v.03'): 125  (get (something) done)
+	 1.Example sentence: Together they had probably done more than any other men to help push Laos toward the 20 th century - constructively . 
+	 2.Example sentence: `` I 've done several filmed commercials for - '' . 
+	 3.Example sentence: `` It depends on who does it . 
+	 4.Example sentence: Upon administrative approval of the reclassification , he was ordered to report for induction on June 11 , 1956 , but failed to do so . 
+
+Frequency of Synset('cause.v.01'): 194  (give rise to; cause to happen or occur, not always intentionally)
+	 1.Example sentence: Law became a conscious process , something more than simply doing justice and looking to local customs and a common morality for applicable norms . 
+	 2.Example sentence: It was with the assistance of one of the members of this expedition , Lauritz Esmarch , that Oersted succeeded in producing light by creating an electric discharge in mercury vapor through which an electric current was made to flow . 
+	 3.Example sentence: This damage had been done in the battle of Vientiane , fought less than three months earlier when four successive governments had ruled here in three days ( December 9 - 11 , 1960 ) . 
+	 4.Example sentence: If Mr. Skyros had dreamed of all the trouble that young man would eventually cause - 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('understand.v.01.understand')
+Frequency of Synset('understand.v.01'): 105  (know and comprehend the nature or meaning of)
+	 1.Example sentence: Do your employees understand all the benefits to which your insurance entitles them ? 
+	 2.Example sentence: Few writers have better understood their deepest selves . 
+	 3.Example sentence: Neither of them , I understood , had been present at the filming session earlier . 
+	 4.Example sentence: In the extreme and oversimplified example suggested in Figure 3 , the organization is more easily understood and more predictable in behavior . 
+
+Frequency of Synset('understand.v.02'): 197  (perceive (an idea or situation) mentally)
+	 1.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 2.Example sentence: She 'd have consulted us , you see . 
+	 3.Example sentence: `` I scanned the world through printed symbol swart , And through the beggar 's rags I strove to see The inner man . 
+	 4.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('move.v.02.move')
+Frequency of Synset('travel.v.01'): 375  (change location; move, travel, or proceed, also metaphorically)
+	 1.Example sentence: He thereupon went to London and spent the winter talking to men of wealth . 
+	 2.Example sentence: The two older boys , Hans and Anders , his junior by a year , therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German ; his wife taught the two boys to read and write Danish . 
+	 3.Example sentence: In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy . 
+	 4.Example sentence: A third remarked of slowness of Southerners : `` They moved about from corner to corner , as uneasy as a litter of hungry leaches on the neck of a wooden god '' . 
+
+Frequency of Synset('go.v.02'): 107  (follow a procedure or take a course)
+	 1.Example sentence: Some plants go overboard on one type of fringe - say a liberal retirement plan - and find themselves vulnerable elsewhere . 
+	 2.Example sentence: Do n't go overboard on insurance that pays benefits only upon death . 
+	 3.Example sentence: In fact , some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm , Pacta sunt Servanda . 
+	 4.Example sentence: `` Go through his pockets , will you ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('time.n.01.time')
+Frequency of Synset('time.n.01'): 195  (an instance or single occasion for some event)
+	 1.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+	 2.Example sentence: Are you carefully policing wash-up time and rest periods to be certain that all other time is productive ? 
+	 3.Example sentence: Unions stress fringe benefits , but the individual hourly worker prefers cash every time . 
+	 4.Example sentence: This will mean that every time there 's an increase in hospital rates your cost will go up in like manner . 
+
+Frequency of Synset('time.n.02'): 151  (a period of time considered as a resource under your control and sufficient to accomplish something)
+	 1.Example sentence: To begin the interview , he asked if Thayer , with more time to think it over , could add to what he had said the other day about Johnston . 
+	 2.Example sentence: He admitted that he knew it was open to him at all times , and he could have rebutted it before the hearing officer . 
+	 3.Example sentence: For a time the President received hundreds of them every day , most of them worthless . 
+	 4.Example sentence: This agreement is considered very good for such short time intervals . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('so.r.02.so')
+Frequency of Synset('so.r.01'): 306  (to a very great extent or degree)
+	 1.Example sentence: Madden regretted not being able to find fault with so true a statement . 
+	 2.Example sentence: The lawyer did n't know him very well although he saw him occasionally at some dinner party - Thayer , like himself , Madden reflected , was the extra man so prized by hostesses - and found him easy enough to talk to . 
+	 3.Example sentence: The whole thing , his manner conveyed , was so far outside the normal routine of Hohlbein and Garth that it practically demanded being swept under the rug . 
+	 4.Example sentence: Historians have had two reasons for persisting so long in their investigations . 
+
+Frequency of Synset('then.r.01'): 297  (subsequently or soon afterward (often used as sentence connectors))
+	 1.Example sentence: He scooped up the receiver and said , `` Police chief '' , into the mouthpiece , and then , `` Oh yes , Mr. Benson . 
+	 2.Example sentence: Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock . 
+	 3.Example sentence: For the first three weeks , the ship skirted up the east coast of Great Britain , then turned westward . 
+	 4.Example sentence: After finding that its coasts led nowhere , however , he turned north again , toward the main , ice filled passageway - and the crew , at first uneasy , then frightened , rebelled . 
+
+Frequency of Synset('therefore.r.01'): 200  ((used to introduce a logical conclusion) from that fact or reason or as a result)
+	 1.Example sentence: The blue-collar worker thus knows his insurance package , for example , costs $ 227.72 . 
+	 2.Example sentence: Thus , there is an added incentive to stay on the job . 
+	 3.Example sentence: Thus the Congress marks a formal recognition of the political system that was central to world politics for a century . 
+	 4.Example sentence: Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('entirely.r.02.only')
+Frequency of Synset('merely.r.01'): 443  (and nothing more)
+	 1.Example sentence: Are you spending too much money on team uniforms that benefit only a few employees ? 
+	 2.Example sentence: Too many plant officials are all too eager to buy a package program from an insurance company simply because it works for another plant . 
+	 3.Example sentence: Above all , do n't set up extravagant fringe benefits just to buy employee good will . 
+	 4.Example sentence: Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it . 
+
+Frequency of Synset('entirely.r.02'): 258  (without any others being included or involved)
+	 1.Example sentence: What are the possibilities for operating your cafeteria for a single shift only and relying upon vending machines or prepackaged sandwiches for the second - and third shift operations ? 
+	 2.Example sentence: If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ? 
+	 3.Example sentence: Do n't go overboard on insurance that pays benefits only upon death . 
+	 4.Example sentence: Of only one could he be sure - young John Hudson , his second son . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('know.v.01.know')
+Frequency of Synset('know.v.01'): 546  (be cognizant or aware of a fact or a specific piece of information; possess knowledge or information about)
+	 1.Example sentence: Do you know the trend in your cost of maintaining access roads and parking lots ? 
+	 2.Example sentence: If you want credit for your employee services program , let your workers know what they 're entitled to . 
+	 3.Example sentence: The blue-collar worker thus knows his insurance package , for example , costs $ 227.72 . 
+	 4.Example sentence: He said that he had already told the police chief that he did n't know what insurance man had recommended Johnston to Mrs. Meeker . 
+
+Frequency of Synset('know.v.02'): 136  (know how to do or perform something)
+	 1.Example sentence: That little spark is all the wealth I know , That little spark is my life 's misery '' . 
+	 2.Example sentence: So we see that a specialist is a man who knows more and more about less and less as he develops , as contrasted to the generalist , who knows less and less about more and more . 
+	 3.Example sentence: So we see that a specialist is a man who knows more and more about less and less as he develops , as contrasted to the generalist , who knows less and less about more and more . 
+	 4.Example sentence: Angie knew too much entirely already . 
+
+Frequency of Synset('know.v.03'): 111  (be aware of the truth of something; have a belief or faith in something; regard as true beyond any doubt)
+	 1.Example sentence: Madden knew that he could be completely wrong about all this , but also knew that he would go right on disliking Garth . 
+	 2.Example sentence: Madden knew that he could be completely wrong about all this , but also knew that he would go right on disliking Garth . 
+	 3.Example sentence: At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' . 
+	 4.Example sentence: The inspector knew as he left that this was wishful thinking . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('necessitate.v.01.require')
+Frequency of Synset('necessitate.v.01'): 320  (require as useful, just, or proper)
+	 1.Example sentence: Which is more economical for your plant - a vacation shutdown or spaced vacations that require extra employees for vacation fill-ins ? 
+	 2.Example sentence: The whole thing , his manner conveyed , was so far outside the normal routine of Hohlbein and Garth that it practically demanded being swept under the rug . 
+	 3.Example sentence: On the one hand , the major European nations had to maintain vis-a-vis each other an emphasis upon sovereignty , independence , formal equality - thus insuring for themselves individually an optimal freedom of action to maintain the `` flexibility of alignment '' that the system required and to avoid anything approaching a repetition of the disastrous Napoleonic experience . 
+	 4.Example sentence: The theory did not require , though it unfortunately might acquire , a Hegelian mystique . 
+
+Frequency of Synset('want.v.02'): 115  (have need of)
+	 1.Example sentence: Is it larger or fancier than you really need ? 
+	 2.Example sentence: If you want credit for your employee services program , let your workers know what they 're entitled to . 
+	 3.Example sentence: `` We ask the people what they want , and they supply the labor . 
+	 4.Example sentence: The congregation perishes when it is no longer possible to replenish that core from the neighborhood ; moreover , residential mobility is so high in metropolitan areas that churches have to recruit constantly in their core stratum in order to survive ; they can lose higher - and lower status members from the church without collapsing , but they need adequate recruits for the core stratum in order to preserve economic integration . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('now.r.01.now')
+Frequency of Synset('now.r.01'): 223  (in the historical present; at this point in the narration of a series of past events)
+	 1.Example sentence: If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ? 
+	 2.Example sentence: The man who now commanded her had started the voyage as an ordinary seaman . 
+	 3.Example sentence: In 1602 , George Waymouth , in the same little Discovery that Hudson now commanded , had sailed 300 miles up the strait before his frightened men turned the ship back . 
+	 4.Example sentence: Hudson now proposed to sail all the way through and test the seas beyond for the long sought waterway . 
+
+Frequency of Synset('nowadays.r.01'): 201  (in these times; - Nancy Mitford)
+	 1.Example sentence: As the bergs grew larger , Hudson was forced to turn south into what is now Ungava Bay , an inlet of the great strait . 
+	 2.Example sentence: Hudson pointed the Discovery down the east coast of the newly discovered sea ( now called Hudson Bay ) , confident he was on his way to the warm waters of the Pacific . 
+	 3.Example sentence: Ritter proceeded , `` You now emerge into a new epoch in which late in the year 1819 or 1820 , you will have to reckon . 
+	 4.Example sentence: I could tell you of plenty narrow escapes , but we take no notice of them now '' . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('country.n.02.country')
+Frequency of Synset('state.n.04'): 122  (a politically organized body of people under a single government)
+	 1.Example sentence: Here in 1815 the great nations assembled to legislate not merely for Europe , but for the world . 
+	 2.Example sentence: Essentially this imposed two conditions : First , international law had to recognize and be compatible with an international political system in which a number of states were competitive , suspicious , and opportunistic in their political alignments with one another ; second , it had to be compatible with the value system that they shared . 
+	 3.Example sentence: Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . 
+	 4.Example sentence: Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . 
+
+Frequency of Synset('area.n.01'): 149  (a particular geographical region of indefinite boundary (usually serving some special purpose or distinguished by its people or culture or geography))
+	 1.Example sentence: Do you plan to limit additional holidays to area and / or industrial patterns ? 
+	 2.Example sentence: After three weeks ' swift sailing , however , the ship entered an area of shallow marshes and river deltas . 
+	 3.Example sentence: They spread over an area no larger than Oregon ; yet they include peoples as different from one another as Oregonians are from Patagonians . 
+	 4.Example sentence: Two uniformed officers , a couple of plain-clothesmen I knew , and two other men stood on a gray cement area next to the pool on my left . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('merely.r.01.just')
+Frequency of Synset('merely.r.01'): 443  (and nothing more)
+	 1.Example sentence: Are you spending too much money on team uniforms that benefit only a few employees ? 
+	 2.Example sentence: Too many plant officials are all too eager to buy a package program from an insurance company simply because it works for another plant . 
+	 3.Example sentence: Above all , do n't set up extravagant fringe benefits just to buy employee good will . 
+	 4.Example sentence: Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it . 
+
+Frequency of Synset('precisely.r.01'): 140  (indicating exactness or preciseness)
+	 1.Example sentence: At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' . 
+	 2.Example sentence: On previous voyages , it had been in precisely such dangerous situations that he had failed as a leader and captain . 
+	 3.Example sentence: During the nineteenth century these views were protested by virtually all the Latin American writers , though ineffectively , just as the new nations of Africa and Asia protest them , with more effect , today . 
+	 4.Example sentence: One could also add to these analogies that steel loses its magnetism by heat , which proves that steel becomes a better conductor through a rise in temperature , just as electrical bodies do . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('go.v.02.go')
+Frequency of Synset('travel.v.01'): 375  (change location; move, travel, or proceed, also metaphorically)
+	 1.Example sentence: He thereupon went to London and spent the winter talking to men of wealth . 
+	 2.Example sentence: The two older boys , Hans and Anders , his junior by a year , therefore went daily to the home of a warm and friendly wigmaker nearby for instruction in German ; his wife taught the two boys to read and write Danish . 
+	 3.Example sentence: In 1800 , Manthey went abroad and Oersted was appointed manager of the Lion Pharmacy . 
+	 4.Example sentence: A third remarked of slowness of Southerners : `` They moved about from corner to corner , as uneasy as a litter of hungry leaches on the neck of a wooden god '' . 
+
+Frequency of Synset('go.v.02'): 107  (follow a procedure or take a course)
+	 1.Example sentence: Some plants go overboard on one type of fringe - say a liberal retirement plan - and find themselves vulnerable elsewhere . 
+	 2.Example sentence: Do n't go overboard on insurance that pays benefits only upon death . 
+	 3.Example sentence: In fact , some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm , Pacta sunt Servanda . 
+	 4.Example sentence: `` Go through his pockets , will you ? 
+
+Frequency of Synset('become.v.01'): 467  (enter or assume a certain state or condition)
+	 1.Example sentence: Even two or three years ago I doubt that she 'd have become involved in this unfortunate Johnston affair . 
+	 2.Example sentence: The theory of international law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality . 
+	 3.Example sentence: Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . 
+	 4.Example sentence: A Texan wrote to a male companion at home : `` What has become of Halda and Laura ? 
+
+Frequency of Synset('die.v.01'): 133  (pass from physical life and lose all bodily attributes and functions necessary to sustain life)
+	 1.Example sentence: `` He 's just heard from the pathologist who says Mrs. Meeker apparently died from suffocation '' . 
+	 2.Example sentence: The duration of the digestive process varies , the pathologist says , but the empty stomach and the findings in the upper gastrointestinal tract indicate that Mrs. Meeker died several hours after her seven o ' clock dinner . 
+	 3.Example sentence: But he plunges into yet another , this time with Norway , and is killed in an assault on the fortress of Fredrikshall , being only thirty-six years of age when he died . 
+	 4.Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('suppose.v.01.say')
+Frequency of Synset('state.v.01'): 1947  (express in words)
+	 1.Example sentence: `` That damn door '' , said the police chief . 
+	 2.Example sentence: He scooped up the receiver and said , `` Police chief '' , into the mouthpiece , and then , `` Oh yes , Mr. Benson . 
+	 3.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 4.Example sentence: At last he said , `` Well , thank you for calling , Mr. Benson . 
+
+Frequency of Synset('allege.v.01'): 219  (report or maintain)
+	 1.Example sentence: `` He 's just heard from the pathologist who says Mrs. Meeker apparently died from suffocation '' . 
+	 2.Example sentence: The duration of the digestive process varies , the pathologist says , but the empty stomach and the findings in the upper gastrointestinal tract indicate that Mrs. Meeker died several hours after her seven o ' clock dinner . 
+	 3.Example sentence: In fact , some - Anzilotti is the principle example - went so far as to say that all international law could be traced to the single legal norm , Pacta sunt Servanda . 
+	 4.Example sentence: The supreme object of their lives is now fulfilled , says the wife , her husband has achieved immortality . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('find.v.13.find')
+Frequency of Synset('find.v.01'): 165  (come upon, as if by accident; meet with)
+	 1.Example sentence: For hundreds of years , the evidence available consisted of ( 1 ) the captain 's fragmentary journal , ( 2 ) a highly prejudiced account by one of the survivors , ( 3 ) a note found in a dead man 's desk on board , and ( 4 ) several second-hand reports . 
+	 2.Example sentence: But since 1927 , researchers digging into ancient court records and legal files have been able to find illuminating pieces of information . 
+	 3.Example sentence: What he really wants is to find `` a sacred cause '' to which he can honestly devote himself . 
+	 4.Example sentence: From this time on Heidenstam proceeded to find his deeper self . 
+
+Frequency of Synset('detect.v.01'): 230  (discover or determine the existence, presence, or fact of)
+	 1.Example sentence: You may find certain coverage costing much more than is economically feasible , thereby alerting you to desirable revisions . 
+	 2.Example sentence: `` Well , with a house as big as that there must be at least one cellar window that would n't be noticed right away unless there was a police investigation '' . 
+	 3.Example sentence: Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities . 
+	 4.Example sentence: `` Mr. Hohlbein and I have noticed some lapses since , though . 
+
+Frequency of Synset('determine.v.01'): 167  (establish after a calculation, investigation, experiment, survey, or study)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: This is the story of his last tragic voyage , as nearly as we are able - or ever , probably , will be able - to determine : 
+	 3.Example sentence: After finding that its coasts led nowhere , however , he turned north again , toward the main , ice filled passageway - and the crew , at first uneasy , then frightened , rebelled . 
+	 4.Example sentence: No longer did the sovereign look to the law of nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action . 
+
+Frequency of Synset('find.v.05'): 185  (come to believe on the basis of emotion, intuitions, or indefinite grounds)
+	 1.Example sentence: Some companies find a little imagination helpful . 
+	 2.Example sentence: Arthur Williams 's might well have been included , he felt . 
+	 3.Example sentence: By that , one feels that magnetic forces are as general as electrical forces . 
+	 4.Example sentence: Women themselves have come to look upon matters in the same light as the outside world , and scarcely find any wrong in submitting to the importunities of a stronger will , even when their affections are withheld . 
+
+Frequency of Synset('witness.v.02'): 167  (perceive or be contemporaneous with)
+	 1.Example sentence: He finds it in utter misery and desolation . 
+	 2.Example sentence: In 1793 the brothers decided to enter the University of Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session . 
+	 3.Example sentence: This we might well witness '' . 
+	 4.Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it . 
+
+Frequency of Synset('receive.v.02'): 119  (receive a specified treatment (abstract))
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Humor found many modes of expression . 
+	 3.Example sentence: A smart , shrewd and ambitious young man , well connected , and with a knack for getting in the good graces of important people , he was bound to go far . 
+	 4.Example sentence: `` Sure , sure , you 're the one take over for Pretty , soon as I get the supply , get started up again , is n't it ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('want.v.02.want')
+Frequency of Synset('desire.v.01'): 394  (feel or have a desire for; want strongly)
+	 1.Example sentence: Thus , you avoid headaches when an employee wants off for his fourth cousin 's funeral . 
+	 2.Example sentence: She wanted to make a more equitable distribution of it among the groups that would benefit the most ; particularly the scholarship fund . 
+	 3.Example sentence: At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' . 
+	 4.Example sentence: First , they wanted to clarify a tantalizing , bizarre enigma . 
+
+Frequency of Synset('want.v.02'): 115  (have need of)
+	 1.Example sentence: Is it larger or fancier than you really need ? 
+	 2.Example sentence: If you want credit for your employee services program , let your workers know what they 're entitled to . 
+	 3.Example sentence: `` We ask the people what they want , and they supply the labor . 
+	 4.Example sentence: The congregation perishes when it is no longer possible to replenish that core from the neighborhood ; moreover , residential mobility is so high in metropolitan areas that churches have to recruit constantly in their core stratum in order to survive ; they can lose higher - and lower status members from the church without collapsing , but they need adequate recruits for the core stratum in order to preserve economic integration . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('let.v.02.let')
+Frequency of Synset('let.v.01'): 309  (make it possible through a specific action or lack of action for something to happen)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: If coffee is sold at the cafeteria , let a few workers in each department get it for the whole group . 
+	 3.Example sentence: In the following sketch we shall present a brief outline of his life and let him as much as possible speak for himself . 
+	 4.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+
+Frequency of Synset('permit.v.01'): 103  (consent to, give permission)
+	 1.Example sentence: He claims that he was denied due process of law in violation of the Fifth Amendment , because ( 1 ) at a hearing before a hearing officer of the Department of Justice , he was not permitted to rebut statements attributed to him by the local board , and ( 2 ) at the trial , he was denied the right to have the hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim . 
+	 2.Example sentence: He says that he was not permitted to rebut before the hearing officer statements attributed to him by the local board , and , further , that he was denied at trial the right to have the Department of Justice hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim - all in violation of the Fifth Amendment . 
+	 3.Example sentence: All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more than customarily encouraged . 
+	 4.Example sentence: No questions , statements , or explanations are permitted - only commands . 
+
+Frequency of Synset('get.v.03'): 144  (cause to move; cause to be in a certain position or condition)
+	 1.Example sentence: Have the insurance company or your own accounting department break down the cost of your insurance package periodically . 
+	 2.Example sentence: An attempt should be made to see if electricity , in its most latent stage , has any action on the magnet as such '' . 
+	 3.Example sentence: The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort . 
+	 4.Example sentence: Really he had Mr. Skyros at bay . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('give.v.03.give')
+Frequency of Synset('give.v.01'): 171  (cause to have, in the abstract sense or physical sense)
+	 1.Example sentence: It 's usually not too hard to sell workers on this as it gives them longer holiday periods . 
+	 2.Example sentence: In 1609 , the Dutch East India Company hired Hudson , gave him two learned geographers , fitted him out with a ship called the Half Moon , and supplied him with Dutch sailors . 
+	 3.Example sentence: When you see them again give them my love - not best respects now , but love by God '' . 
+	 4.Example sentence: Petitioner first contends that the Department denied him procedural due process by not giving him timely opportunity , before its final recommendation to the appeal board , to answer the statement of the local board as to his claim of devoting 100 hours to actual preaching . 
+
+Frequency of Synset('yield.v.01'): 176  (be the cause or source of)
+	 1.Example sentence: Not enough to do away with all doubts , but sufficient to give a fairly accurate picture of the events of the voyage . 
+	 2.Example sentence: A Yankee sergeant gave the following description of his sweetheart : `` My girl is none of your one-horse girls . 
+	 3.Example sentence: A Georgia soldier gave his wife the following description of the cause and consequence of diarrhoea : `` I have bin a little sick with diorah two or three days . 
+	 4.Example sentence: The PM might show he drowned instead , but that 's what the once-over-lightly gives us . 
+
+Frequency of Synset('hold.v.03'): 119  (organize or be responsible for)
+	 1.Example sentence: The trial was held September 10 . 
+	 2.Example sentence: We have 2500 such projects , and they add up to a lot more than just roads and wells and schools . 
+	 3.Example sentence: In the following year her father undertook to give a course in Hebrew theology to Johns Hopkins students , and this brought to the Szold house a group of bright young Jews who had come to Baltimore to study , and who enjoyed being fed and mothered by Mamma and entertained by Henrietta and Rachel , who played and sang for them in the upstairs sitting room on Sunday evenings . 
+	 4.Example sentence: The reception was held in a private dining room of the Webster Hotel on Lincoln Park West . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('show.v.01.show')
+Frequency of Synset('show.v.01'): 203  (give an exhibition of to an interested audience)
+	 1.Example sentence: M + R Dietetic Laboratories , Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe . 
+	 2.Example sentence: She always did before , and showed the utmost confidence in whatever we advised '' . 
+	 3.Example sentence: She held out her hand to show that she had money . 
+	 4.Example sentence: As we stepped out into the sunlight , a man came up to John Cool and silently showed him his hand . 
+
+Frequency of Synset('prove.v.02'): 146  (establish the validity of something, as by an example, explanation or experiment)
+	 1.Example sentence: A century of exploration had established that a great land mass , North and South America , lay between Europe and the Indies . 
+	 2.Example sentence: One could also add to these analogies that steel loses its magnetism by heat , which proves that steel becomes a better conductor through a rise in temperature , just as electrical bodies do . 
+	 3.Example sentence: It is also found that magnetism exists in all bodies of nature , as proven by Bruckmann and Coulomb . 
+	 4.Example sentence: The PM might show he drowned instead , but that 's what the once-over-lightly gives us . 
+
+Frequency of Synset('indicate.v.02'): 103  (indicate a place, direction, person, or thing; either spatially or figuratively)
+	 1.Example sentence: He had to look for other prospects , other motives until more conclusive evidence pointing to Johnston came to light . 
+	 2.Example sentence: The short poems grouped at the end of the volume as `` Thoughts in Loneliness '' is , as Professor Bo ^ o ^ k indicated , in sharp contrast with the others . 
+	 3.Example sentence: He related events on earth to periodic celestial phenomena and indicated that the years of maximum inclination of the ecliptic coincided with the years of important electrical discoveries . 
+	 4.Example sentence: I was careful to keep my feet , the seat of the least worthy spirits , from pointing at anyone 's head , where the worthiest spirits reside . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('determine.v.08.see')
+Frequency of Synset('see.v.01'): 486  (perceive by sight or have the power to perceive by sight)
+	 1.Example sentence: He asked to see a copy of Mrs. Meeker 's will . 
+	 2.Example sentence: He was not the sort of sailor Hudson wanted his backers to see on board and he had Greene wait at Gravesend , where the Discovery picked him up . 
+	 3.Example sentence: On August 3 , two massive headlands reared out of the mists - great gateways never before , so far as Hudson knew , seen by Europeans . 
+	 4.Example sentence: `` I scanned the world through printed symbol swart , And through the beggar 's rags I strove to see The inner man . 
+
+Frequency of Synset('understand.v.02'): 197  (perceive (an idea or situation) mentally)
+	 1.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 2.Example sentence: She 'd have consulted us , you see . 
+	 3.Example sentence: `` I scanned the world through printed symbol swart , And through the beggar 's rags I strove to see The inner man . 
+	 4.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+
+Frequency of Synset('witness.v.02'): 167  (perceive or be contemporaneous with)
+	 1.Example sentence: He finds it in utter misery and desolation . 
+	 2.Example sentence: In 1793 the brothers decided to enter the University of Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session . 
+	 3.Example sentence: This we might well witness '' . 
+	 4.Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it . 
+
+Frequency of Synset('see.v.05'): 191  (deem to be)
+	 1.Example sentence: `` A gift horse to be viewed with suspicion '' . 
+	 2.Example sentence: First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . 
+	 3.Example sentence: National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . 
+	 4.Example sentence: In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . 
+
+Frequency of Synset('learn.v.02'): 162  (get to know or become aware of, usually accidentally)
+	 1.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+	 2.Example sentence: Everyone had heard of the American contractor who had spurned an escort . 
+	 3.Example sentence: But I 'm pleased to hear - '' . 
+	 4.Example sentence: `` How 'd you hear about this one '' ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('bring.v.04.get')
+Frequency of Synset('get.v.01'): 254  (come into the possession of something concrete or abstract)
+	 1.Example sentence: I would tell them I got a letter from home stating that five of my Negroes had run away and ten of Pappies But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' . 
+	 2.Example sentence: They get all the glory and most of the pay and do n't earn ten cents apiece on the average , the drunken rascals '' . 
+	 3.Example sentence: and getting them seemed a life 's work . 
+	 4.Example sentence: What Joyce wanted me to do was go to Thor 's house and `` do whatever detectives do '' , and get her clothes - and handbag containing her identification . 
+
+Frequency of Synset('become.v.01'): 467  (enter or assume a certain state or condition)
+	 1.Example sentence: Even two or three years ago I doubt that she 'd have become involved in this unfortunate Johnston affair . 
+	 2.Example sentence: The theory of international law , which in the nineteenth century became common to virtually all writers in Europe and America , broke this unity and this universality . 
+	 3.Example sentence: Indeed , with developed positivism , the separation of law from justice , or from morality generally , became quite specific . 
+	 4.Example sentence: A Texan wrote to a male companion at home : `` What has become of Halda and Laura ? 
+
+Frequency of Synset('get.v.03'): 144  (cause to move; cause to be in a certain position or condition)
+	 1.Example sentence: Have the insurance company or your own accounting department break down the cost of your insurance package periodically . 
+	 2.Example sentence: An attempt should be made to see if electricity , in its most latent stage , has any action on the magnet as such '' . 
+	 3.Example sentence: The dweller at p is last to hear about a new cure , the slowest to announce to his neighbors his urgent distresses , the one who goes the farthest to trade , and the one with the greatest difficulty of all in putting over an idea or getting people to join him in a cooperative effort . 
+	 4.Example sentence: Really he had Mr. Skyros at bay . 
+
+Frequency of Synset('receive.v.02'): 119  (receive a specified treatment (abstract))
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Humor found many modes of expression . 
+	 3.Example sentence: A smart , shrewd and ambitious young man , well connected , and with a knack for getting in the good graces of important people , he was bound to go far . 
+	 4.Example sentence: `` Sure , sure , you 're the one take over for Pretty , soon as I get the supply , get started up again , is n't it ? 
+
+Frequency of Synset('arrive.v.01'): 302  (reach a destination; arrive by movement or progress)
+	 1.Example sentence: We got to one house where there were five secessionist they brok + run and Arch holored out to shoot the ornery suns of biches and we all let go at them . 
+	 2.Example sentence: The middle-aged man said over and over , `` Why did I come here , why did I come here '' . 
+	 3.Example sentence: The middle-aged man said over and over , `` Why did I come here , why did I come here '' . 
+	 4.Example sentence: The American newspaperman worried about getting to the cable office . 
+
+Frequency of Synset('experience.v.03'): 249  (go through (mental or physical states or experiences))
+	 1.Example sentence: Even Hudson , experienced in Arctic sailing and determined as he was , must have had qualms as he slid down the Thames . 
+	 2.Example sentence: Professor Fredrik Bo ^ o ^ k , Sweden 's foremost critic of the period , acclaims it as follows : `` In this we have the verse of a painter ; strongly colorful , plastic , racy , vivid . 
+	 3.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+	 4.Example sentence: Boun My - the name means one who has a boun , a celebration , and is therefore lucky - was born in Savannakhet , the Border of Paradise . 
+
+Frequency of Synset('induce.v.02'): 122  (cause to do; cause to act in a specified manner)
+	 1.Example sentence: At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . 
+	 2.Example sentence: He devised a detonating fuse in which a short wire was caused to glow by an electric current . 
+	 3.Example sentence: Scarcity of paper caused many Southerners to adopt the practice of cross writing , i. e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . 
+	 4.Example sentence: As luck had it , he had not gone twenty feet in the street before Pat appeared . 
+
+Frequency of Synset('make.v.02'): 423  (give certain properties to something)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Make sure milk for the coffee is placed in dispensers rather than in containers , if you are supplying the coffee . 
+	 3.Example sentence: Make sure you have minimum age and time on the job requirements tied into your pension plan . 
+	 4.Example sentence: Make sure you do n't pay for holidays that occur when an employee would not otherwise be working . 
+
+Frequency of Synset('get_down.v.07'): 436  (take the first step or steps in carrying out an action)
+	 1.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 2.Example sentence: Garth 's glance began to flicker to his watch . 
+	 3.Example sentence: To begin the interview , he asked if Thayer , with more time to think it over , could add to what he had said the other day about Johnston . 
+	 4.Example sentence: The man who now commanded her had started the voyage as an ordinary seaman . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('keep.v.01.keep')
+Frequency of Synset('keep.v.01'): 297  (keep in a certain state, position, or activity; e.g.,)
+	 1.Example sentence: Keep the retirement age flexible so skilled craftsmen such as tool and die makers can be kept on the job for the convenience of the company . 
+	 2.Example sentence: Keep the retirement age flexible so skilled craftsmen such as tool and die makers can be kept on the job for the convenience of the company . 
+	 3.Example sentence: Of course it had always been of European origin in fact , but it had maintained a universal outlook under the natural law theory . 
+	 4.Example sentence: Although they were forced to maintain a sharper watch , this activity enabled them to ride in and rack their broncs without any particular attention being paid them . 
+
+Frequency of Synset('continue.v.01'): 180  (continue a certain state, condition, or activity)
+	 1.Example sentence: Madden knew that he could be completely wrong about all this , but also knew that he would go right on disliking Garth . 
+	 2.Example sentence: Two millions were added to what had been set aside for it in Mrs. Meeker 's lifetime , and the proviso made that as long as Brian Thayer continued to discharge his duties as administrator of the fund to the satisfaction of the board of trustees ( hereinafter appointed by the bank administering the estate ) he was to be retained in his present capacity at a salary commensurate with the increased responsibilities enlargement of the fund would entail . 
+	 3.Example sentence: He went on to personal bequests , a list of names largely unknown to him . 
+	 4.Example sentence: The change was not quite so dramatic as it sounds because in fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('then.r.01.then')
+Frequency of Synset('then.r.01'): 297  (subsequently or soon afterward (often used as sentence connectors))
+	 1.Example sentence: He scooped up the receiver and said , `` Police chief '' , into the mouthpiece , and then , `` Oh yes , Mr. Benson . 
+	 2.Example sentence: Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock . 
+	 3.Example sentence: For the first three weeks , the ship skirted up the east coast of Great Britain , then turned westward . 
+	 4.Example sentence: After finding that its coasts led nowhere , however , he turned north again , toward the main , ice filled passageway - and the crew , at first uneasy , then frightened , rebelled . 
+
+Frequency of Synset('then.r.02'): 104  (in that case or as a consequence)
+	 1.Example sentence: If Arthur Williams was involved in the fraud or the murder , then he too had another identity . 
+	 2.Example sentence: The change was not quite so dramatic as it sounds because in fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations . 
+	 3.Example sentence: If economic integration really shapes congregational life , then evangelism should be a process of extending economic integration . 
+	 4.Example sentence: If we add to these contacts with friendly members the `` contacts with an organization of the church '' ( 11.2 per cent of the cases ) , then a substantial two thirds of all recruitment is through friendly contact . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('hear.v.04.hear')
+Frequency of Synset('hear.v.01'): 226  (perceive (sound) via the auditory sense)
+	 1.Example sentence: Amid the crackle of small arms and automatic weapons , I heard the thumping of mortars . 
+	 2.Example sentence: As I went out , I could hear water pouring in the shower . 
+	 3.Example sentence: He heard cries from behind him , but he could make out no words . 
+	 4.Example sentence: This is an unsolved problem which probably has never been seriously investigated , although one frequently hears the comment that we have insufficient specialists of the kind who can compete with the Germans or Swiss , for example , in precision machinery and mathematics , or the Finns in geochemistry . 
+
+Frequency of Synset('learn.v.02'): 162  (get to know or become aware of, usually accidentally)
+	 1.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+	 2.Example sentence: Everyone had heard of the American contractor who had spurned an escort . 
+	 3.Example sentence: But I 'm pleased to hear - '' . 
+	 4.Example sentence: `` How 'd you hear about this one '' ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('look.v.01.look')
+Frequency of Synset('look.v.01'): 217  (perceive with attention; direct one's gaze towards)
+	 1.Example sentence: Pauling looked at his notes . 
+	 2.Example sentence: I looked at my watch . 
+	 3.Example sentence: Actually , only two men know what the formula is , Blake and '' - He stopped and looked at Thor 's body . 
+	 4.Example sentence: Looking the setup over , Stevens started coolly for the rear of the place . 
+
+Frequency of Synset('look.v.02'): 736  (give a certain impression or have a certain outward aspect)
+	 1.Example sentence: At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' . 
+	 2.Example sentence: But he did n't play golf , did n't seem to belong to any local clubs - his work took him away a lot , of course - which probably accounted for his tendency to keep to himself . 
+	 3.Example sentence: For he seemed to sense at once that before him was no South Sea , but the solid bulk of the North American continent . 
+	 4.Example sentence: This was the bitter end , and Hudson seemed to know he was destined to failure . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('direction.n.01.way')
+Frequency of Synset('manner.n.01'): 231  (how something is done or how it happens)
+	 1.Example sentence: This will mean that every time there 's an increase in hospital rates your cost will go up in like manner . 
+	 2.Example sentence: Youngish man on the make , Madden labeled him , and was ready to guess that in a correct , not too pushing fashion , the junior partner of the firm had political ambitions ; that Mrs. Garth would be impeccably suitable as the wife of a rising young lawyer ; that there were three children , two boys and a girl ; that she was active in the Woman 's Club and he in Lions , Rotary , and Jaycee ; and finally , that neither of them had harbored an unorthodox opinion since their wedding day . 
+	 3.Example sentence: For all her domineering ways , I can n't conceive of her having had a deadly enemy '' . 
+	 4.Example sentence: There were other shifts and pay cuts according to the way individuals had conducted themselves . 
+
+Frequency of Synset('means.n.01'): 105  (how a result is obtained or an end is achieved)
+	 1.Example sentence: The efforts of various interest groups to control or influence governmental decisions , particularly when taken in conjunction with the impact of industrialization , led to a concentration of attention on the legislative power and the means whereby policy could be formulated and enforced as law through bureaucratic institutions . 
+	 2.Example sentence: This means that the antennae of the congregation are extended into the community , picking up the wave lengths of those who will fit into the social and economic level of the congregation ; the mission of the church is actually a process of informal co-optation ; the lay ministry is a means to recruit like-minded people who will strengthen the social class nucleus of the congregation . 
+	 3.Example sentence: Such an interferometer provides a means of absolute temperature measurement , and may be used as an alternative to the gas thermometer . 
+	 4.Example sentence: In March , 1961 , representatives of the national laboratories of Australia , Canada , The Netherlands , United Kingdom , U. S. S. R. , United States , and West Germany , met at the NBS to devise means for reaching international agreement on a temperature scale between 10 and 90 * * f . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('come.v.04.come')
+Frequency of Synset('come.v.01'): 202  (move toward, travel toward something or somebody or approach something or somebody)
+	 1.Example sentence: The great , crushing ice masses coming into view made him sound like the voice of pure reason . 
+	 2.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+	 3.Example sentence: Now a distinguished old man called on nine divinities to come and join us . 
+	 4.Example sentence: Leaving the card room , they moved back through the Palace the way they had come . 
+
+Frequency of Synset('arrive.v.01'): 302  (reach a destination; arrive by movement or progress)
+	 1.Example sentence: We got to one house where there were five secessionist they brok + run and Arch holored out to shoot the ornery suns of biches and we all let go at them . 
+	 2.Example sentence: The middle-aged man said over and over , `` Why did I come here , why did I come here '' . 
+	 3.Example sentence: The middle-aged man said over and over , `` Why did I come here , why did I come here '' . 
+	 4.Example sentence: The American newspaperman worried about getting to the cable office . 
+
+Frequency of Synset('come.v.03'): 130  (come to pass; arrive, as in due course)
+	 1.Example sentence: He skimmed over the millions that went to Meeker Park , Medfield Hospital , the civic center , the Public Health Nursing Association , the library , and so on , pausing when he came to the scholarship fund . 
+	 2.Example sentence: Before the airplanes came , he said , travel in Laos was just about impossible . 
+	 3.Example sentence: Two minutes later it came again - a double explosion , followed by a third , sounding more distant . 
+	 4.Example sentence: Will his words come to be treasured and quoted through the years ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('ask.v.02.ask')
+Frequency of Synset('ask.v.01'): 243  (inquire about)
+	 1.Example sentence: Madden inquired next about the audit of the scholarship fund . 
+	 2.Example sentence: To begin the interview , he asked if Thayer , with more time to think it over , could add to what he had said the other day about Johnston . 
+	 3.Example sentence: `` We ask the people what they want , and they supply the labor . 
+	 4.Example sentence: Ask Mr. Keo '' . 
+
+Frequency of Synset('ask.v.02'): 162  (make a request or demand for something to somebody)
+	 1.Example sentence: Then he asked to use the phone and called Brian Thayer , who said that he was just leaving to keep a lunch date but would be home by two o ' clock . 
+	 2.Example sentence: He asked to see a copy of Mrs. Meeker 's will . 
+	 3.Example sentence: All his people ask for is no more war . 
+	 4.Example sentence: Joyce went on , `` When we 'd finished , Lou - Mr. Thor - asked me to stay a little longer . 
+
+Frequency of Synset('necessitate.v.01'): 320  (require as useful, just, or proper)
+	 1.Example sentence: Which is more economical for your plant - a vacation shutdown or spaced vacations that require extra employees for vacation fill-ins ? 
+	 2.Example sentence: The whole thing , his manner conveyed , was so far outside the normal routine of Hohlbein and Garth that it practically demanded being swept under the rug . 
+	 3.Example sentence: On the one hand , the major European nations had to maintain vis-a-vis each other an emphasis upon sovereignty , independence , formal equality - thus insuring for themselves individually an optimal freedom of action to maintain the `` flexibility of alignment '' that the system required and to avoid anything approaching a repetition of the disastrous Napoleonic experience . 
+	 4.Example sentence: The theory did not require , though it unfortunately might acquire , a Hegelian mystique . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('continue.v.01.go_on')
+Frequency of Synset('continue.v.01'): 180  (continue a certain state, condition, or activity)
+	 1.Example sentence: Madden knew that he could be completely wrong about all this , but also knew that he would go right on disliking Garth . 
+	 2.Example sentence: Two millions were added to what had been set aside for it in Mrs. Meeker 's lifetime , and the proviso made that as long as Brian Thayer continued to discharge his duties as administrator of the fund to the satisfaction of the board of trustees ( hereinafter appointed by the bank administering the estate ) he was to be retained in his present capacity at a salary commensurate with the increased responsibilities enlargement of the fund would entail . 
+	 3.Example sentence: He went on to personal bequests , a list of names largely unknown to him . 
+	 4.Example sentence: The change was not quite so dramatic as it sounds because in fact common norms continued to be invoked by municipal courts and were only gradually changed by legislation , and then largely in marginal situations . 
+
+Frequency of Synset('happen.v.01'): 227  (come to pass)
+	 1.Example sentence: Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it . 
+	 2.Example sentence: Hudson 's first error of the fourth voyage occurred only a few miles down the Thames . 
+	 3.Example sentence: National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred . 
+	 4.Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('still.r.01.still')
+Frequency of Synset('still.r.01'): 214  (with reference to action or condition; without change, interruption, or cessation)
+	 1.Example sentence: Twenty-five thousand to each of the great-nieces in Oregon ( not much to blood relatives out of millions ) ten thousand to this friend and that , five thousand to another ; to Brian Thayer , the sum of ten thousand dollars ; to the Pecks , ten thousand each ; to Joan Sheldon the conditional bequest of ten thousand to be paid to her in the event that she was still in Mrs. Meeker 's employ at the time of the latter 's death . 
+	 2.Example sentence: It 's still unbelievable that it was murder . 
+	 3.Example sentence: Each is still glorified as a national hero . 
+	 4.Example sentence: The sequence of events leading to his important discovery still remains ambiguous but it seems that one of the advanced students at the university related that the first direct event that led to the publication of Oersted 's discovery occurred during a private lecture made before a group of other advanced students in the spring of 1820 . 
+
+Frequency of Synset('however.r.01'): 205  (despite anything to the contrary (usually following a concession))
+	 1.Example sentence: Even so , Madden 's dislike of the suave , correct lawyer deepened . 
+	 2.Example sentence: Nevertheless , he made a mental note to look into Garth 's financial background . 
+	 3.Example sentence: However , the sovereign was not Hobbes ' absolute monarch but rather the parliamentary sovereign of Austin . 
+	 4.Example sentence: However , he continued experimenting and lecturing , publishing the results of his experiments in German and Danish periodicals . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('think.v.03.think')
+Frequency of Synset('think.v.01'): 279  (judge or regard; look upon; judge)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: An Alabama soldier whose feminine associations were of the more admirable type wrote boastfully of his achievements among the Virginia belles : `` They thout I was a saint . 
+	 3.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+	 4.Example sentence: Their product had been endorsed by Good Housekeeping , the A. M. A. , and the Veterinary Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe . 
+
+Frequency of Synset('think.v.02'): 228  (expect, believe, or suppose)
+	 1.Example sentence: Done by a professional decorator , Madden thought , and somehow as impersonal , as unremarkable as its occupant . 
+	 2.Example sentence: It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy . 
+	 3.Example sentence: I would tell them I got a letter from home stating that five of my Negroes had run away and ten of Pappies But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' . 
+	 4.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+
+Frequency of Synset('think.v.03'): 105  (use or exercise the mind or one's power of reason in order to make inferences, decisions, or arrive at a solution or judgments)
+	 1.Example sentence: Too bad , Madden thought . 
+	 2.Example sentence: Assuredly in our political campaigns there is freedom to think , to examine any and all issues , and to speak without restraint . 
+	 3.Example sentence: Also , he thought , I doubt if she could hit the side of a barn with a shotgun . 
+	 4.Example sentence: They want to be fat cats , Pam thought , and lighted a cigarette and leaned back on a chaise and considered pulling her thoughts together . 
+
+Frequency of Synset('remember.v.01'): 144  (recall knowledge from memory; have a recollection)
+	 1.Example sentence: It was a disturbingly familiar face , too , but I could n't remember where we had met . 
+	 2.Example sentence: `` No , I remembered reading about you in the papers and that you lived here , and when it happened all I could think of was - '' . 
+	 3.Example sentence: The keys were still in it , and I was miles away before I remembered that my clothes and purse and everything were still in the little cabana where I 'd changed '' . 
+	 4.Example sentence: The expense of this type of organization in religious life , when one recalls the number of city churches which deteriorated beyond repair before being abandoned , raises fundamental questions about the principle of Protestant survival in a mobile society ; nonetheless , the prevalence of economic integration in congregations illumines the nature of the Protestant development . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('find.v.05.feel')
+Frequency of Synset('feel.v.01'): 150  (undergo an emotional sensation or be in a particular state of mind)
+	 1.Example sentence: No doubt Mrs. Meeker had snubbed him many a time and he felt no grief over her passing . 
+	 2.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+	 3.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+	 4.Example sentence: After he had been away from home about a year he wrote : `` [ Dear Wife ] If I did not write and receive letters from you I believe that I would forgit that I was married I do n't feel much like a maryed man but I never forgit it sofar as to court enny other lady but if I should you must forgive me as I am so forgitful '' . 
+
+Frequency of Synset('find.v.05'): 185  (come to believe on the basis of emotion, intuitions, or indefinite grounds)
+	 1.Example sentence: Some companies find a little imagination helpful . 
+	 2.Example sentence: Arthur Williams 's might well have been included , he felt . 
+	 3.Example sentence: By that , one feels that magnetic forces are as general as electrical forces . 
+	 4.Example sentence: Women themselves have come to look upon matters in the same light as the outside world , and scarcely find any wrong in submitting to the importunities of a stronger will , even when their affections are withheld . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('tell.v.07.tell')
+Frequency of Synset('state.v.01'): 1947  (express in words)
+	 1.Example sentence: `` That damn door '' , said the police chief . 
+	 2.Example sentence: He scooped up the receiver and said , `` Police chief '' , into the mouthpiece , and then , `` Oh yes , Mr. Benson . 
+	 3.Example sentence: With his free hand he pulled a pad and pencil toward him and began to make notes as he listened , saying , `` Uh-huh '' and `` I see '' at intervals . 
+	 4.Example sentence: At last he said , `` Well , thank you for calling , Mr. Benson . 
+
+Frequency of Synset('tell.v.02'): 172  (let something be known)
+	 1.Example sentence: He said that he had already told the police chief that he did n't know what insurance man had recommended Johnston to Mrs. Meeker . 
+	 2.Example sentence: We were told that to the Pathet Lao , a kidnaped American was worth at least $ 750 , a fortune in Laos . 
+	 3.Example sentence: `` I really do have something important to tell you , Mr. Scott . 
+	 4.Example sentence: `` Tell me about the murder '' . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('happen.v.02.happen')
+Frequency of Synset('happen.v.01'): 227  (come to pass)
+	 1.Example sentence: Garth was prepared to be helpful in what he referred to with fastidious distaste as this unfortunate Johnston affair , which would not , he said more than once , have ever come about if Mrs. Meeker had only seen fit to consult Mr. Hohlbein or him about it . 
+	 2.Example sentence: Hudson 's first error of the fourth voyage occurred only a few miles down the Thames . 
+	 3.Example sentence: National identification was not new , but it was accelerating in intensity and scope throughout Europe as new unifications occurred . 
+	 4.Example sentence: Ritter died in 1810 and Oersted not only lived to see the event occur but was the author of it . 
+
+Frequency of Synset('find.v.01'): 165  (come upon, as if by accident; meet with)
+	 1.Example sentence: For hundreds of years , the evidence available consisted of ( 1 ) the captain 's fragmentary journal , ( 2 ) a highly prejudiced account by one of the survivors , ( 3 ) a note found in a dead man 's desk on board , and ( 4 ) several second-hand reports . 
+	 2.Example sentence: But since 1927 , researchers digging into ancient court records and legal files have been able to find illuminating pieces of information . 
+	 3.Example sentence: What he really wants is to find `` a sacred cause '' to which he can honestly devote himself . 
+	 4.Example sentence: From this time on Heidenstam proceeded to find his deeper self . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('think.v.01.believe')
+Frequency of Synset('believe.v.01'): 109  (accept as true; take to be true)
+	 1.Example sentence: It is believed that Hudson was related to other seafaring men of the Muscovy Company and was trained on company ships . 
+	 2.Example sentence: I told them some sweet lies and they believed it all . 
+	 3.Example sentence: It is not a medieval mental quirk or an attitude `` unnourished by sense '' to believe that husbands and wives should not be subjected to such a risk , or that such a possibility should not be permitted to endanger the confidentiality of the marriage relationship . 
+	 4.Example sentence: They seem to believe that a person will act automatically as soon as he contacts something new . 
+
+Frequency of Synset('think.v.01'): 279  (judge or regard; look upon; judge)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: An Alabama soldier whose feminine associations were of the more admirable type wrote boastfully of his achievements among the Virginia belles : `` They thout I was a saint . 
+	 3.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+	 4.Example sentence: Their product had been endorsed by Good Housekeeping , the A. M. A. , and the Veterinary Journal , among other repositories of higher wisdom , and before much longer if you did n't have a cake of their soap in the john , even your best friends would think you did n't bathe . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('determine.v.01.determine')
+Frequency of Synset('determine.v.01'): 167  (establish after a calculation, investigation, experiment, survey, or study)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: This is the story of his last tragic voyage , as nearly as we are able - or ever , probably , will be able - to determine : 
+	 3.Example sentence: After finding that its coasts led nowhere , however , he turned north again , toward the main , ice filled passageway - and the crew , at first uneasy , then frightened , rebelled . 
+	 4.Example sentence: No longer did the sovereign look to the law of nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action . 
+
+Frequency of Synset('decide.v.01'): 130  (reach, make, or come to a decision about something)
+	 1.Example sentence: It would be all right with him , he decided , if his investigation of the fraud , with its probable by-product of murder , led to Garth 's door . 
+	 2.Example sentence: Instead of quelling the dissension , as many captains of the era would have done ( Sir Francis Drake lopped a man 's head off under similar circumstances ) , Hudson decided to be reasonable . 
+	 3.Example sentence: Deciding to become a painter , he entered the studio of Gerome in Paris , where he enjoyed the life of the artists , but soon found that whatever talent he might have did not lie in that direction . 
+	 4.Example sentence: In 1793 the brothers decided to enter the University of Copenhagen ( founded in 1479 ) and the following spring found them at the university preparing to matriculate for the autumn session . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('turn.v.01.turn')
+Frequency of Synset('turn.v.01'): 134  (change orientation or direction, also in the abstract sense)
+	 1.Example sentence: This time he turned westward , to the middle Atlantic coast of North America . 
+	 2.Example sentence: In 1602 , George Waymouth , in the same little Discovery that Hudson now commanded , had sailed 300 miles up the strait before his frightened men turned the ship back . 
+	 3.Example sentence: For the first three weeks , the ship skirted up the east coast of Great Britain , then turned westward . 
+	 4.Example sentence: As the bergs grew larger , Hudson was forced to turn south into what is now Ungava Bay , an inlet of the great strait . 
+
+Frequency of Synset('become.v.02'): 215  (undergo a change or development)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: The important result , however , was that Juet and Francis Clemens , the deposed boatswain , became Hudson 's sworn enemies . 
+	 3.Example sentence: In the century from 1815 to 1914 the law of nations became international law . 
+	 4.Example sentence: The European customs on which international law was based were to become , by force and fiat , the customs that others were to accept as law if they were to join this community as sovereign states . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('obtain.v.01.obtain')
+Frequency of Synset('obtain.v.01'): 115  (come into possession of)
+	 1.Example sentence: He had obtained and provisioned a veteran ship called the Discovery and had recruited a crew of twenty-one , the largest he had ever commanded . 
+	 2.Example sentence: This is used as a reference for comparing the ohmic heating and the electrical energy obtained from the measured current through the element and the measured voltage across the element . 
+	 3.Example sentence: Using Edgerton 's method , the fast closing action is obtained from the blackening of a window by exploding a series of parallel lead wires . 
+	 4.Example sentence: The opening action is obtained when a capacitor , charged to high voltage , is suddenly discharged through the foil . 
+
+Frequency of Synset('receive.v.02'): 119  (receive a specified treatment (abstract))
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Humor found many modes of expression . 
+	 3.Example sentence: A smart , shrewd and ambitious young man , well connected , and with a knack for getting in the good graces of important people , he was bound to go far . 
+	 4.Example sentence: `` Sure , sure , you 're the one take over for Pretty , soon as I get the supply , get started up again , is n't it ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('hold.v.03.hold')
+Frequency of Synset('keep.v.01'): 297  (keep in a certain state, position, or activity; e.g.,)
+	 1.Example sentence: Keep the retirement age flexible so skilled craftsmen such as tool and die makers can be kept on the job for the convenience of the company . 
+	 2.Example sentence: Keep the retirement age flexible so skilled craftsmen such as tool and die makers can be kept on the job for the convenience of the company . 
+	 3.Example sentence: Of course it had always been of European origin in fact , but it had maintained a universal outlook under the natural law theory . 
+	 4.Example sentence: Although they were forced to maintain a sharper watch , this activity enabled them to ride in and rack their broncs without any particular attention being paid them . 
+
+Frequency of Synset('hold.v.03'): 119  (organize or be responsible for)
+	 1.Example sentence: The trial was held September 10 . 
+	 2.Example sentence: We have 2500 such projects , and they add up to a lot more than just roads and wells and schools . 
+	 3.Example sentence: In the following year her father undertook to give a course in Hebrew theology to Johns Hopkins students , and this brought to the Szold house a group of bright young Jews who had come to Baltimore to study , and who enjoyed being fed and mothered by Mamma and entertained by Henrietta and Rachel , who played and sang for them in the upstairs sitting room on Sunday evenings . 
+	 4.Example sentence: The reception was held in a private dining room of the Webster Hotel on Lincoln Park West . 
+
+Frequency of Synset('have.v.01'): 1192  (have or possess, either in a concrete or an abstract sense)
+	 1.Example sentence: When negotiating with your union , do you make sure employees have a choice between new benefits and their cents per hour cost in wages . 
+	 2.Example sentence: Have you investigated the possibility of moving midweek holidays forward to Monday or back to Friday in order to have an uninterrupted work week ? 
+	 3.Example sentence: If you have a full-time doctor now , can he be replaced with a part-time doctor or one who serves on a fee per case basis only ? 
+	 4.Example sentence: If you have an annual or regular physical examination program , is it worth what it is costing you ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('state.n.04.state')
+Frequency of Synset('state.n.01'): 112  (the territory occupied by one of the constituent administrative districts of a nation)
+	 1.Example sentence: New England academies welcome fugitives from the provinces , South as well as West . 
+	 2.Example sentence: Is n't it a bit odd that the three states of Southern New England ( Massachusetts , Connecticut , and Rhode Island ) have had state institutions of university status only in the very recent past , these institutions having previously been A + M colleges ? 
+	 3.Example sentence: Is n't it a bit odd that the three states of Southern New England ( Massachusetts , Connecticut , and Rhode Island ) have had state institutions of university status only in the very recent past , these institutions having previously been A + M colleges ? 
+	 4.Example sentence: Is it not ironical that Roger Williams 's state , Rhode Island , should have been the very last of the forty-eight to establish a state university ? 
+
+Frequency of Synset('state.n.04'): 122  (a politically organized body of people under a single government)
+	 1.Example sentence: Here in 1815 the great nations assembled to legislate not merely for Europe , but for the world . 
+	 2.Example sentence: Essentially this imposed two conditions : First , international law had to recognize and be compatible with an international political system in which a number of states were competitive , suspicious , and opportunistic in their political alignments with one another ; second , it had to be compatible with the value system that they shared . 
+	 3.Example sentence: Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . 
+	 4.Example sentence: Thus , theory and doctrine applicable among the great nations and the smaller European states did not really comfortably fit less developed and less powerful societies elsewhere . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('receive.v.01.receive')
+Frequency of Synset('receive.v.01'): 127  (get something; come into possession of)
+	 1.Example sentence: Of these there are surely few that would be more rewarding discoveries than Verner von Heidenstam , the Swedish poet and novelist who received the award in 1916 and whose centennial was celebrated two years ago . 
+	 2.Example sentence: In this final line , we have the key to his nature . 
+	 3.Example sentence: Still another , annoyed by the brevity of a recently received missive , wrote : `` Yore letter was short and sweet , jist like a roasted maget '' . 
+	 4.Example sentence: After he had been away from home about a year he wrote : `` [ Dear Wife ] If I did not write and receive letters from you I believe that I would forgit that I was married I do n't feel much like a maryed man but I never forgit it sofar as to court enny other lady but if I should you must forgive me as I am so forgitful '' . 
+
+Frequency of Synset('receive.v.02'): 119  (receive a specified treatment (abstract))
+	 1.Example sentence: And with the shutdown method there will be no argument as to who gets the choice vacation dates . 
+	 2.Example sentence: Humor found many modes of expression . 
+	 3.Example sentence: A smart , shrewd and ambitious young man , well connected , and with a knack for getting in the good graces of important people , he was bound to go far . 
+	 4.Example sentence: `` Sure , sure , you 're the one take over for Pretty , soon as I get the supply , get started up again , is n't it ? 
+
+Frequency of Synset('experience.v.03'): 249  (go through (mental or physical states or experiences))
+	 1.Example sentence: Even Hudson , experienced in Arctic sailing and determined as he was , must have had qualms as he slid down the Thames . 
+	 2.Example sentence: Professor Fredrik Bo ^ o ^ k , Sweden 's foremost critic of the period , acclaims it as follows : `` In this we have the verse of a painter ; strongly colorful , plastic , racy , vivid . 
+	 3.Example sentence: In a bold , sometimes careless , form there is nothing academic ; all is seen and felt and experienced , the observation is sharp and the imagination lively . 
+	 4.Example sentence: Boun My - the name means one who has a boun , a celebration , and is therefore lucky - was born in Savannakhet , the Border of Paradise . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('calculate.v.02.reckon')
+Frequency of Synset('think.v.02'): 228  (expect, believe, or suppose)
+	 1.Example sentence: Done by a professional decorator , Madden thought , and somehow as impersonal , as unremarkable as its occupant . 
+	 2.Example sentence: It is true that , initially , the task was to remove restrictions that , it was thought , inhibited the free flow of money , goods , and labor ; but even laissez-faire was a conscious policy . 
+	 3.Example sentence: I would tell them I got a letter from home stating that five of my Negroes had run away and ten of Pappies But I wold say I recond he did not mind it for he had a plenty more left and then they would lean to me like a sore eyd kitten to a basin of milk '' . 
+	 4.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+
+Frequency of Synset('see.v.05'): 191  (deem to be)
+	 1.Example sentence: `` A gift horse to be viewed with suspicion '' . 
+	 2.Example sentence: First , and most obvious , was the growing nationalism and the tendency to regard the state , and the individual 's identification with the state , as transcending other ties of social solidarity . 
+	 3.Example sentence: National identification was reflected jurisprudentially in law theories which incorporated this Hegelian abstraction and saw law , domestic and international , simply as its formal reflection . 
+	 4.Example sentence: In municipal systems we tend to view what is called positivism as fundamentally a movement to democratize policy by increasing the power of parliament - the elected representatives - at the expense of the more conservative judiciary . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('discover.v.03.discover')
+Frequency of Synset('detect.v.01'): 230  (discover or determine the existence, presence, or fact of)
+	 1.Example sentence: You may find certain coverage costing much more than is economically feasible , thereby alerting you to desirable revisions . 
+	 2.Example sentence: `` Well , with a house as big as that there must be at least one cellar window that would n't be noticed right away unless there was a police investigation '' . 
+	 3.Example sentence: Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities . 
+	 4.Example sentence: `` Mr. Hohlbein and I have noticed some lapses since , though . 
+
+Frequency of Synset('learn.v.02'): 162  (get to know or become aware of, usually accidentally)
+	 1.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+	 2.Example sentence: Everyone had heard of the American contractor who had spurned an escort . 
+	 3.Example sentence: But I 'm pleased to hear - '' . 
+	 4.Example sentence: `` How 'd you hear about this one '' ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('detect.v.01.observe')
+Frequency of Synset('detect.v.01'): 230  (discover or determine the existence, presence, or fact of)
+	 1.Example sentence: You may find certain coverage costing much more than is economically feasible , thereby alerting you to desirable revisions . 
+	 2.Example sentence: `` Well , with a house as big as that there must be at least one cellar window that would n't be noticed right away unless there was a police investigation '' . 
+	 3.Example sentence: Scrapings from the bed linen identical with the lint and thread found in the nasal and oral cavities . 
+	 4.Example sentence: `` Mr. Hohlbein and I have noticed some lapses since , though . 
+
+Frequency of Synset('note.v.01'): 103  (make mention of)
+	 1.Example sentence: `` Fairly recent '' , he remarked . 
+	 2.Example sentence: At the time the will was drawn Mr. Hohlbein mentioned to me how mentally alert she seemed for her age , knowing just what changes she wanted made and so forth '' . 
+	 3.Example sentence: Nearly twenty-five years before , Captain John Davis had noted , as he sailed near the Arctic Circle , `` a very great gulf , the water whirling and roaring , as it were the meeting of tides '' . 
+	 4.Example sentence: One man remarked that if he had a hundred pounds , he would give ninety of them to be back in England . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('induce.v.02.cause')
+Frequency of Synset('cause.v.01'): 194  (give rise to; cause to happen or occur, not always intentionally)
+	 1.Example sentence: Law became a conscious process , something more than simply doing justice and looking to local customs and a common morality for applicable norms . 
+	 2.Example sentence: It was with the assistance of one of the members of this expedition , Lauritz Esmarch , that Oersted succeeded in producing light by creating an electric discharge in mercury vapor through which an electric current was made to flow . 
+	 3.Example sentence: This damage had been done in the battle of Vientiane , fought less than three months earlier when four successive governments had ruled here in three days ( December 9 - 11 , 1960 ) . 
+	 4.Example sentence: If Mr. Skyros had dreamed of all the trouble that young man would eventually cause - 
+
+Frequency of Synset('induce.v.02'): 122  (cause to do; cause to act in a specified manner)
+	 1.Example sentence: At 12 , Hans was sufficiently mature to help his father in the apothecary shop , which helped stimulate his interest in medicine and science . 
+	 2.Example sentence: He devised a detonating fuse in which a short wire was caused to glow by an electric current . 
+	 3.Example sentence: Scarcity of paper caused many Southerners to adopt the practice of cross writing , i. e. , after writing from left to right of the page in the usual manner , they gave the sheet a half turn and wrote from end to end across the lines previously written . 
+	 4.Example sentence: As luck had it , he had not gone twenty feet in the street before Pat appeared . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('perform.v.01.perform')
+Frequency of Synset('perform.v.01'): 196  (carry out or perform an action)
+	 1.Example sentence: Early in the war it was not uncommon for planters ' sons to retain in camp Negro `` body servants '' to perform the menial chores such as cooking , foraging , cleaning the quarters , shining shoes , and laundering clothes . 
+	 2.Example sentence: `` That 's the last one we did . 
+	 3.Example sentence: My lovely caller - Joyce Holland was her name - had previously done three filmed commercials for ZING , and this evening , the fourth , a super production , had been filmed at the home of Louis Thor . 
+	 4.Example sentence: What Joyce wanted me to do was go to Thor 's house and `` do whatever detectives do '' , and get her clothes - and handbag containing her identification . 
+
+Frequency of Synset('do.v.03'): 125  (get (something) done)
+	 1.Example sentence: Together they had probably done more than any other men to help push Laos toward the 20 th century - constructively . 
+	 2.Example sentence: `` I 've done several filmed commercials for - '' . 
+	 3.Example sentence: `` It depends on who does it . 
+	 4.Example sentence: Upon administrative approval of the reclassification , he was ordered to report for induction on June 11 , 1956 , but failed to do so . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('determine.v.08.find_out')
+Frequency of Synset('determine.v.01'): 167  (establish after a calculation, investigation, experiment, survey, or study)
+	 1.Example sentence: Second , they believed it important to determine the fate of the captain - a man whose name is permanently stamped on our maps , on American towns and counties , on a great American river , and on half a million square miles of Arctic seas . 
+	 2.Example sentence: This is the story of his last tragic voyage , as nearly as we are able - or ever , probably , will be able - to determine : 
+	 3.Example sentence: After finding that its coasts led nowhere , however , he turned north again , toward the main , ice filled passageway - and the crew , at first uneasy , then frightened , rebelled . 
+	 4.Example sentence: No longer did the sovereign look to the law of nations to determine what he ought to do ; his search was merely for rules that might limit his freedom of action . 
+
+Frequency of Synset('learn.v.02'): 162  (get to know or become aware of, usually accidentally)
+	 1.Example sentence: An Ohio soldier who , from a comrade just returned from leave , received an unfavorable comment on the conduct of his sister , took pen in hand and delivered himself thus : `` [ Dear Sis ] Alf sed he heard that you and hardy was a runing together all the time and he though he wod gust quit having any thing mor to doo with you for he thought it was no more yuse . 
+	 2.Example sentence: Everyone had heard of the American contractor who had spurned an escort . 
+	 3.Example sentence: But I 'm pleased to hear - '' . 
+	 4.Example sentence: `` How 'd you hear about this one '' ? 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('let.v.01.allow')
+Frequency of Synset('let.v.01'): 309  (make it possible through a specific action or lack of action for something to happen)
+	 1.Example sentence: Have you permitted it to become a giveaway program rather than one that has the goal of improved employee morale and , consequently , increased productivity ? 
+	 2.Example sentence: If coffee is sold at the cafeteria , let a few workers in each department get it for the whole group . 
+	 3.Example sentence: In the following sketch we shall present a brief outline of his life and let him as much as possible speak for himself . 
+	 4.Example sentence: I think you made a dam good chouise to turn off as nise a feler as Alf dyer and let that orney thefin , drunkard , damed card playing Sun of a bich com to Sea you , the god damed theaf and lop yeard pigen tode helion , he is too orney for hel . 
+
+Frequency of Synset('permit.v.01'): 103  (consent to, give permission)
+	 1.Example sentence: He claims that he was denied due process of law in violation of the Fifth Amendment , because ( 1 ) at a hearing before a hearing officer of the Department of Justice , he was not permitted to rebut statements attributed to him by the local board , and ( 2 ) at the trial , he was denied the right to have the hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim . 
+	 2.Example sentence: He says that he was not permitted to rebut before the hearing officer statements attributed to him by the local board , and , further , that he was denied at trial the right to have the Department of Justice hearing officer 's report and the original report of the Federal Bureau of Investigation as to his claim - all in violation of the Fifth Amendment . 
+	 3.Example sentence: All four types of message listed in Table 1 are permitted , although decorum and cocktail tradition require holding the commands to a minimum , while exclamations having complimentary intonations are more than customarily encouraged . 
+	 4.Example sentence: No questions , statements , or explanations are permitted - only commands . 
+
+
+-----------------------------------------
+Wordnet Lemma: Lemma('prove.v.02.demonstrate')
+Frequency of Synset('show.v.01'): 203  (give an exhibition of to an interested audience)
+	 1.Example sentence: M + R Dietetic Laboratories , Inc. , Columbus , gives all its workers a facsimile checkbook - each check showing the amount the company spends on a particular fringe . 
+	 2.Example sentence: She always did before , and showed the utmost confidence in whatever we advised '' . 
+	 3.Example sentence: She held out her hand to show that she had money . 
+	 4.Example sentence: As we stepped out into the sunlight , a man came up to John Cool and silently showed him his hand . 
+
+Frequency of Synset('prove.v.02'): 146  (establish the validity of something, as by an example, explanation or experiment)
+	 1.Example sentence: A century of exploration had established that a great land mass , North and South America , lay between Europe and the Indies . 
+	 2.Example sentence: One could also add to these analogies that steel loses its magnetism by heat , which proves that steel becomes a better conductor through a rise in temperature , just as electrical bodies do . 
+	 3.Example sentence: It is also found that magnetism exists in all bodies of nature , as proven by Bruckmann and Coulomb . 
+	 4.Example sentence: The PM might show he drowned instead , but that 's what the once-over-lightly gives us . 
+
