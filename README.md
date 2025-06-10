@@ -30,8 +30,6 @@ Given a target lemma, we use its training examples to compute sense-level centro
 
 ## 📚 Citation
 
-If you use **R3ST** in your research, please cite our paper:
-
 ### BibTeX
 
 ```bibtex
