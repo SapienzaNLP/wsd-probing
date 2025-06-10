@@ -18,8 +18,6 @@ the WSD task that attains robust performance while significantly reducing the ca
 In this paper, we evaluate several encoder-only pre-trained language models across two popular inventories (i.e. WordNet and the Oxford Dictionary of English) by analyzing their ability to separate word senses without any task-specific fine-tuning. We compute centroids of word senses and measure similarity to assess performance across different layers.
 
 ### ⚠️ The Oxford Dictionary of English is a private corpus, therefore we cannot publicly release any data. If you have the access to it, add the files to the directory /data ⚠️
-# Description
-
 
 ## 🧠 Methodology
 Given a target lemma, we use its training examples to compute sense-level centroids by means of a frozen transformer encoder M. Then, for disambiguating a test instance, we select the sense associated with the centroid that maximizes the cosine similarity score. Note that, for the sake of visualization, we focus only on the first two senses of bank#NOUN in this example.
