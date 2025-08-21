@@ -31,5 +31,11 @@ Given a target lemma, we use its training examples to compute sense-level centro
 ### BibTeX
 
 ```bibtex
-
+@inproceedings{teglia2025much,
+  title={How Much Do Encoder Models Know About Word Senses?},
+  author={Teglia, Simone and Tedeschi, Simone and Navigli, Roberto},
+  booktitle={Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)},
+  pages={2266--2277},
+  year={2025}
+}
 ```
